@@ -20,7 +20,7 @@ feature:
     icon: r-project
     icon_pack: fab
     name: Research
-  - description: 25%
+  - description: 50%
     icon: chart-line
     icon_pack: fas
     name: Study
@@ -31,7 +31,7 @@ feature:
   - icon: ":smile:"
     icon_pack: "emoji"
     name: "Smile"
-    description: "100%"
+    description: "99%"
     
     
 # Uncomment to use emoji icons.
