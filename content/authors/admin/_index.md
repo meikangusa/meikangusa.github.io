@@ -46,4 +46,4 @@ I am interested in trace metals, marine microorganisms, and low-weight-molecular
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mk_resume_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
