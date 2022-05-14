@@ -30,7 +30,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/meican77
 - icon: researchgate
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Kang-Mei
 - icon: github
   icon_pack: fab
