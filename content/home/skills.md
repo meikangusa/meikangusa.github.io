@@ -24,13 +24,13 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Study
-  - description: 50%
-    icon: camera-retro
-    icon_pack: fas
-    name: Life
+#  - description: 50%
+#   icon: camera-retro
+#   icon_pack: fas
+#   name: Life
   - icon: ":smile:"
     icon_pack: "emoji"
-    name: "Enojiness"
+    name: "Smile"
     description: "100%"
     
     
