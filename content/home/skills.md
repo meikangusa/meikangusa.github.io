@@ -29,10 +29,10 @@ feature:
     icon_pack: fas
     name: Life
 # Uncomment to use emoji icons.
-  - description: 100%
-   icon: smile
-   icon_pack: emoji
-   name: Smile
+#  - description: 100%
+#   icon: smile
+#   icon_pack: emoji
+#   name: Smile
 
 
 # Uncomment to use custom SVG icons.
