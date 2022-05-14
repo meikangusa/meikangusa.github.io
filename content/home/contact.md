@@ -38,10 +38,10 @@ content:
     latitude: '34.0224'
     longitude: '-118.2851'
   directions: AHF Building #105
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://meikang.netlify.app'
+#  office_hours:
+#    - 'Monday 10:00 to 13:00'
+#    - 'Wednesday 09:00 to 10:00'
+#  appointment_url: 'https://meikang.netlify.app'
   contact_links:
     - icon: twitter
       icon_pack: fab
