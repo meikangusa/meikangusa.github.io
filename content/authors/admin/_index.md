@@ -9,9 +9,9 @@ education:
   - course: M.S. in Pollution Ecology
     institution: Xiamen University (厦门大学)
     year: 2018
-  - course: B.S. in Agricultural Ecology
-    institution: Hainan Tropical Ocean University
-    year: 2015
+#  - course: B.S. in Agricultural Ecology
+#   institution: Hainan Tropical Ocean University
+#  year: 2015
 email: ""
 highlight_name: true
 interests:
