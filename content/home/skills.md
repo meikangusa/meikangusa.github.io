@@ -20,19 +20,20 @@ feature:
     icon: r-project
     icon_pack: fab
     name: Research
-  - description: 50%
+  - description: 25%
     icon: chart-line
     icon_pack: fas
     name: Study
-  - description: 100%
+  - description: 50%
     icon: camera-retro
     icon_pack: fas
     name: Life
 # Uncomment to use emoji icons.
-- icon: ":smile:"
-  icon_pack: "emoji"
-  name: "Emojiness"
-  description: "100%"
+  - description: 100%
+   icon: smile
+   icon_pack: emoji
+   name: Smile
+
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
