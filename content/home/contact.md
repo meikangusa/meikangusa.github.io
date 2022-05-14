@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '34.0224'
     longitude: '-118.2851'
-  directions: AHF Building #105
+  directions: Marine & Environmental Biology, AHF Building
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
