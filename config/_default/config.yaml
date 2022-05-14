@@ -4,8 +4,8 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: MeiKang Academic # Website name
-baseURL: 'https://meikangusa.github.io' # Website URL
+title: About MeiKang # Website name
+baseURL: 'https://meikang.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
