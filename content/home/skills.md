@@ -28,11 +28,12 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Life
+  - icon: ":smile:"
+    icon_pack: "emoji"
+    name: "Enojiness"
+    description: "100%"
 # Uncomment to use emoji icons.
- - icon: ":smile:"
-   icon_pack: "emoji"
-   name: "Enojiness"
-   description: "100%"
+ 
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
