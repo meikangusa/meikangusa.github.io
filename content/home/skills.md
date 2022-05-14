@@ -32,9 +32,9 @@ feature:
     icon_pack: "emoji"
     name: "Enojiness"
     description: "100%"
+    
+    
 # Uncomment to use emoji icons.
- 
-
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
