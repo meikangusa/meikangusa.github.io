@@ -43,7 +43,7 @@ experience:
     location: Xiamen, China
     date_start: '2019-09-12'
     date_end: '2023-06-30'
-    description: All for a Ph.D. degree in Marine Science.
+    description: Aiming for a Ph.D. degree in Marine Science.
     
   - title: Research Assistant 
     company: College of Environment & Ecology, Xiamen University
@@ -52,7 +52,7 @@ experience:
     location: Xiamen, China
     date_start: '2018-06-30'
     date_end: '2019-07-01'
-    description: Working for Xiamen University as Research Assistant.
+    description: Working for Xiamen University as a Research Assistant.
     
   - title: Graduate Student of Pollution Ecology
     company: Xiamen University
