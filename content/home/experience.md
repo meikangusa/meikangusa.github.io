@@ -25,7 +25,7 @@ experience:
   - title: Guest Ph.D. Student
     company: University of  Southern California
     company_url: 'https://www.usc.edu/'
-    company_logo: moodle-square
+    company_logo: org-usc
     location: California, USA
     date_start: '2021-12-29'
     date_end: ''
