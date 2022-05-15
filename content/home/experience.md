@@ -38,21 +38,30 @@ experience:
 
   - title: Ph.D. Student of Marine Sciences
     company: Xiamen University
-    company_url: 'http://mel2.xmu.edu.cn/melwebold/en/index.asp'
+    company_url: 'https://en.xmu.edu.cn/'
     company_logo: org-x
     location: Xiamen, China
     date_start: '2019-09-12'
     date_end: '2023-06-30'
     description: All for a Ph.D. degree in Marine Science.
     
-  - title: Ph.D. Student of Marine Sciences
-    company: Xiamen University
-    company_url: 'http://mel2.xmu.edu.cn/melwebold/en/index.asp'
+  - title: Research Assistant 
+    company: College of Environment & Ecology, Xiamen University
+    company_url: 'https://icee.xmu.edu.cn/'
     company_logo: org-x
     location: Xiamen, China
-    date_start: '2019-09-12'
-    date_end: '2023-06-30'
-    description: All for a Ph.D. degree in Marine Science.
+    date_start: '2018-06-30'
+    date_end: '2019-07-01'
+    description: Working for Xiamen University as Research Assistant.
+    
+  - title: Graduate Student of Pollution Ecology
+    company: Xiamen University
+    company_url: 'https://xmu.edu.cn/'
+    company_logo: org-x
+    location: Xiamen, China
+    date_start: '2015-09-12'
+    date_end: '2018-06-30'
+    description: Pursuing for a Master degree in Ecology.
     
 design:
   columns: '2'
