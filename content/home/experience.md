@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.usc.edu/'
     company_logo: org-gc
     location: California
-    date_start: '2021-12'
+    date_start: '2021-12-29'
     date_end: ''
     description: |2-
         Focusing on:
@@ -41,8 +41,8 @@ experience:
     company_url: 'http://mel2.xmu.edu.cn/melwebold/en/index.asp'
     company_logo: org-x
     location: California
-    date_start: '2019-09'
-    date_end: '2023-6-30'
+    date_start: '2019-09-12'
+    date_end: '2023-06-30'
     description: All for a Ph.D. degree in Marine Science.
     
 design:
