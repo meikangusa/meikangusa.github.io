@@ -3,7 +3,7 @@ authors:
 - admin
 - 梅康
 categories:
-- Demo
+- Introduction
 - 简介
 date: "2020-12-13T00:00:00Z"
 draft: false
@@ -22,7 +22,7 @@ summary: "Welcome \U0001F44B I know that your first impressions are important, I
   populated my first website with some initial content to help you get familiar with
   me in no time."
 tags:
-- Academic
+- Academic 
 - 简介
 title: Welcome to MeiKang Academic Blog Website
 ---
