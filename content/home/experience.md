@@ -39,7 +39,7 @@ experience:
   - title: Ph.D. Student of Marine Sciences
     company: Xiamen University
     company_url: 'https://en.xmu.edu.cn/'
-    company_logo: moodle-square
+    company_logo: org-xmu
     location: Xiamen, China
     date_start: '2019-09-12'
     date_end: '2023-06-30'
@@ -57,7 +57,7 @@ experience:
   - title: Graduate Student of Pollution Ecology
     company: Xiamen University
     company_url: 'https://xmu.edu.cn/'
-    company_logo: moodle-square
+    company_logo: org-xmu
     location: Xiamen, China
     date_start: '2015-09-12'
     date_end: '2018-06-30'
