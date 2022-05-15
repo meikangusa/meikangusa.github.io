@@ -61,7 +61,7 @@ experience:
     location: Xiamen, China
     date_start: '2015-09-12'
     date_end: '2018-06-30'
-    description: Pursuing for a Master degree in Ecology.
+    description: Awarded a Master degree in Ecology.
     
 design:
   columns: '2'
