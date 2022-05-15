@@ -25,7 +25,7 @@ experience:
   - title: Guest Ph.D. Student
     company: University of  Southern California
     company_url: 'https://www.usc.edu/'
-    company_logo: org-gc
+    company_logo: moodle-square
     location: California, USA
     date_start: '2021-12-29'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Ph.D. Student of Marine Sciences
     company: Xiamen University
     company_url: 'https://en.xmu.edu.cn/'
-    company_logo: org-x
+    company_logo: moodle-square
     location: Xiamen, China
     date_start: '2019-09-12'
     date_end: '2023-06-30'
@@ -48,7 +48,7 @@ experience:
   - title: Research Assistant 
     company: College of Environment & Ecology, Xiamen University
     company_url: 'https://icee.xmu.edu.cn/'
-    company_logo: org-x
+    company_logo: moodle-square
     location: Xiamen, China
     date_start: '2018-06-30'
     date_end: '2019-07-01'
@@ -57,7 +57,7 @@ experience:
   - title: Graduate Student of Pollution Ecology
     company: Xiamen University
     company_url: 'https://xmu.edu.cn/'
-    company_logo: org-x
+    company_logo: moodle-square
     location: Xiamen, China
     date_start: '2015-09-12'
     date_end: '2018-06-30'
