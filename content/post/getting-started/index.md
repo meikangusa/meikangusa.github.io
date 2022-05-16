@@ -13,7 +13,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2022-05-15T00:00:00Z"
 projects: []
 subtitle: "Welcome \U0001F44B I know that your first impressions are important, I've
   populated my first website with some initial content to help you get familiar with
