@@ -12,7 +12,7 @@ education:
 #  - course: B.S. in Agricultural Ecology
 #   institution: Hainan Tropical Ocean University
 #  year: 2015
-email: ""
+email: "meikang168@xmu.edu.cn"
 highlight_name: true
 interests:
 - Marine Environmental Science
