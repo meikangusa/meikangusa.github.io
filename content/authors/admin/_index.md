@@ -1,5 +1,5 @@
 --- 
-bio: My research interests include Marine sciences, Fitness, Golf, Cooking, Calligraphy, Poeming and maybe programmable in the future.
+bio: My interests include Marine sciences research, Fitness, Golf, Cooking, Calligraphy, Poeming and maybe programmable in the future.
 
 education:
   courses:
