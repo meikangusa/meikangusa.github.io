@@ -23,7 +23,7 @@ populate my first website with some initial content at my best to let you get fa
 tags:
 - Hello
 - 简介
-title: Welcome to my Blog 
+title: Welcome to Meikang's Blog 
 ---
 
 ## Overview
@@ -32,7 +32,7 @@ title: Welcome to my Blog
 2.  The journey to my blog are with a tough scientific research (**科研**) and try to have a decent life (**生活**).
 3.  I know it's not easy to have fun. If you are interested in building website, please leave messages (**有请留言**).
 
-{{< figure src="https://github.com/meikangusa/meikangusa.github.io/blob/master/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5/assets/media/icon.png", title="Hi, Enjoy life's journey with me" >}}
+{{< figure src="https://github.com/meikangusa/meikangusa.github.io/blob/master/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5/assets/media/icon.png" title="Hi, Enjoy life's journey with me" >}}
 
 
 ## License
