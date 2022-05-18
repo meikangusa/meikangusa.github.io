@@ -9,7 +9,7 @@ date: "2022-05-17T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: [**MEI KANG**](https://meikang.netlify.app/)'
+  caption: 'Image credit: [**Unsplash**](https://meikang.netlify.app/)'
   focal_point: ""
   placement: 2
   preview_only: false
