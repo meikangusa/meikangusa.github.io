@@ -18,6 +18,8 @@ image:
   caption: 'Image credit: [**MEIKANG**](https://meikang.netlify.app/)'
   focal_point: ""
   preview_only: false
+project:
+- example
 publication: *Sustainability*
 publication_short: *Sustainability*
 publication_types:
