@@ -20,8 +20,8 @@ image:
   preview_only: false
 projects:
 - Taiwan Kuisahntao Hydrothermal Vents
-publication: In *Sustainability*
-publication_short: In *SUS*
+publication: *Sustainability*
+publication_short: *Sustainability*
 publication_types:
 - "2"
 publishDate: "2022-02-03T00:00:00Z"
