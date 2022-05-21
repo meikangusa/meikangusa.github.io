@@ -5,7 +5,7 @@ address:
   country: United States
   postcode: "90007"
   region: CA
-  street: University Park Campus
+  street: University Park Campus (online)
 all_day: false
 authors: [Mei Kang]
 date: "22-03-27T00:00:00Z"
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Tweet
   url: https://twitter.com/meican77
-location: University of Southern California
+location: University of Southern California (online)
 
 publishDate: "2022-03-27T00:00:00Z"
 
