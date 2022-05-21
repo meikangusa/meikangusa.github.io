@@ -4,7 +4,7 @@ address:
   city: Los Angeles
   country: United States
   postcode: "90007"
-  region: CA
+  region: California USA
   street: University Park Campus (online)
 all_day: false
 authors: [Mei Kang]
