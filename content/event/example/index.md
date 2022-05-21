@@ -8,7 +8,7 @@ address:
   street: 27th Street
 all_day: false
 authors: [Mei Kang]
-date: "20-03-27T13:00:00Z"
+date: "22-03-27T13:00:00Z"
 date_end: "2022-04-01T15:00:00Z"
 event: The 14th UCAS 
 event_url: https://ntouimb14thucas.wixsite.com/14thucasicmfbec
@@ -24,7 +24,7 @@ links:
 location: University of Southern California
 projects:
 - example
-publishDate: "2022-05-21T00:00:00Z"
+publishDate: "2022-03-27T00:00:00Z"
 slides: example
 summary: The Talk at University Consortium on Aquatic Sciences(UCAS) in 2022. 第十四届水环境科学高校联盟研讨会(The 14th UCAS Symposium) 于2022年3月27日-3月31日顺利召开。本次研讨会由台湾海洋大学主办，厦门大学、香港大学、台湾中山大学协办，以线上线下相结合的办会方式联合开展。
 tags: []
