@@ -5,7 +5,7 @@ address:
   country: United States
   postcode: "90007"
   region: CA
-  street: 27th Street
+  street: University Park Campus
 all_day: false
 authors: [Mei Kang]
 date: "22-03-27T13:00:00Z"
@@ -19,13 +19,12 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: Tweet
   url: https://twitter.com/meican77
 location: University of Southern California
-projects:
-- example
+
 publishDate: "2022-03-27T00:00:00Z"
-slides: example
+
 summary: The Talk at University Consortium on Aquatic Sciences(UCAS) in 2022. 第十四届水环境科学高校联盟研讨会(The 14th UCAS Symposium) 于2022年3月27日-3月31日顺利召开。本次研讨会由台湾海洋大学主办，厦门大学、香港大学、台湾中山大学协办，以线上线下相结合的办会方式联合开展。
 tags: []
 title: Novel indicator of biopterin to interactions and perturbations associated with trace metals in estuarine and coastal waters, Southeast China
