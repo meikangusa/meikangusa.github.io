@@ -8,8 +8,8 @@ address:
   street: University Park Campus
 all_day: false
 authors: [Mei Kang]
-date: "22-03-27T13:00:00Z"
-date_end: "2022-04-01T15:00:00Z"
+date: "22-03-27T00:00:00Z"
+date_end: "2022-04-01T00:00:00Z"
 event: The 14th UCAS Symposium
 event_url: https://ntouimb14thucas.wixsite.com/14thucasicmfbec
 featured: false
