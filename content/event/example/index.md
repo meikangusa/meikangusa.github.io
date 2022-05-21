@@ -10,7 +10,7 @@ all_day: false
 authors: [Mei Kang]
 date: "22-03-27T13:00:00Z"
 date_end: "2022-04-01T15:00:00Z"
-event: The 14th UCAS 
+event: The 14th UCAS Symposium
 event_url: https://ntouimb14thucas.wixsite.com/14thucasicmfbec
 featured: false
 image:
@@ -34,8 +34,5 @@ url_slides: ""
 url_video: ""
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
 
