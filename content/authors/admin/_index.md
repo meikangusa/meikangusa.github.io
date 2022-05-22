@@ -44,7 +44,7 @@ title: Mei Kang
 
 I am interested in trace metals, marine microorganisms, and low-weight-molecular compounds in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pteridines, etc.
 
-Anyway, my research interests include Marine sciences, Fitness, Golf, Cooking, Calligraphy, Poeming and maybe programmable in the future.
+Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mk_resume_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mk_resume_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
