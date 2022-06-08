@@ -22,29 +22,47 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Guest Ph.D. Student
+    company: University of  Southern California
+    company_url: 'https://www.usc.edu/'
+    company_logo: org-usc
+    location: California, USA
+    date_start: '2021-12-29'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Focusing on:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Laboratory Analysis
+        * Data Arrangement
+        * Scientific Writing
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+  - title: Ph.D. Student of Marine Sciences
+    company: Xiamen University
+    company_url: 'https://en.xmu.edu.cn/'
+    company_logo: org-xmu
+    location: Xiamen, China
+    date_start: '2019-09-12'
+    date_end: '2023-06-30'
+    description: Aiming for a Ph.D. degree in Marine Science.
+    
+  - title: Research Assistant 
+    company: College of Environment & Ecology, Xiamen University
+    company_url: 'https://icee.xmu.edu.cn/'
+    company_logo: moodle-square
+    location: Xiamen, China
+    date_start: '2018-06-30'
+    date_end: '2019-07-01'
+    description: Working for Xiamen University as a Research Assistant.
+    
+  - title: Graduate Student of Pollution Ecology
+    company: Xiamen University
+    company_url: 'https://xmu.edu.cn/'
+    company_logo: org-xmu
+    location: Xiamen, China
+    date_start: '2015-09-12'
+    date_end: '2018-06-30'
+    description: Awarded a Master degree in Ecology.
+    
 design:
   columns: '2'
 ---

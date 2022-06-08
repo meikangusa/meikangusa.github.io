@@ -21,13 +21,13 @@ image:
 projects:
 - Taiwan Kuisahntao Hydrothermal Vents
 publication: In *Sustainability*
-publication_short: In *SUS*
+publication_short: In *Sustainability*
 publication_types:
 - "2"
 publishDate: "2022-02-03T00:00:00Z"
 summary: Transformation, Fluxes and Impacts of Dissolved Metals from  Shallow Water Hydrothermal Vents on Nearby Ecosystem  Offshore of Kueishantao (NE Taiwan).
 tags: []
-title: An example conference paper
+title: Transformation, Fluxes and Impacts of Dissolved Metals from  Shallow Water Hydrothermal Vents on Nearby Ecosystem  Offshore of Kueishantao (NE Taiwan)
 url_code: ""
 url_dataset: ""
 url_pdf: ""
@@ -37,9 +37,5 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% callout note %}} Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software. {{% /callout %}}
-
-{{% callout note %}} Create your slides in Markdown - click the *Slides* button to check out the example. {{% /callout %}}
 
 

@@ -1,5 +1,5 @@
----
-bio: My research interests include Marine sciences, Fitness, Golf, Cooking, Calligraphy, Poeming and maybe programmable in the future.
+--- 
+bio: My interests include Marine sciences research, Fitness, Golf, Cooking, Calligraphy, Poeming and maybe programmable in the future.
 
 education:
   courses:
@@ -9,10 +9,10 @@ education:
   - course: M.S. in Pollution Ecology
     institution: Xiamen University (厦门大学)
     year: 2018
-  - course: B.S. in Agricultural Ecology
-    institution: Hainan Tropical Ocean University
-    year: 2015
-email: ""
+#  - course: B.S. in Agricultural Ecology
+#   institution: Hainan Tropical Ocean University
+#  year: 2015
+email: "meikang168@xmu.edu.cn"
 highlight_name: true
 interests:
 - Marine Environmental Science
@@ -29,8 +29,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/meican77
-- icon: graduation-cap
-  icon_pack: fas
+- icon: researchgate
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Kang-Mei
 - icon: github
   icon_pack: fab
@@ -44,6 +44,7 @@ title: Mei Kang
 
 I am interested in trace metals, marine microorganisms, and low-weight-molecular compounds in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pteridines, etc.
 
+Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mk_resume_222.pdf" "newtab" >}}resumé{{< /staticref >}}.
