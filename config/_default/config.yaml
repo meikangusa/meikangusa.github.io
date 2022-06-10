@@ -70,3 +70,12 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  
+############################
+## New added
+############################
+backend:
+  name: github
+  repo: meikangusa/meikangusa.github.io # Path to your GitHub repository
+  # optional, defaults to master
+  # branch: main
