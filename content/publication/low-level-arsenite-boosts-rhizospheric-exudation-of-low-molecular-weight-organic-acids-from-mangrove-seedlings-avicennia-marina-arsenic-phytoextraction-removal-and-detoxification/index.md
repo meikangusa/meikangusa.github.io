@@ -14,7 +14,7 @@ authors:
   - Haoliang Lu
   - Chongling Yan
 doi: https://doi.org/10.1016/j.scitotenv.2021.145685
-publication: Science of the Total Environment
+publication: In *Science of the Total Environment*
 publication_short: STOTEN
 abstract: Arsenic (As) contamination in mangrove wetlands has become a major
   concern. However, the impact of As on mangroves and the rhizospheric mechanism
@@ -43,6 +43,10 @@ image:
   filename: f9-graphabstrct3.jpg
   focal_point: Center
   preview_only: false
-  caption: Graphic Abstract
+  caption: "Image credit: [**MEIKANG**](https://meikang.netlify.app/)"
+summary: >-
+  H I G H L I G H T S
+
+  1• Low-level trivalent arsenite boosts LMWOAs exudation of mangroves to reduce arsenic toxicity.  2• Citric, oxalic and malic acid were the three main components (84.3%–86.8%) of root exudates.  3• The As tolerance mechanisms include lowering ROL, translocating As, releasing LMWOAs, and facilitating As fixation.  4• A. marina seedlings are potentially propitious to As phytoextraction, removal and detoxification.
 date: 2022-06-11T05:40:04.900Z
 ---
