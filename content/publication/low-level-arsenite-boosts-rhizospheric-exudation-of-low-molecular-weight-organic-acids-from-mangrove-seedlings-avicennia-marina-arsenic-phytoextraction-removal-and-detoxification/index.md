@@ -41,7 +41,7 @@ draft: false
 featured: false
 image:
   filename: f9-graphabstrct3.jpg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
   caption: Graphic Abstract
 date: 2022-06-11T05:40:04.900Z
