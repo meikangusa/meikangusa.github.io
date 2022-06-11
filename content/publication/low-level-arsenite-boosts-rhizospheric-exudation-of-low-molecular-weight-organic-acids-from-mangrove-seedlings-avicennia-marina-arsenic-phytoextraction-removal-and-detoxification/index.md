@@ -41,12 +41,10 @@ draft: false
 featured: false
 image:
   filename: f9-graphabstrct3.jpg
-  focal_point: Center
+  focal_point: Right
   preview_only: false
   caption: "Image credit: [**MEIKANG**](https://meikang.netlify.app/)"
-summary: >-
-  H I G H L I G H T S
-
-  1• Low-level trivalent arsenite boosts LMWOAs exudation of mangroves to reduce arsenic toxicity.  2• Citric, oxalic and malic acid were the three main components (84.3%–86.8%) of root exudates.  3• The As tolerance mechanisms include lowering ROL, translocating As, releasing LMWOAs, and facilitating As fixation.  4• A. marina seedlings are potentially propitious to As phytoextraction, removal and detoxification.
+summary: "Keywords:  Root exudates  Fe species  Radial oxygen loss  Arsenic
+  translocation  Migration and speciation  Mangrove wetland"
 date: 2022-06-11T06:07:21.342Z
 ---
