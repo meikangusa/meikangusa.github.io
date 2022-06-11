@@ -56,7 +56,7 @@ image:
   caption: "Image credit: [**MEIKANG**](https://meikang.netlify.app/)"
   focal_point: ""
   preview_only: false
-date: 2022-05-11T12:00:00.000Z
+date: 2022-02-03T13:00:00.000Z
 url_slides: ""
 publishDate: 2022-02-03T00:00:00.000Z
 url_poster: ""
