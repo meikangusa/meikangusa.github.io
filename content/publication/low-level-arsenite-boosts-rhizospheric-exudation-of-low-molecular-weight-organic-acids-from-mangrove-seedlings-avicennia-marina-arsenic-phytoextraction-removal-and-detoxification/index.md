@@ -37,11 +37,12 @@ abstract: Arsenic (As) contamination in mangrove wetlands has become a major
   the fixation in sediment of oxidised As. The present study highlights the fact
   that mangroves are potentially favourable for As phytoextraction, removal and
   detoxification.
+url_pdf: ""
 draft: false
 featured: false
 image:
   filename: f9-graphabstrct3.jpg
-  focal_point: Right
+  focal_point: ""
   preview_only: false
   caption: "Image credit: [**MEIKANG**](https://meikang.netlify.app/)"
 summary: "Keywords:  Root exudates  Fe species  Radial oxygen loss  Arsenic
