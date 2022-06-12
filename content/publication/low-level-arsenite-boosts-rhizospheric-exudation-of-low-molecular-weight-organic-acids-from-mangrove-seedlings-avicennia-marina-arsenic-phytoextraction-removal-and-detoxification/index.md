@@ -49,10 +49,6 @@ image:
 links:
 - icon: ""
   icon_pack: ""
-  name: Cite
-  url: https://meikang.netlify.app/publication/low-level-arsenite-boosts-rhizospheric-exudation-of-low-molecular-weight-organic-acids-from-mangrove-seedlings-avicennia-marina-arsenic-phytoextraction-removal-and-detoxification/cite.bib
-- icon: ""
-  icon_pack: ""
   name: PDF
   url: https://meikang.netlify.app/publication/low-level-arsenite-boosts-rhizospheric-exudation-of-low-molecular-weight-organic-acids-from-mangrove-seedlings-avicennia-marina-arsenic-phytoextraction-removal-and-detoxification/Meikang_2021_STOTEN.pdf
 ##################
