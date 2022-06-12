@@ -51,7 +51,6 @@ links:
   icon_pack: ""
   name: PDF
   url: ""
-links:
 - icon: ""
   icon_pack: ""
   name: Cite
