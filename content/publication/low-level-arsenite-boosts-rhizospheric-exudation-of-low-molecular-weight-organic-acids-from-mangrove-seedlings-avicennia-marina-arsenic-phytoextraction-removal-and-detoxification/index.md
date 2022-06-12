@@ -45,6 +45,13 @@ image:
   focal_point: ""
   preview_only: false
   caption: "Image credit: [**MEIKANG**](https://meikang.netlify.app/)"
+##################  
+links:
+- icon: ""
+  icon_pack: ""
+  name: PDF
+  url: https://twitter.com/meican77
+##################
 summary: "Keywords:  Root exudates  Fe species  Radial oxygen loss  Arsenic
   translocation  Migration and speciation  Mangrove wetland"
 date: 2021-02-07T07:07:21.342Z
