@@ -32,8 +32,8 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: showcase
-  columns: '3'
+  view: list
+  columns: '2'
 ---
 
 {{% callout note %}}
