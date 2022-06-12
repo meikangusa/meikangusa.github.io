@@ -39,9 +39,9 @@ abstract: Arsenic (As) contamination in mangrove wetlands has become a major
   detoxification.
 url_pdf: ""
 draft: false
-featured: false
+featured: true
 image:
-  filename: f9-graphabstrct3.jpg
+  filename: featured.jpg
   focal_point: ""
   preview_only: false
   caption: "Image credit: [**MEIKANG**](https://meikang.netlify.app/)"
