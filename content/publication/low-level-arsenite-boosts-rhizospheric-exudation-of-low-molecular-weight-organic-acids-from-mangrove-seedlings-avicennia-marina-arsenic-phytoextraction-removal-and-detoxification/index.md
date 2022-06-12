@@ -50,7 +50,12 @@ links:
 - icon: ""
   icon_pack: ""
   name: PDF
-  url: https://github.com/meikangusa/meikangusa.github.io/blob/main/content/publication/low-level-arsenite-boosts-rhizospheric-exudation-of-low-molecular-weight-organic-acids-from-mangrove-seedlings-avicennia-marina-arsenic-phytoextraction-removal-and-detoxification/meikang_paper3-2021-CHEMOSPHERE.pdf
+  url: ""
+links:
+- icon: ""
+  icon_pack: ""
+  name: Cite
+  url: ""
 ##################
 summary: "Keywords:  Root exudates  Fe species  Radial oxygen loss  Arsenic
   translocation  Migration and speciation  Mangrove wetland"
