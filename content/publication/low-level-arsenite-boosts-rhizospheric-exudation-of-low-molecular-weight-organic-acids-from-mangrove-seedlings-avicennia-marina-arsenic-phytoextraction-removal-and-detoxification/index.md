@@ -14,7 +14,7 @@ authors:
   - Haoliang Lu
   - Chongling Yan
 doi: https://doi.org/10.1016/j.scitotenv.2021.145685
-publication: In *Science of the Total Environment*
+publication: " *Science of the Total Environment*"
 publication_short: STOTEN
 abstract: Arsenic (As) contamination in mangrove wetlands has become a major
   concern. However, the impact of As on mangroves and the rhizospheric mechanism
@@ -37,22 +37,20 @@ abstract: Arsenic (As) contamination in mangrove wetlands has become a major
   the fixation in sediment of oxidised As. The present study highlights the fact
   that mangroves are potentially favourable for As phytoextraction, removal and
   detoxification.
-url_pdf: ""
 draft: false
+url_pdf: ""
 featured: true
 image:
   filename: featured.jpg
   focal_point: ""
   preview_only: false
   caption: "Image credit: [**MEIKANG**](https://meikang.netlify.app/)"
-##################  
-links:
-- icon: ""
-  icon_pack: ""
-  name: PDF
-  url: https://meikang.netlify.app/publication/low-level-arsenite-boosts-rhizospheric-exudation-of-low-molecular-weight-organic-acids-from-mangrove-seedlings-avicennia-marina-arsenic-phytoextraction-removal-and-detoxification/Meikang_2021_STOTEN.pdf
-##################
 summary: "Keywords:  Root exudates  Fe species  Radial oxygen loss  Arsenic
   translocation  Migration and speciation  Mangrove wetland"
 date: 2021-02-07T07:07:21.342Z
+links:
+  - icon: ""
+    icon_pack: ""
+    name: PDF
+    url: https://meikang.netlify.app/publication/low-level-arsenite-boosts-rhizospheric-exudation-of-low-molecular-weight-organic-acids-from-mangrove-seedlings-avicennia-marina-arsenic-phytoextraction-removal-and-detoxification/Meikang_2021_STOTEN.pdf
 ---
