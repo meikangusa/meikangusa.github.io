@@ -45,11 +45,11 @@ links:
 - icon: ""
   icon_pack: ""
   name: PDF
-  url: https://meikang.netlify.app/publication/low-level-arsenite-boosts-rhizospheric-exudation-of-low-molecular-weight-organic-acids-from-mangrove-seedlings-avicennia-marina-arsenic-phytoextraction-removal-and-detoxification/Meikang_2021_STOTEN.pdf
+  url: https://meikang.netlify.app/publication/dynamics-of-low-molecular-weight-organic-acids-for-the-extraction-and-sequestration-of-arsenic-species-and-heavy-metals-using-mangrove-sediments/Meikang_2021_CHEMOSPHERE.pdf
 image:
-  filename: png2-graphicabstract-paper3.png
-  focal_point: Smart
-  preview_only: false
+  filename: featured.png
+  focal_point: ""
+  preview_only: ""
 summary: "Keywords:  Root exudation  Arsenic speciation  Rhizosphere
   microorganisms  Heavy metal  Mangrove wetland"
 date: 2021-08-04T15:30:08.112Z
