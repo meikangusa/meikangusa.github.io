@@ -12,7 +12,7 @@ authors:
   - Haoliang Lu
   - Chongling Yan
 doi: https://doi.org/10.1016/j.chemosphere.2021.131820
-publication: In *Chemosphere*
+publication: "*Chemosphere*"
 publication_short: Chemosphere
 abstract: Mangrove wetlands are subjected to pollution due to anthropogenic
   activities. Mangrove fitness is mainly  determined by root exudates and
@@ -41,11 +41,6 @@ abstract: Mangrove wetlands are subjected to pollution due to anthropogenic
   mangrove  wetlands.
 draft: false
 featured: true
-links:
-- icon: ""
-  icon_pack: ""
-  name: PDF
-  url: https://meikang.netlify.app/publication/dynamics-of-low-molecular-weight-organic-acids-for-the-extraction-and-sequestration-of-arsenic-species-and-heavy-metals-using-mangrove-sediments/Meikang_2021_CHEMOSPHERE.pdf
 image:
   filename: featured.png
   focal_point: ""
@@ -53,4 +48,9 @@ image:
 summary: "Keywords:  Root exudation  Arsenic speciation  Rhizosphere
   microorganisms  Heavy metal  Mangrove wetland"
 date: 2021-08-04T15:30:08.112Z
+links:
+  - icon: ""
+    icon_pack: ""
+    name: PDF
+    url: https://meikang.netlify.app/publication/dynamics-of-low-molecular-weight-organic-acids-for-the-extraction-and-sequestration-of-arsenic-species-and-heavy-metals-using-mangrove-sediments/Meikang_2021_CHEMOSPHERE.pdf
 ---
