@@ -37,6 +37,6 @@ title: Welcome to Meikang's Blog
 
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+Copyright 2022-present [Mei kang](https://meikang.netlify.app/).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
