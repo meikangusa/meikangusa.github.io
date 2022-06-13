@@ -33,11 +33,6 @@ image:
   filename: featured.jpg
   focal_point: ""
   preview_only: ""
-links:
-  - icon: ""
-    icon_pack: ""
-    name: PDF
-    url: https://meikang.netlify.app/publication/the-migrated-behavior-and-bioavailability-of-arsenic-in-mangrove-sediments-affected-by-ph-and-organic-acids/meikang_2020_MPB.pdf
 summary: "Keywords:  Low molecular weight organic acids
   (LMWOAs),  Arsenic  Mobilization and migration,  Fe species, Solution pH"
 date: 2020-07-13T05:11:45.654Z
@@ -45,5 +40,5 @@ links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/dynamics-of-low-molecular-weight-organic-acids-for-the-extraction-and-sequestration-of-arsenic-species-and-heavy-metals-using-mangrove-sediments/Meikang_2021_CHEMOSPHERE.pdf
+    url: https://meikang.netlify.app/publication/the-migrated-behavior-and-bioavailability-of-arsenic-in-mangrove-sediments-affected-by-ph-and-organic-acids/meikang_2020_MPB.pdf
 ---
