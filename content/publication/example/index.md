@@ -35,8 +35,6 @@ authors:
   - Chen-Tung Arthur Chen
   - Yao Zhang
   - Kai Tang
-author_notes:
-  - First Author
 summary: "Keywords: siderophile elements; chalcophile elements; submarine
   hydrothermal ecosystem; coupling processes; heavy metals; carbon; nitrogen and
   sulphur; Kueishantao Islet"
@@ -46,7 +44,7 @@ publication_short: " *Sustainability*"
 url_source: ""
 url_video: ""
 author_notes:
-  - Equal contribution
+  - First Author
   - Correspondence
 doi: https://doi.org/10.3390/su14031754
 publication: " *Sustainability*"
