@@ -12,6 +12,12 @@ authors:
   - Hanyi Li
   - Haoliang Lu
   - Chongling Yan
+author_notes:
+  - ""
+  - ""
+  - ""
+  - ""
+  - Co_Author
 doi: http://dx.doi.org/10.1016/j.scitotenv.2022.155351
 publication: "*Science of the Total Environment*"
 publication_short: STOTEN
