@@ -27,7 +27,7 @@ publishDate: "2022-03-27T00:00:00Z"
 
 summary: This Talk was presented at University Consortium on Aquatic Sciences(UCAS) Symposium in March 2022. 第十四届水环境科学高校联盟研讨会(The 14th UCAS Symposium) 于2022年3月27日-3月31日顺利召开。本次研讨会由台湾海洋大学主办，厦门大学、香港大学、台湾中山大学协办，以线上线下相结合的办会方式联合开展。
 tags: []
-title: Novel indicator of biopterin to interactions and perturbations associated with trace metals in estuarine and coastal waters, Southeast China
+title: [ORAL] Novel indicator of biopterin to interactions and perturbations associated with trace metals in estuarine and coastal waters, Southeast China
 url_code: ""
 url_pdf: ""
 url_slides: ""
