@@ -17,7 +17,7 @@ lastmod: "2022-05-17T00:00:00Z"
 projects: []
 subtitle: "\U0001F44B Welcome \U0001F44B I know that your first impressions are important, I’ve tried my best to populate my first website with some initial content at my best to let you get familiar with me in no time."
   
-summary: "\U0001F44B Welcome \U0001F44B I know that your first impressions are important, I’ve tried my best to 
+summary: ":blush: Welcome \U0001F44B I know that your first impressions are important, I’ve tried my best to 
 populate my first website with some initial content at my best to let you get familiar with me in no time."
   
 tags:
