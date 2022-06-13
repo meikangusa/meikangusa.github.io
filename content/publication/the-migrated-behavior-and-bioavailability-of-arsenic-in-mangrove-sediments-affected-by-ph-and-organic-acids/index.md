@@ -10,6 +10,8 @@ authors:
   - Xin Guo
   - Haoliang Lu
   - Chongling Yan
+author_notes:
+  - First Author
 doi: https://doi.org/10.1016/j.marpolbul.2020.111480
 publication: "*Marine Pollution Bulletin*"
 publication_short: Marine Pollution Bulletin
