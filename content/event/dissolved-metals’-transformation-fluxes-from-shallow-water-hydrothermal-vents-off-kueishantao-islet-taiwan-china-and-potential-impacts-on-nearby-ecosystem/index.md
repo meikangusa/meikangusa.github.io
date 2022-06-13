@@ -33,7 +33,7 @@ links:
   - icon: ""
     icon_pack: fab
     name: Poster
-    url: https://meikang.netlify.app/talk/dissolved-metals’-transformation-fluxes-from-shallow-water-hydrothermal-vents-off-kueishantao-islet-taiwan-china-and-potential-impacts-on-nearby-ecosystem/poster.pdf
+    url: https://meikang.netlify.app/publication/Poster_CESS2021_Kang.pdf
 event_url: http://www.cess.org.cn
 featured: false
 authors:
