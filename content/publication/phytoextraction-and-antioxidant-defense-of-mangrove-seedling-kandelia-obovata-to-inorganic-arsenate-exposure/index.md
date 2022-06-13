@@ -44,9 +44,9 @@ abstract: >-
 
   tolerance to As exposure.
 draft: false
-featured: true
+featured: false
 image:
-  filename: featured.png
+  filename: Featured.png
   focal_point: ""
   preview_only: ""
 summary: "Keywords: Kandelia obovata; arsenic; antioxidant enzymes;
