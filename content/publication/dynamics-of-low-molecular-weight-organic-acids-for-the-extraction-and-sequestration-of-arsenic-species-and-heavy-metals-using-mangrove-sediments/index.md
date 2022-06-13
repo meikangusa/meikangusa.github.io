@@ -11,6 +11,8 @@ authors:
   - Hualong Hong
   - Haoliang Lu
   - Chongling Yan
+author_notes:
+  - First Author
 doi: https://doi.org/10.1016/j.chemosphere.2021.131820
 publication: "*Chemosphere*"
 publication_short: Chemosphere
