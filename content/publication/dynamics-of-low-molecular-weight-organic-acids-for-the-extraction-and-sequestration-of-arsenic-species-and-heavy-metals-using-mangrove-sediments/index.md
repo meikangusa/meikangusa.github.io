@@ -45,8 +45,8 @@ image:
   filename: featured.png
   focal_point: ""
   preview_only: ""
-summary: "Keywords:  Root exudation  Arsenic speciation  Rhizosphere
-  microorganisms  Heavy metal  Mangrove wetland"
+summary: "Keywords:  Root exudation,  Arsenic speciation,  Rhizosphere
+  microorganisms,  Heavy metal,  Mangrove wetland"
 date: 2021-08-04T15:30:08.112Z
 links:
   - icon: ""
