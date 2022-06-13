@@ -40,7 +40,7 @@ abstract: GRSP is widely distributed in coastal wetlands, and there is a
 draft: false
 featured: false
 image:
-  filename: Featured.png
+  filename: featured.png
   focal_point: ""
   preview_only: ""
 summary: "Keywords: Kandelia obovata; arsenic; antioxidant enzymes;
@@ -50,5 +50,5 @@ links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/phytoextraction-and-antioxidant-defense-of-mangrove-seedling-kandelia-obovata-to-inorganic-arsenate-exposure/meikang1_Co1-Author.pdf
+    url: https://meikang.netlify.app/publication/spatial-heterogeneity-in-chemical-composition-and-stability-of-glomalinrelated-soil-protein-in-the-coastal-wetlands/meikang2_Co5-author_2022.pdf
 ---
