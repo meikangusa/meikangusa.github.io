@@ -32,7 +32,7 @@ links:
     url: https://twitter.com/meican77
   - icon: ""
     icon_pack: fab
-    name: Poster
+    name: Poster PDF
     url: https://meikang.netlify.app/publication/Poster_CESS2021_Kang.pdf
 event_url: http://www.cess.org.cn
 featured: false
