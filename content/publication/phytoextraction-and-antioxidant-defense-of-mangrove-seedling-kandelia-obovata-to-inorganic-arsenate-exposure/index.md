@@ -9,6 +9,9 @@ authors:
   - Caimei He
   - Sujuan Wang
   - Liling Jiang
+author_notes:
+  - Equal contribution
+  - Correspondence
 doi: " https://doi.org/ 10.3390/w14040643"
 publication: "*Water*"
 publication_short: Water
