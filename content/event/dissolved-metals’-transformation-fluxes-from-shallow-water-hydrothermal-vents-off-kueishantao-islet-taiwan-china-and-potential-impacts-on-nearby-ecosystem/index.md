@@ -30,10 +30,17 @@ links:
     icon_pack: fab
     name: Tweet
     url: https://twitter.com/meican77
+  - icon: ""
+    icon_pack: fab
+    name: Photo
+    url: https://twitter.com/meican77
 event_url: http://www.cess.org.cn
 featured: false
 authors:
   - Mei Kang
+  - Mengqiu Shi
+  - Chen_Tung Arthur Chen 
+  - Deli Wang
 url_video: ""
 url_slides: ""
 address:
