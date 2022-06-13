@@ -18,7 +18,7 @@ abstract: >
   marine environment nearby. 
 url_pdf: ""
 summary: 第六届“地球系统科学大会” (Conference on Earth System Science, CESS)于2021年7月7-10日在上海举办，是跨学科性的前沿科技论坛，组织了“战略研究”和“青年论坛”。CESS是以地球科学学科交叉为特色的学术盛会。其目标在于促进横跨圈层、穿越时空的学术研讨，推动地球科学研究的海陆结合、古今结合、生命科学与地球科学结合、以及科学与技术的结合。
-title: 🧐POSTER🧐 Dissolved metals transformation, fluxes from shallow water hydrothermal
+title: POSTER🧐 Dissolved metals transformation, fluxes from shallow water hydrothermal
   vents off Kueishantao Islet, Taiwan, China  and potential impacts on nearby
   ecosystem
 location: Shanghai China
