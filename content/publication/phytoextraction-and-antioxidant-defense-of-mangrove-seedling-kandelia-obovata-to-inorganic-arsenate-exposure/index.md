@@ -11,7 +11,7 @@ authors:
   - Liling Jiang
 author_notes:
   - Equal contribution
-  - Correspondence
+  - Equal contribution
 doi: " https://doi.org/ 10.3390/w14040643"
 publication: "*Water*"
 publication_short: Water
