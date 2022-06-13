@@ -13,6 +13,8 @@ authors:
   - Yi Zhou
   - Haoliang Lu
   - Chongling Yan
+author_notes:
+  - First Author
 doi: https://doi.org/10.1016/j.scitotenv.2021.145685
 publication: " *Science of the Total Environment*"
 publication_short: STOTEN
