@@ -56,5 +56,5 @@ links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/dynamics-of-low-molecular-weight-organic-acids-for-the-extraction-and-sequestration-of-arsenic-species-and-heavy-metals-using-mangrove-sediments/Meikang_2021_CHEMOSPHERE.pdf
+    url: https://meikang.netlify.app/publication/phytoextraction-and-antioxidant-defense-of-mangrove-seedling-kandelia-obovata-to-inorganic-arsenate-exposure/meikang1_Co1-Author.pdf
 ---
