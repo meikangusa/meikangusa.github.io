@@ -1,5 +1,5 @@
 ---
-title: Dynamics of low-molecular-weight organic acids for the extraction and
+title: 3. Dynamics of low-molecular-weight organic acids for the extraction and
   sequestration of arsenic species and heavy metals using mangrove sediments
 publication_types:
   - "2"
