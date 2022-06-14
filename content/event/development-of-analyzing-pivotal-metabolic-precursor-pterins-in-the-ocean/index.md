@@ -35,7 +35,7 @@ links:
     name: Tweet
     url: https://twitter.com/meican77
   - name: PDF
-    url: development-of-analyzing-pivotal-metabolic-precursor-pterins-in-the-ocean/梅康-第七届生物-地球有机化学.pdf
+    url: https://meikang.netlify.app/publication/梅康-第七届生物-地球有机化学.pdf
 event_url: http://lvec.ibcas.ac.cn/xwlm/tzgg/202011/t20201102_587511.html
 featured: false
 authors:
