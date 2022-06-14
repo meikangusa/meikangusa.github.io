@@ -22,7 +22,7 @@ abstract: Hydrothermal vents are one of the important sources of major or trace
   information with which to further  understand metal redeployment in submarine
   shallow nearby ecosystems.
 url_pdf: ""
-title: Transformation, Fluxes and Impacts of Dissolved Metals from  Shallow
+title: 4. Transformation, Fluxes and Impacts of Dissolved Metals from  Shallow
   Water Hydrothermal Vents on Nearby Ecosystem  Offshore of Kueishantao (NE
   Taiwan)
 publication_types:
