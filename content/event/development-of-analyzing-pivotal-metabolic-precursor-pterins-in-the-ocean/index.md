@@ -54,7 +54,7 @@ event: 第七届生物-有机地球化学研讨会
 publishDate: 2022-06-14T18:08:45.642Z
 tags: []
 image:
-  caption: "Image credit: [**Mei Kang 2020**](https://meikang.netlify.app/)"
+  caption: "Image credit: [**Xin Guo 2020**](https://meikang.netlify.app/)"
   focal_point: Right
 url_code: ""
 ---
