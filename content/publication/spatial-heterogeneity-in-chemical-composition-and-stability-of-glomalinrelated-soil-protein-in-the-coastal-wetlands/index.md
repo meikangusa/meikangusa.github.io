@@ -1,5 +1,5 @@
 ---
-title: Spatial heterogeneity in chemical composition and stability of
+title: 6. Spatial heterogeneity in chemical composition and stability of
   glomalinrelated soil protein in the coastal wetlands
 publication_types:
   - "2"
