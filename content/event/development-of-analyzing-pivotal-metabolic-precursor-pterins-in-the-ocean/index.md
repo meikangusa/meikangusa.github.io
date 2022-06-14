@@ -42,8 +42,8 @@ authors:
 url_video: ""
 url_slides: ""
 address:
-  city: 北京
-  country: 中国
+  city: 中国北京
+  country: ""
   postcode: ""
   region: ""
   street: 香山
