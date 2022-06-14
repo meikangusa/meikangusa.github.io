@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Talks'
-subtitle: Academic Presentation At Conferences
+title: 'Event'
+subtitle: Oral & Poster Presentations
 
 content:
   # Page type to display. E.g. post, event, publication...
