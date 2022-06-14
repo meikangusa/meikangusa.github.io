@@ -1,5 +1,5 @@
 ---
-title: "Low-level arsenite boosts rhizospheric exudation
+title: "2. Low-level arsenite boosts rhizospheric exudation
   of  low-molecular-weight organic acids from mangrove seedlings  (Avicennia
   marina): Arsenic phytoextraction, removal, and detoxification"
 publication_types:
