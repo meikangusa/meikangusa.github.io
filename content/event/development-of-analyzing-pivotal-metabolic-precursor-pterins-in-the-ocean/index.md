@@ -43,9 +43,9 @@ url_video: ""
 url_slides: ""
 address:
   city: 中国北京
-  country: ""
-  postcode: ""
-  region: ""
+  country:
+  postcode: "100093"
+  region: 
   street: 香山
 event: 第七届生物-有机地球化学研讨会
 publishDate: 2020-10-14T18:08:45.642Z
