@@ -37,6 +37,8 @@ links:
     icon_pack: fab
     name: Tweet
     url: https://twitter.com/meican77
+  - name: PDF
+    url: https://meikang.netlify.app/publication/2022-14th-UCAS-meikang.pdf
 event_url: https://ntouimb14thucas.wixsite.com/14thucasicmfbec
 featured: false
 authors:
