@@ -25,7 +25,9 @@ summary: This Talk was presented at University Consortium on Aquatic
   Sciences(UCAS) Symposium in March 2022. 第十四届水环境科学高校联盟研讨会(The 14th UCAS
   Symposium)
   于2022年3月27日-3月31日顺利召开。本次研讨会由台湾海洋大学主办，厦门大学、香港大学、台湾中山大学协办，以线上线下相结合的办会方式联合开展。
-title: 2021-13th-UCAS-meikang
+title: "【ORAL】🤓 Low-level arsenite boosts rhizospheric exudation of
+  low-molecular-weight organic acids from mangrove seedlings (Avicennia marima):
+  Arsenic phytoextraction, removal, and detoxification."
 location: "Hongkong China "
 date: 2021-04-19T18:59:54.329Z
 date_end: 2021-04-23T00:00:00.000Z
