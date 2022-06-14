@@ -3,7 +3,9 @@ title: Ⅰ. 海洋水体中生物蝶呤的检测方法
 publication_types:
   - "8"
 authors:
-  - 梅康，王德利，石梦秋
+  - 梅康
+  - 王德利
+  - 石梦秋
 author_notes:
   - First Author
 doi: ZL 2020 1 0263638. X
