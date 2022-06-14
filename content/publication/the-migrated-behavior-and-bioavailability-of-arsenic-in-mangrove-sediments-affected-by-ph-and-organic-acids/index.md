@@ -1,5 +1,5 @@
 ---
-title: The migrated behavior and bioavailability of arsenic in mangrove
+title: 1. The migrated behavior and bioavailability of arsenic in mangrove
   sediments affected by pH and organic acids
 publication_types:
   - "2"
