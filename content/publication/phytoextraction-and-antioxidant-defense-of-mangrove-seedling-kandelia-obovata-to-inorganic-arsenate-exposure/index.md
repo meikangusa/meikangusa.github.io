@@ -1,6 +1,6 @@
 ---
-title: Phytoextraction and Antioxidant Defense of Mangrove  Seedling (Kandelia
-  obovata) to Inorganic Arsenate Exposure
+title: 5. Phytoextraction and Antioxidant Defense of Mangrove  Seedling
+  (Kandelia obovata) to Inorganic Arsenate Exposure
 publication_types:
   - "2"
 authors:
