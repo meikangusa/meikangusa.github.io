@@ -21,10 +21,7 @@ abstract: Arsenic (As) contamination in mangrove wetlands has become a major
   that mangroves are potentially favourable for As phytoextraction, removal and
   detoxification.
 url_pdf: ""
-summary: This Talk was presented at University Consortium on Aquatic
-  Sciences(UCAS) Symposium in March 2022. 第十四届水环境科学高校联盟研讨会(The 14th UCAS
-  Symposium)
-  于2022年3月27日-3月31日顺利召开。本次研讨会由台湾海洋大学主办，厦门大学、香港大学、台湾中山大学协办，以线上线下相结合的办会方式联合开展。
+summary: 第十三届水环境科学高校联盟研讨会(The 13th UCAS Symposium) 于2021年4月18日-4月22日在厦门大学翔安校区周隆泉楼顺利召开。本次研讨会以线上线下结合的办会方式开展，共有来自厦门大学、香港大学、台湾中山大学、台湾海洋大学、自然资源部第三海洋研究所、清华大学、浙江海洋大学、上海海洋大学、加拿大麦吉尔大学等高校或科研机构的从事水环境科学研究的专家和研究生共50余人参会，实现了大陆地区和港台地区水环境科学研究者的云端在线交流。
 title: "【ORAL】🤓 Low-level arsenite boosts rhizospheric exudation of
   low-molecular-weight organic acids from mangrove seedlings (Avicennia marima):
   Arsenic phytoextraction, removal, and detoxification."
