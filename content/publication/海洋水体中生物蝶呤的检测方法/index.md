@@ -22,6 +22,10 @@ date: 2021-07-14T04:58:42.599Z
 links:
   - icon: ""
     icon_pack: ""
+    name: D.C.
+    url: https://meikang.netlify.app/publication/海洋水体中生物蝶呤的检测方法/Patent-2021-meikang.pdf
+  - icon: ""
+    icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/dynamics-of-low-molecular-weight-organic-acids-for-the-extraction-and-sequestration-of-arsenic-species-and-heavy-metals-using-mangrove-sediments/Meikang_2021_CHEMOSPHERE.pdf
+    url: https://meikang.netlify.app/publication/海洋水体中生物蝶呤的检测方法/Patent.pdf
 ---
