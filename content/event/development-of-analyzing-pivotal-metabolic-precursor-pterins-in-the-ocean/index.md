@@ -42,11 +42,11 @@ authors:
 url_video: ""
 url_slides: ""
 address:
-  city: Los Angeles
-  country: United States
-  postcode: "90007"
-  region: California USA
-  street: University Park Campus (online)
+  city: 北京
+  country: 中国
+  postcode: ""
+  region: ""
+  street: 香山
 event: 第七届生物-有机地球化学研讨会
 publishDate: 2020-10-14T18:08:45.642Z
 tags: []
