@@ -43,11 +43,11 @@ authors:
 url_video: ""
 url_slides: ""
 address:
-  city: Xiamen
+  city: 厦门
   country: China
   postcode: "361102"
-  region: 中国厦门
-  street: 厦门大学翔安校区周隆泉楼 (online)
+  region: 中国
+  street: 厦门大学翔安校区(Online)
 event: The 13th UCAS Symposium
 publishDate: 2021-04-24T18:59:54.346Z
 tags: []
