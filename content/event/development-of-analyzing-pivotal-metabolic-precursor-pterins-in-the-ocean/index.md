@@ -19,10 +19,7 @@ abstract: "Pterins are fundamental in biological growth and functioning
   working on the protocol and further test samples taken from coastal  waters
   and open oceans."
 url_pdf: ""
-summary: This Talk was presented at University Consortium on Aquatic
-  Sciences(UCAS) Symposium in March 2022. 第十四届水环境科学高校联盟研讨会(The 14th UCAS
-  Symposium)
-  于2022年3月27日-3月31日顺利召开。本次研讨会由台湾海洋大学主办，厦门大学、香港大学、台湾中山大学协办，以线上线下相结合的办会方式联合开展。
+summary: 2020年10月12日至13日，由中国科学院植物研究所、青藏高原研究所共同主办的第七届生物-有机地球化学研讨会在北京召开。会议邀请了5位国际知名专家作大会报告，60余位专家分别围绕“海洋生物-有机地球化学”“陆地生物-有机地球化学”“微生物地球化学与基因组学”和“地质时期生物-有机地球化学”四个研究领域作专题报告。与会人员就全国生物-有机地球化学领域的最新进展进行了交流与讨论。
 title: 【ORAL】🤓 Analysis of pivotal metabolic precursor-pterins in marine phytoplankton and bacteria  
 location: Beijing China
 date: 2022-06-14T18:08:45.613Z
