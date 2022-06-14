@@ -46,11 +46,11 @@ authors:
 url_video: ""
 url_slides: ""
 address:
-  city: Los Angeles
-  country: United States
-  postcode: "90007"
-  region: California USA
-  street: University Park Campus (online)
+  city: Xiamen
+  country: China
+  postcode: "361102"
+  region: 中国厦门
+  street: 厦门大学翔安校区周隆泉楼 (online)
 event: The 13th UCAS Symposium
 publishDate: 2021-04-24T18:59:54.346Z
 tags: []
