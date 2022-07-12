@@ -1,5 +1,6 @@
 ---
-title: Ⅰ. 海洋水体中生物蝶呤的检测方法
+title: Ⅰ. Method for detecting biopterin in marine water body
+subtitle: 海洋水体中生物蝶呤的检测方法
 publication_types:
   - "8"
 authors:
