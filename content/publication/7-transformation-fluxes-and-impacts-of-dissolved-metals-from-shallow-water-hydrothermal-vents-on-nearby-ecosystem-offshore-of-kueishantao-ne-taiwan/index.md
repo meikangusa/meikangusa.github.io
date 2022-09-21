@@ -6,13 +6,7 @@ authors:
   - Xinli Yue
   - Haowen Zhong
   - admin
-  - Deli Wang*
- author_notes:
-  - 
-  -  
-  -   
-  - Co-author   
-  -     
+  - Deli Wang
 abstract: Protoporphyrin IX (PPIX), a fundamental precursor in the synthesis of
   heme and chlorophyll, plays a vital role in the biological metabolism and
   biogeochemical cycling in the ocean. PPIX has previously been identified in
@@ -60,8 +54,12 @@ publication_short: ""
 url_source: ""
 url_video: ""
 author_notes:
-  - First Author
-  - Correspondence
+ author_notes:
+  - 
+  -  
+  -   
+  - Co-author   
+  -     
 publication: " *Frontiers in Marine Science*"
 featured: true
 date: 2022-09-21T17:28:44.125Z
