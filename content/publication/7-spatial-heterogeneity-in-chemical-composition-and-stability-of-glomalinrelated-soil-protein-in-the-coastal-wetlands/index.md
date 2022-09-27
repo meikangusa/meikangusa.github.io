@@ -67,7 +67,7 @@ links:
     name: PDF
     url: https://meikang.netlify.app/publication/7-transformation-fluxes-and-impacts-of-dissolved-metals-from-shallow-water-hydrothermal-vents-on-nearby-ecosystem-offshore-of-kueishantao-ne-taiwan/meikang2_Co4-2022-Gu-Lide-A_new_technique_of_quantifying_protoporphyrin_IX_i.pdf
 url_slides: ""
-title: “7. A new technique of quantifying protoporphyrin IX in microbial cells in seawater”
+title: 7. A new technique of quantifying protoporphyrin IX in microbial cells in seawater
 summary: "Keywords:  Protoporphyrin IX, HPLC, coastal ecosystem, essential metabolites, phytoplankton and bacteria"
 publishDate: 2022-02-03T00:00:00.000Z
 url_poster: ""
