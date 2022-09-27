@@ -40,14 +40,12 @@ abstract: Protoporphyrin IX (PPIX), a fundamental precursor in the synthesis of
 url_pdf: ""
 tags: []
 projects:
-  - Taiwan Kuisahntao Hydrothermal Vents
+  - Microbial organic molecule
 image:
-  caption: "Image credit: [**MEIKANG**](https://meikang.netlify.app/)"
+  caption: "Image credit: [**Lide Gu**](https://meikang.netlify.app/)"
   focal_point: ""
   preview_only: false
-summary: "Keywords: siderophile elements; chalcophile elements; submarine
-  hydrothermal ecosystem; coupling processes; heavy metals; carbon; nitrogen and
-  sulphur; Kueishantao Islet"
+summary: "Keywords: Protoporphyrin IX, HPLC, coastal ecosystem, essential metabolites, phytoplankton and bacteria"
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -69,9 +67,7 @@ links:
     name: PDF
     url: https://meikang.netlify.app/publication/7-transformation-fluxes-and-impacts-of-dissolved-metals-from-shallow-water-hydrothermal-vents-on-nearby-ecosystem-offshore-of-kueishantao-ne-taiwan/meikang2_Co4-2022-Gu-Lide-A_new_technique_of_quantifying_protoporphyrin_IX_i.pdf
 url_slides: ""
-title: 7. Transformation, Fluxes and Impacts of Dissolved Metals from  Shallow
-  Water Hydrothermal Vents on Nearby Ecosystem  Offshore of Kueishantao (NE
-  Taiwan)
+title: 7. A new technique of quantifying protoporphyrin IX in microbial cells in seawater)
 summary: "Keywords:  Protoporphyrin IX, HPLC, coastal ecosystem, essential metabolites, phytoplankton and bacteria"
 publishDate: 2022-02-03T00:00:00.000Z
 url_poster: ""
