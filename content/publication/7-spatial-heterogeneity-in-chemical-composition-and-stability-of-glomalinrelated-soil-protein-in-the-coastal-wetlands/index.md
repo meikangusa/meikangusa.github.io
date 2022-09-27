@@ -1,60 +1,80 @@
 ---
-title: 7. A new technique of quantifying protoporphyrin IX in microbial cells in
-  seawater
 publication_types:
   - "2"
 authors:
-  - Zhenli Guo
-  - Jingchun Liu
-  - Jiajia Wu
-  - Dan Yang
-  - Kang Mei
-  - Hanyi Li
-  - Haoliang Lu
-  - Chongling Yan
-author_notes:
-  - ""
-  - ""
-  - ""
-  - ""
-  - Co_Author
-doi: http://dx.doi.org/10.1016/j.scitotenv.2022.155351
-publication: "*Science of the Total Environment*"
-publication_short: STOTEN
-abstract: GRSP is widely distributed in coastal wetlands, and there is a
-  tendency for it to degrade with increasing burial depth.  However, the dynamic
-  changes in the chemical composition and stability of GRSP during the burial
-  process are still  unclear. The purpose of this study is to clarify the
-  chemical composition and accumulation characteristics of GRSP during the
-  burial process in the Zhangjiang estuary. In a field study, soil cores to the
-  depth of 100 cm were collected in the  estuary from mangrove forests dominated
-  by Kandelia obovata and Avicennia marina, and from mudflat. The
-  results  showed that the concentration of GRSP in mangrove forest soil was
-  significantly higher than that in the mudflat (p  < 0.05), and the C/N ratio
-  of GRSP increased with depth at all sites. Analysis of Fourier transform
-  infrared (FTIR)  data showed that the degradation rates of the GRSP's
-  compositions varied with increasing burial depth, with microbial  action and
-  pH possibly being the main factors affecting degradation. Values of
-  recalcitrance index (RI) showed that the  stability of GRSP increased with
-  increasing depth, and the contribution of GRSP to soil organic carbon (SOC)
-  also increased. This suggests that the burial process plays a role in
-  screening and storing the stable components of GRSP.  Overall, our findings
-  suggest that the concentration and chemical composition of GRSP vary
-  dynamically according  to habitat and burial processes. In addition, the
-  improved stability of GRSP could contribute to carbon sequestration  in
-  coastal wetlands.
-draft: false
-featured: false
+  - Lide Gu
+  - Xinli Yue
+  - Haowen Zhong
+  - admin
+  - Deli Wang
+abstract: Protoporphyrin IX (PPIX), a fundamental precursor in the synthesis of
+  heme and chlorophyll, plays a vital role in the biological metabolism and
+  biogeochemical cycling in the ocean. PPIX has previously been identified in
+  humans, animals, and plants, while so far as we know, there is no measurements
+  until now regarding its contents in microbes, and especially in marine
+  phytoplankton and bacteria. Here, for the first time, we reported a method of
+  determining PPIX in marine microbial cells via acetone extraction followed by
+  reversed phase high-performance liquid chromatography quantification, in which
+  acetone-acetonitrile/water-formic acid buffer was used as a gradient elution
+  solvent. The method was optimized with the detection limit of 3.8 ± 1.0 pM,
+  and recovery rate of 97.5 ± 1.9%. The structure of the extracted PPIX was
+  further confirmed using tandem mass spectrometry as positively associated with
+  specific protonated molecules [M + H]+. The method was then successfully
+  applied in the determination of PPIX in microbial cells in the water samples
+  collected from a median-sized subtropical estuary (the Jiulong River Estuary,
+  China). The results showed that PPIX existed widely and ranged from 20 – 170
+  ng/L in cells in the water samples. In the whole estuary, cellular PPIX
+  generally decreased linearly with increasing salinity. A positive correlation
+  of PPIX with particulate organic matter in the estuary suggested of sediment
+  suspension and dissolution as its possible source. In addition, a general
+  hyperbolic fitting pattern was observed for PPIX against dissolved inorganic
+  nitrogen, PO4 3−, and the bacterial abundance (104 – 106 cells/mL) in the
+  estuary. Such results indicated that PPIX played a crucial role in linking
+  nutrients and the microbial productivity. In summary, we developed a new
+  technique of quantifying cellular PPIX in water samples and confirmed the wide
+  existence of cellular PPIX in natural waters. The data from Jiulong River
+  estuary further suggest that the contents of cellular PPIX be enhanced with
+  the nutrient supply from riverine inputs and sediment suspensions, which
+  thereafter dictate the productivity of phytoplankton and bacteria in coastal
+  waters.
+url_pdf: ""
+tags: []
+projects:
+  - Taiwan Kuisahntao Hydrothermal Vents
 image:
-  filename: featured.png
+  caption: "Image credit: [**MEIKANG**](https://meikang.netlify.app/)"
   focal_point: ""
-  preview_only: ""
-summary: "Keywords: Kandelia obovata; arsenic; antioxidant enzymes;
-  bioaccumulation factor; translocation factor"
-date: 2022-09-27T15:50:29.042Z
+  preview_only: false
+summary: "Keywords: siderophile elements; chalcophile elements; submarine
+  hydrothermal ecosystem; coupling processes; heavy metals; carbon; nitrogen and
+  sulphur; Kueishantao Islet"
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+author_notes:
+ author_notes:
+  - 
+  -  
+  -   
+  - Co-author   
+  -     
+publication: " *Frontiers in Marine Science*"
+featured: true
+date: 2022-09-21T17:28:44.125Z
 links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/spatial-heterogeneity-in-chemical-composition-and-stability-of-glomalinrelated-soil-protein-in-the-coastal-wetlands/meikang2_Co5-author_2022.pdf
+    url: https://meikang.netlify.app/publication/7-transformation-fluxes-and-impacts-of-dissolved-metals-from-shallow-water-hydrothermal-vents-on-nearby-ecosystem-offshore-of-kueishantao-ne-taiwan/meikang2_Co4-2022-Gu-Lide-A_new_technique_of_quantifying_protoporphyrin_IX_i.pdf
+url_slides: ""
+title: 7. Transformation, Fluxes and Impacts of Dissolved Metals from  Shallow
+  Water Hydrothermal Vents on Nearby Ecosystem  Offshore of Kueishantao (NE
+  Taiwan)
+summary: "Keywords:  Protoporphyrin IX, HPLC, coastal ecosystem, essential metabolites, phytoplankton and bacteria"
+publishDate: 2022-02-03T00:00:00.000Z
+url_poster: ""
+url_code: ""
+doi: https://doi.org/10.3389/fmars.2022.991126
 ---
