@@ -1,6 +1,6 @@
 ---
-title: 7. Spatial heterogeneity in chemical composition and stability of
-  glomalinrelated soil protein in the coastal wetlands
+title: 7. A new technique of quantifying protoporphyrin IX in microbial cells in
+  seawater
 publication_types:
   - "2"
 authors:
