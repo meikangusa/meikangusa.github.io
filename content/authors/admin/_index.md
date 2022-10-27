@@ -48,5 +48,5 @@ Anyway, my research interests not only include Marine sciences, I am also fond o
 
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mk_resume_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mk_resume_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} 下载 中文 {{< staticref "uploads/mk_resume_2022.pdf" "newtab" >}}简历{{< /staticref >}}.
 
