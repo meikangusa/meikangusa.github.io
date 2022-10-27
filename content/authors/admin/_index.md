@@ -39,7 +39,7 @@ social:
   icon_pack: fab
   link: https://web.whatsapp.com/
 superuser: true
-title: Mei Kang
+title: Mei Kang (梅 康)
 ---
 
 I am interested in trace metals, marine microorganisms, and low-weight-molecular compounds in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pteridines, etc.
