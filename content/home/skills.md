@@ -22,7 +22,7 @@ feature:
     name: Research
   - description: Hard
     icon: chart-line
-    icon_pack: fab
+    icon_pack: fas
     name: Study
 #  - description: 50%
 #   icon: camera-retro
