@@ -22,7 +22,7 @@ feature:
     name: Research
   - description: Hard
     icon: chart-line
-    icon_pack: Harder
+    icon_pack: fab
     name: Study
 #  - description: 50%
 #   icon: camera-retro
@@ -31,7 +31,7 @@ feature:
   - icon: ":smile:"
     icon_pack: "emoji"
     name: "Smile"
-    description: "99%"
+    description: "Harder"
     
     
 # Uncomment to use emoji icons.
