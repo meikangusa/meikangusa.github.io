@@ -16,13 +16,13 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 10%
+  - description: Hard
     icon: r-project
     icon_pack: fab
     name: Research
-  - description: 50%
+  - description: Hard
     icon: chart-line
-    icon_pack: fas
+    icon_pack: Harder
     name: Study
 #  - description: 50%
 #   icon: camera-retro
