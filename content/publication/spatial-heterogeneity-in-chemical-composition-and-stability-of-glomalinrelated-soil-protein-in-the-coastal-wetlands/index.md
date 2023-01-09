@@ -1,57 +1,49 @@
 ---
-title: 6. Spatial heterogeneity in chemical composition and stability of
-  glomalinrelated soil protein in the coastal wetlands
+title: 8. Optimization modeling and mechanism discussion on specific industrial
+  coal-washing wastewater treatment
 publication_types:
   - "2"
 authors:
-  - Zhenli Guo
-  - Jingchun Liu
-  - Jiajia Wu
-  - Dan Yang
+  - Yitong Pan
+  - Deli Wang
   - Kang Mei
-  - Hanyi Li
-  - Haoliang Lu
-  - Chongling Yan
+  - Tian Tang
 author_notes:
   - ""
   - ""
   - ""
   - ""
   - Co_Author
-doi: http://dx.doi.org/10.1016/j.scitotenv.2022.155351
-publication: "*Science of the Total Environment*"
-publication_short: STOTEN
-abstract: GRSP is widely distributed in coastal wetlands, and there is a
-  tendency for it to degrade with increasing burial depth.  However, the dynamic
-  changes in the chemical composition and stability of GRSP during the burial
-  process are still  unclear. The purpose of this study is to clarify the
-  chemical composition and accumulation characteristics of GRSP during the
-  burial process in the Zhangjiang estuary. In a field study, soil cores to the
-  depth of 100 cm were collected in the  estuary from mangrove forests dominated
-  by Kandelia obovata and Avicennia marina, and from mudflat. The
-  results  showed that the concentration of GRSP in mangrove forest soil was
-  significantly higher than that in the mudflat (p  < 0.05), and the C/N ratio
-  of GRSP increased with depth at all sites. Analysis of Fourier transform
-  infrared (FTIR)  data showed that the degradation rates of the GRSP's
-  compositions varied with increasing burial depth, with microbial  action and
-  pH possibly being the main factors affecting degradation. Values of
-  recalcitrance index (RI) showed that the  stability of GRSP increased with
-  increasing depth, and the contribution of GRSP to soil organic carbon (SOC)
-  also increased. This suggests that the burial process plays a role in
-  screening and storing the stable components of GRSP.  Overall, our findings
-  suggest that the concentration and chemical composition of GRSP vary
-  dynamically according  to habitat and burial processes. In addition, the
-  improved stability of GRSP could contribute to carbon sequestration  in
-  coastal wetlands.
+doi: http://dx.doi.org/10.1007/s13762-022-04738-z
+publication: "*International journal of Environmental Science and Technology*"
+publication_short: IJEST
+abstract: "Coal-washing wastewater is the residual produced by the coal
+  industry, which may represent a high risk of serious environmental problems
+  worldwide. However, prevailing coal-washing treatment processes are hardly
+  ideal for achieving the goal of solid–liquid separation due to the
+  wastewater’s extremely stable physicochemical properties. This research treats
+  the coal-washing wastewater produced by a plant in Northeast China by means of
+  the coagulation–flocculation process. The sedimentation ability of different
+  coagulant choices and flocculant dosages is tested and analyzed through
+  pseudo-first-order reaction kinetics. Scanning transmission electron
+  microscopy is used to account for the settlement mechanism of flocs, which not
+  only explains the characterized effect of coagulants and the flocculant but
+  also demonstrates the advantage of using combined coagulates. Using the
+  three-dimensional response surface method, an optimized treatment condition of
+  1.20 g m(FeCl3): m(CaO) = 1:3 mixed coagulants + 2.00 mL 0.13% polyacrylamide
+  flocculant is proposed for 100 mL of selected wastewater. Additionally, the
+  relationships between the optimal treatment conditions and the properties of
+  wastewater obtained from X-ray energy-dispersive analysis are determined for
+  future practical optimization needs."
 draft: false
 featured: false
 image:
-  filename: featured.png
+  filename: ijest.png
   focal_point: ""
   preview_only: ""
-summary: "Keywords: Kandelia obovata; arsenic; antioxidant enzymes;
-  bioaccumulation factor; translocation factor"
-date: 2022-04-14T06:05:46.946Z
+summary: "Keywords: coal-washing wastewater; coagulant; flocculant;
+  pseudo-first-order regression; optimization modeling; sedimentation mechanism"
+date: 2022-12-29T11:46:30.919Z
 links:
   - icon: ""
     icon_pack: ""
