@@ -48,5 +48,5 @@ links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/spatial-heterogeneity-in-chemical-composition-and-stability-of-glomalinrelated-soil-protein-in-the-coastal-wetlands/meikang2_Co5-author_2022.pdf
+    url: https://meikang.netlify.app/publication/8_Optimization modeling and mechanism discussion on specific industrial coal-washing wastewater treatment/meikang2_Co5-author_2022.pdf
 ---

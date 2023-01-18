@@ -61,4 +61,9 @@ url_slides: ""
 publishDate: 2022-02-03T00:00:00.000Z
 url_poster: ""
 url_code: ""
+links:
+  - icon: ""
+    icon_pack: ""
+    name: PDF
+    url: https://meikang.netlify.app/publication/4_Transformation, Fluxes and Impacts of Dissolved Metals from Shallow Water Hydrothermal Vents on Nearby Ecosystem Offshore of Kueishantao (NE Taiwan)/meikang_paper4-2022-PHD-Sustainability.pdf
 ---

@@ -59,5 +59,5 @@ links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/phytoextraction-and-antioxidant-defense-of-mangrove-seedling-kandelia-obovata-to-inorganic-arsenate-exposure/meikang1_Co1-Author.pdf
+    url: https://meikang.netlify.app/publication/5_phytoextraction-and-antioxidant-defense-of-mangrove-seedling-kandelia-obovata-to-inorganic-arsenate-exposure/meikang1_Co1-Author.pdf
 ---
