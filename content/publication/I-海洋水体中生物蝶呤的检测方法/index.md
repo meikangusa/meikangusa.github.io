@@ -25,7 +25,7 @@ links:
   - icon: ""
     icon_pack: ""
     name: D.C.
-    url: https://meikang.netlify.app/publication/海洋水体中生物蝶呤的检测方法/Patent-2021-meikang.pdf
+    url: https://meikang.netlify.app/publication/I-海洋水体中生物蝶呤的检测方法/Patent-2021-meikang.pdf
   - icon: ""
     icon_pack: ""
     name: PDF
