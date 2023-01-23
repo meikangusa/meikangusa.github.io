@@ -65,5 +65,5 @@ links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/4_Transformation-Fluxes-and-Impacts-of-Dissolved-Metals-from-Shallow-Water-Hydrothermal-Vents-on-Nearby-Ecosystem-Offshore-of-Kueishantao-NE-Taiwan/meikang_paper4-2022-PHD-Sustainability.pdf
+    url: https://meikang.netlify.app/publication/4_Transformation-Fluxes-and-Impacts-of-Dissolved-Metals-from-Shallow-Water-Hydrothermal-Vents-on-Nearby-Ecosystem-Offshore-of-Kueishantao-NE-Taiwan/example.pdf
 ---
