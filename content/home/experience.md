@@ -28,7 +28,7 @@ experience:
     company_logo: org-usc
     location: California, USA
     date_start: '2021-12-29'
-    date_end: ''
+    date_end: '2023-01-03'
     description: |2-
         Focusing on:
         
