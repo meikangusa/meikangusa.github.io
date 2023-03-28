@@ -39,6 +39,7 @@ image:
   filename: featured.png
   focal_point: ""
   preview_only: ""
+  caption: Graph Abstract
 summary: "Keywords:  Oxalate ligand exchange; Reduced dissolution; Rhizospheric
   interactions; Mutual transformations; Competitive adsorption"
 date: 2023-03-28T12:31:32.084Z
