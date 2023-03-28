@@ -37,7 +37,7 @@ abstract: "Mutual transformations of rhizospheric arsenic (As) in
 draft: false
 featured: true
 image:
-  filename: ""
+  filename: "featured.png"
   focal_point: ""
   preview_only: ""
 summary: "Keywords:  Oxalate ligand exchange; Reduced dissolution; Rhizospheric
