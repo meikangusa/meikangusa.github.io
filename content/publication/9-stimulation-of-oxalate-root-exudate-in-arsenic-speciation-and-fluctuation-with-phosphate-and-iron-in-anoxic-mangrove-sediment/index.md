@@ -13,7 +13,7 @@ authors:
   - Zhiwen Tan
   - Anran Li
   - Jinyi Qu
-  - Chongling Yan.
+  - Chongling Yan
 author_notes:
   - First Author
 doi: https://doi.org/10.1016/j.marpolbul.2023.114823
