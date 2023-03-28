@@ -13,7 +13,7 @@ authors:
   - Zhiwen Tan
   - Anran Li
   - Jinyi Qu
-  - and Chongling Yan.
+  - Chongling Yan.
 author_notes:
   - First Author
 doi: https://doi.org/10.1016/j.marpolbul.2023.114823
@@ -47,5 +47,5 @@ links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/1_The-migrated-behavior-and-bioavailability-of-arsenic-in-mangrove-sediments-affected-by-ph-and-organic-acids/meikang_2020_MPB.pdf
+    url: https://meikang.netlify.app/publication/9-stimulation-of-oxalate-root-exudate-in-arsenic-speciation-and-fluctuation-with-phosphate-and-iron-in-anoxic-mangrove-sediment/2023_Kang_Mei_Marine_Pollution_Bulletin.pdf
 ---
