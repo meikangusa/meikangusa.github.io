@@ -6,9 +6,9 @@ publication_types:
 authors:
   - Kang Mei
   - Jingchun Liu
-  - Rongrong Shi
-  - Xin Guo
-  - Haoliang Lu
+  - Liyang Xue
+  - Jicong Xu
+  - ...
   - Chongling Yan
 author_notes:
   - First Author
@@ -33,7 +33,7 @@ abstract: "Mutual transformations of rhizospheric arsenic (As) in
 draft: false
 featured: true
 image:
-  filename: ""
+  filename: featured.png
   focal_point: ""
   preview_only: ""
 summary: "Keywords:  Oxalate ligand exchange; Reduced dissolution; Rhizospheric
@@ -43,5 +43,6 @@ links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/1_The-migrated-behavior-and-bioavailability-of-arsenic-in-mangrove-sediments-affected-by-ph-and-organic-acids/meikang_2020_MPB.pdf
+    url: https://meikang.netlify.app/publication/9-stimulation-of-oxalate-root-exudate-in-arsenic-speciation-and-fluctuation-with-phosphate-and-iron-in-anoxic-mangrove-sediment/2023_Kang Mei_Marine Pollution Bulletin.pdf
+    
 ---
