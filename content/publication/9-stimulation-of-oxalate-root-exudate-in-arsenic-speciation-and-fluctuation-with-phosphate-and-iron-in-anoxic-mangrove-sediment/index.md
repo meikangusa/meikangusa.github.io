@@ -4,12 +4,16 @@ title: 9. Stimulation of oxalate root exudate in arsenic speciation and
 publication_types:
   - "2"
 authors:
-  - Kang Mei
+  - Mei
+  - Kang
   - Jingchun Liu
   - Liyang Xue
   - Jicong Xu
-  - ...
-  - Chongling Yan
+  - Wanlin Jiang
+  - Zhiwen Tan
+  - Anran Li
+  - Jinyi Qu
+  - and Chongling Yan.
 author_notes:
   - First Author
 doi: https://doi.org/10.1016/j.marpolbul.2023.114823
@@ -33,7 +37,7 @@ abstract: "Mutual transformations of rhizospheric arsenic (As) in
 draft: false
 featured: true
 image:
-  filename: featured.png
+  filename: ""
   focal_point: ""
   preview_only: ""
 summary: "Keywords:  Oxalate ligand exchange; Reduced dissolution; Rhizospheric
@@ -43,6 +47,5 @@ links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/9-stimulation-of-oxalate-root-exudate-in-arsenic-speciation-and-fluctuation-with-phosphate-and-iron-in-anoxic-mangrove-sediment/2023_Kang_Mei_Marine_Pollution_Bulletin.pdf
-    
+    url: https://meikang.netlify.app/publication/1_The-migrated-behavior-and-bioavailability-of-arsenic-in-mangrove-sediments-affected-by-ph-and-organic-acids/meikang_2020_MPB.pdf
 ---
