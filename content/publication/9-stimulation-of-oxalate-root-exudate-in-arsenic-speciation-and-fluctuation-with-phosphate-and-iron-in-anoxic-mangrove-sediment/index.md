@@ -4,8 +4,7 @@ title: 9. Stimulation of oxalate root exudate in arsenic speciation and
 publication_types:
   - "2"
 authors:
-  - Mei
-  - Kang
+  - Kang Mei
   - Jingchun Liu
   - Liyang Xue
   - Jicong Xu
@@ -13,7 +12,7 @@ authors:
   - Zhiwen Tan
   - Anran Li
   - Jinyi Qu
-  - Chongling Yan
+  - ChonglingYan
 author_notes:
   - First Author
 doi: https://doi.org/10.1016/j.marpolbul.2023.114823
