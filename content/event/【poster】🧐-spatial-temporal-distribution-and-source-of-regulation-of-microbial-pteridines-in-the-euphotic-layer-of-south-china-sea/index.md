@@ -26,8 +26,7 @@ abstract: "Originally discovered in photoautotrophic cyanobacteria, microbial
   biogeochemical cycling processes occurring in marine microbial communities and
   their biological roles."
 url_pdf: ""
-summary: 第六届“地球系统科学大会” (Conference on Earth System Science,
-  CESS)于2021年7月7-10日在上海举办，是跨学科性的前沿科技论坛，组织了“战略研究”和“青年论坛”。CESS是以地球科学学科交叉为特色的学术盛会。其目标在于促进横跨圈层、穿越时空的学术研讨，推动地球科学研究的海陆结合、古今结合、生命科学与地球科学结合、以及科学与技术的结合。
+summary: 第七届“地球系统科学大会” (Conference on Earth System Science, CESS)于2023年7月4-7日在上海举办。CESS是以地球科学学科交叉为特色的学术盛会。其目标在于促进横跨圈层、穿越时空的学术研讨，推动地球科学研究的海陆结合、古今结合、生命科学与地球科学结合、以及科学与技术的结合。
 title: 【POSTER】🧐 Spatial-temporal distribution and source of regulation of
   microbial pteridines in the euphotic layer of South China Sea
 location: Shanghai China
@@ -47,8 +46,6 @@ event_url: http://www.cess.org.cn
 featured: false
 authors:
   - Mei Kang
-  - Mengqiu Shi
-  - Chen_Tung Arthur Chen
   - Deli Wang
 url_video: ""
 url_slides: ""
