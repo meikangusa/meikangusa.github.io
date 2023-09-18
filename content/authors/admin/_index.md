@@ -3,9 +3,9 @@ bio: My interests include Marine sciences research, Fitness, Golf, Cooking, Call
 
 education:
   courses:
-  - course: PhD Candidate in Marine Sciences
+  - course: Ph.D. of Marine Sciences
     institution: Xiamen University (厦门大学)
-    year: 2023 (expected)
+    year: 2023
   - course: M.S. in Pollution Ecology
     institution: Xiamen University (厦门大学)
     year: 2018
@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: Xiamen University (XMU)
   url: https://en.xmu.edu.cn
-role: Student of XMU, China
+role: Assistant Research Scientist of XMU
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,12 +39,12 @@ social:
   icon_pack: fab
   link: https://web.whatsapp.com/
 superuser: true
-title: Mei Kang (梅 康)
+title: Mei, Kang (梅 康)
 ---
 
-I am interested in trace metals, marine microorganisms, and low-weight-molecular compounds in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pteridines, etc.
+I am interested in trace metals, marine microorganisms, and low-weight-molecular compounds in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pterin molecules, etc.
 
-Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages.
+Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages. 
 
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2023_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.
