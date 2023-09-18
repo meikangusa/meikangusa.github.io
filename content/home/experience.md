@@ -42,7 +42,7 @@ experience:
     company_logo: org-xmu
     location: Xiamen, China
     date_start: '2019-09-12'
-    date_end: '2023-06-30'
+    date_end: '2023-09-02'
     description: Aiming for a Ph.D. degree in Marine Science.
     
   - title: Research Assistant 
