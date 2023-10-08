@@ -1,7 +1,7 @@
 ---
 title: "Congratulations on my Fresh Doctorate!"
 author: "Mei, Kang"
-doi: https://ocg.xmu.edu.cn/
+doi: https://ocg.xmu.edu.cn/info/1038/2697.htm
 date: 2023-00-02T10:00:00-12:00
 categories: ["A New Journey"]
 tags: ["Marine Science", "Thesis Defense", "PhD"]
@@ -14,16 +14,16 @@ links:
   - icon: ""
     icon_pack: ""
     name: Diploma
-    url: https://meikang.netlify.app/publication/9-stimulation-of-oxalate-root-exudate-in-arsenic-speciation-and-fluctuation-with-phosphate-and-iron-in-anoxic-mangrove-sediment/2023_Kang_Mei_Marine_Pollution_Bulletin.pdf
+    url: https://meikang.netlify.app/post/congratulations-on-my-fresh-doctorate/Meikang_PHD_Diploma_Certificate.pdf
   - icon: ""
     icon_pack: ""
     name: Degree
-    url: https://meikang.netlify.app/publication/9-stimulation-of-oxalate-root-exudate-in-arsenic-speciation-and-fluctuation-with-phosphate-and-iron-in-anoxic-mangrove-sediment/2023_Kang_Mei_Marine_Pollution_Bulletin.pdf
+    url: https://meikang.netlify.app/post/congratulations-on-my-fresh-doctorate/Meikang_PHD_Degree_Proofing.pdf
 ---
 
 
-# Hello Dr. Mei
+# Kang successfully defended the Ph.D. dissertation
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+I am delighted to inform you that Mr. Kang Mei, me, successfully defended the Ph.D. dissertation. This is a milestone for me and for my family.To honor the past that made me who I am, I really want to say thank you all for stopping by in the best part of my life. More importantly, we all take different life pathway in destiny, but we take a little from each other no matter where we go and keep growing. As Wait Disney wrote, we do not look backwards for very long. We keep moving forward, opening up new doors and doing new thing. All the best and Fight on! For more details see <https://ocg.xmu.edu.cn/info/1038/2697.htm>.
 
 
