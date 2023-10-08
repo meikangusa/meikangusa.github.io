@@ -9,9 +9,9 @@ education:
   - course: M.S. in Pollution Ecology
     institution: Xiamen University (厦门大学)
     year: 2018
-#  - course: B.S. in Agricultural Ecology
-#   institution: Hainan Tropical Ocean University
-#  year: 2015
+  - course: B.S. in Ecology
+   institution: Hainan Tropical Ocean University
+  year: 2015
 email: "meikang168@xmu.edu.cn"
 highlight_name: true
 interests:
@@ -39,7 +39,7 @@ social:
   icon_pack: fab
   link: https://web.whatsapp.com/
 superuser: true
-title: Mei, Kang (梅 康)
+title: Dr. Mei, Kang (梅 康)
 ---
 
 I am interested in trace metals, marine microorganisms, and low-weight-molecular compounds in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pterin molecules, etc.
