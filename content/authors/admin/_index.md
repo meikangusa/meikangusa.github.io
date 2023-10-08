@@ -7,7 +7,7 @@ education:
     institution: Xiamen University (厦门大学)
     year: 2023
   - course: M.S. in Pollution Ecology
-    institution: Xiamen University (厦门大学)
+    institution: Xiamen University 
     year: 2018
   - course: B.S. in Ecology
     institution: Hainan Tropical Ocean University
