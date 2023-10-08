@@ -1,6 +1,7 @@
 ---
 title: "Congratulations on my Fresh Doctorate!"
 author: "Mei, Kang"
+doi: https://ocg.xmu.edu.cn/
 date: 2023-00-02T10:00:00-12:00
 categories: ["A New Journey"]
 tags: ["Marine Science", "Thesis Defense", "PhD"]
