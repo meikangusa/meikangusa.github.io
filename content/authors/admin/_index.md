@@ -10,8 +10,8 @@ education:
     institution: Xiamen University (厦门大学)
     year: 2018
   - course: B.S. in Ecology
-   institution: Hainan Tropical Ocean University
-  year: 2015
+    institution: Hainan Tropical Ocean University
+    year: 2015
 email: "meikang168@xmu.edu.cn"
 highlight_name: true
 interests:
