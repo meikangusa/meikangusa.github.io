@@ -2,7 +2,6 @@
 title: Congratulations on my Fresh Doctorate!
 subtitle: Kang successfully defended the Ph.D. dissertation
 date: 2023-09-02T10:00:00.000Z
-doi: https://ocg.xmu.edu.cn/index.htm
 draft: false
 featured: false
 tags: ["Marine Science", "Thesis Defense", "PhD"]
