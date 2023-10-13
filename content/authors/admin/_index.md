@@ -49,7 +49,8 @@ Anyway, my research interests not only include Marine sciences, I am also fond o
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2023_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.               {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2023_Meikang_Resume_cn.pdf" "newtab" >}}个人简历{{< /staticref >}}.
 
 ## VideoMe
-<iframe width="720" height="450" 
+<div style="justify-content: center; display: flex;"
+iframe width="720" height="450" 
   src="https://www.bilibili.com/video/BV11a411s758/?spm_id_from=333.337.search-card.all.click"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen>
