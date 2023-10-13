@@ -48,6 +48,13 @@ Anyway, my research interests not only include Marine sciences, I am also fond o
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2023_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.               {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2023_Meikang_Resume_cn.pdf" "newtab" >}}个人简历{{< /staticref >}}.
 
-<a href="https://www.youtube.com/watch?v=4Lbu8HisDdM
-" target="_blank"><img src="https://github.com/meikangusa/meikangusa.github.io/blob/main/content/authors/admin/avatar.jpg" 
-alt="IMAGE ALT TEXT HERE" width="720" height="360" border="20" /></a>
+## VideoMe
+```{r, eval=knitr::is_html_output(excludes = "epub"), results = 'asis', echo = F}
+cat(
+'<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/9AI3BkKQhn0"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+  gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>'
+)
+```
