@@ -46,11 +46,13 @@ I am interested in trace metals, marine microorganisms, and low-weight-molecular
 
 Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages below the end of page. Or cantact me via email: meikang168@xmu.edu.cn
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2023_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.  |  {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2023_Meikang_Resume_cn.pdf" "newtab" >}}个人简历{{< /staticref >}}.  |  {{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know the Ocean by NASA's clip.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2023_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.   {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2023_Meikang_Resume_cn.pdf" "newtab" >}}个人简历{{< /staticref >}}.  
+
+{{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know the Ocean by NASA.
 
 <div style="justify-content: center; display: flex;">
 <iframe width="960" height="540" 
-  src="https://www.youtube.com/watch?v=_9AYw2EQm8s"
+  src="https://youtu.be/_9AYw2EQm8s?si=2_GsH_V2Fp0udjdp"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
