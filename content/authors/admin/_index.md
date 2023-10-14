@@ -48,11 +48,11 @@ Anyway, my research interests not only include Marine sciences, I am also fond o
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2023_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.   {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2023_Meikang_Resume_cn.pdf" "newtab" >}}个人简历{{< /staticref >}}.  
 
-{{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know more about the Ocean through TED!
+{{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know more about the Ocean through UN!
 
 <div style="justify-content: center; display: flex;">
 <iframe width="720" height="480" 
-  src="https://www.ted.com/talks/triona_mcgrath_how_pollution_is_changing_the_ocean_s_chemistry?referrer=playlist-what_s_happening_to_the_ocean&autoplay=true"
+  src="https://www.bilibili.com/video/BV1U8411o7bq/?spm_id_from=333.999.0.0&vd_source=e6f3a015514091a598876cee73d28b5b"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
