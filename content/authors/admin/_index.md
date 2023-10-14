@@ -52,7 +52,7 @@ Anyway, my research interests not only include Marine sciences, I am also fond o
 
 <div style="justify-content: center; display: flex;">
 <iframe width="720" height="480" 
-  src="https://www.ted.com/playlists/543/what_s_happening_to_the_ocean"
+  src="https://www.ted.com/talks/triona_mcgrath_how_pollution_is_changing_the_ocean_s_chemistry?referrer=playlist-what_s_happening_to_the_ocean&autoplay=true"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
