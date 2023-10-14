@@ -6,6 +6,7 @@ theme: "starter-hugo-academic"
 
 title: MEI KANG # Website name
 baseURL: 'https://meikang.netlify.app/' # Website URL
+googleAnalytics: "UA-1988641-2"
 
 ############################
 ## LANGUAGE
