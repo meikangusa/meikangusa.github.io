@@ -48,11 +48,11 @@ Anyway, my research interests not only include Marine sciences, I am also fond o
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2023_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.   {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2023_Meikang_Resume_cn.pdf" "newtab" >}}个人简历{{< /staticref >}}.  
 
-{{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know more about me through the clip!
+{{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know more about the Ocean through NOAA Ocean Exploration!
 
 <div style="justify-content: center; display: flex;">
 <iframe width="960" height="540" 
-  src="https://pan.baidu.com/pfile/video?path=%2F%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%B5%84%E6%96%99%2FR%20Coding%2FR%E8%AF%AD%E8%A8%80%E8%8B%B1%E6%96%87%E8%A7%86%E9%A2%91%E6%95%99%E6%9D%90%2FR27.%20Hypothesis%20tests%20on%20proportions%20in%20R%20-%20YouTube.mp4&theme=light&from=home"
+  src="https://oceanexplorer.noaa.gov/video_playlist.html"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
