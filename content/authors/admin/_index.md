@@ -52,7 +52,7 @@ Anyway, my research interests not only include Marine sciences, I am also fond o
 
 <div style="justify-content: center; display: flex;">
 <iframe width="960" height="540" 
-  src="https://www.bilibili.com/video/BV1U8411o7bq/?spm_id_from=333.999.0.0&vd_source=e6f3a015514091a598876cee73d28b5b"
+  src="https://pan.baidu.com/pfile/video?path=%2F%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%B5%84%E6%96%99%2FR%20Coding%2FR%E8%AF%AD%E8%A8%80%E8%8B%B1%E6%96%87%E8%A7%86%E9%A2%91%E6%95%99%E6%9D%90%2FR27.%20Hypothesis%20tests%20on%20proportions%20in%20R%20-%20YouTube.mp4&theme=light&from=home"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
