@@ -40,15 +40,13 @@ social:
   link: https://web.whatsapp.com/
 superuser: true
 title: Dr. Mei, Kang (梅 康)
-
+---
 
 I am interested in trace metals, marine microorganisms, and low-weight-molecular compounds in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pterin molecules, etc.
 
 Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages below the end of page. Or cantact me via email: meikang168@xmu.edu.cn
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2023_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.   {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2023_Meikang_Resume_cn.pdf" "newtab" >}}个人简历{{< /staticref >}}.  
-
----
 
 {{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know more about the Ocean through NOAA Ocean Exploration!
 
