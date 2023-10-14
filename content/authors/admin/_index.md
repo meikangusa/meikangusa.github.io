@@ -51,8 +51,8 @@ Anyway, my research interests not only include Marine sciences, I am also fond o
 {{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know more about me see the short video!
 
 <div style="justify-content: center; display: flex;">
-<iframe width="960" height="540" 
-  src="https://meikang.netlify.app/"
+<iframe width="720" height="480" 
+  src="https://drive.google.com/file/d/1l3nn8NIt_pjuzydXkEk-Cv8lu6Bdsqkl/view?usp=drive_link"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
