@@ -57,5 +57,4 @@ Anyway, my research interests not only include Marine sciences, I am also fond o
   gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 
-<script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
 
