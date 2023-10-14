@@ -48,11 +48,11 @@ Anyway, my research interests not only include Marine sciences, I am also fond o
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2023_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.   {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2023_Meikang_Resume_cn.pdf" "newtab" >}}个人简历{{< /staticref >}}.  
 
-{{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know the Ocean by United Nations
+{{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know more about me see the short video!
 
 <div style="justify-content: center; display: flex;">
 <iframe width="960" height="540" 
-  src="https://www.bilibili.com/video/BV1U8411o7bq/?spm_id_from=333.999.0.0&vd_source=e6500f236b9ef4e2e073bf917512495a"
+  src="https://meikang.netlify.app/"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
