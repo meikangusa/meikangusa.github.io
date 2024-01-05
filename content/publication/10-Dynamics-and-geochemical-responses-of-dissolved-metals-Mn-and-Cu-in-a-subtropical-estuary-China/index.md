@@ -39,7 +39,7 @@ abstract: The research delved into the occurrence and dynamics of dissolved
 draft: false
 featured: true
 image:
-  filename: ""
+  filename: "featured.png"
   focal_point: ""
   preview_only: ""
   caption: Graph Abstract
