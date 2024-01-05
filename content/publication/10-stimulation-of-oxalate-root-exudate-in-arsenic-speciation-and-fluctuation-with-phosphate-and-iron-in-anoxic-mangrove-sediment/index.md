@@ -50,5 +50,5 @@ links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/9-stimulation-of-oxalate-root-exudate-in-arsenic-speciation-and-fluctuation-with-phosphate-and-iron-in-anoxic-mangrove-sediment/2023_Kang_Mei_Marine_Pollution_Bulletin.pdf
+    url: https://meikang.netlify.app/publication/10-stimulation-of-oxalate-root-exudate-in-arsenic-speciation-and-fluctuation-with-phosphate-and-iron-in-anoxic-mangrove-sediment/2023_meikang_ESPR_Dynamics_and_geochemical_responses_of_dissolved_me.pdf
 ---
