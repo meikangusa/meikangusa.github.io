@@ -1,47 +1,50 @@
 ---
-title: 10. Stimulation of oxalate root exudate in arsenic speciation and
-  fluctuation with phosphate and iron in anoxic mangrove sediment
+title: 10. Dynamics and geochemical responses of dissolved metals (Mn and Cu) in
+  a subtropical estuary, China
 publication_types:
   - "2"
 authors:
   - Kang Mei
-  - Jingchun Liu
-  - Liyang Xue
-  - Jicong Xu
-  - Wanlin Jiang
-  - Zhiwen Tan
-  - Anran Li
-  - Jinyi Qu
-  - ChonglingYan
+  - Mengqiu Shi
+  - Nengwang Chen
+  - Deli Wang
 author_notes:
   - First Author
-doi: https://doi.org/10.1016/j.marpolbul.2023.114823
-publication: "*Marine Pollution Bulletin*"
-publication_short: Marine Pollution Bulletin
-abstract: "Mutual transformations of rhizospheric arsenic (As) in
-  pollution-prone mangrove sediments affected by root exudate oxalate were
-  simulated. This study focuses on the effect of oxalate on As release,
-  mobilisation, and phase speciation associated with P and Fe was examined under
-  anoxic conditions in time-dependent changes. Results showed that oxalate
-  addition significantly facilitated As–Fe–P release from As-contaminated
-  mangrove sediments. Sediment As formed the adsorptive and the
-  carbonate-binding fractionations, facilitating the re-adsorption processes.
-  Solution As and As^5+ correlated with NaOH–P positively but with NaHCO_3–P and
-  HCl–P negatively. Dominant Fe^3+ (>84%) from the amorphous Fe regulated
-  suspension changes and then time-dependent co-precipitation with As and P.
-  Sediment P formed strong complexes with Fe oxides and could be substituted for
-  As via STEM analysis. Oxalate ligand exchange, competitive adsorption of
-  oxalate, and Fe-reduced dissolution are confirmed to involve, allowing for an
-  insight As/P/Fe mobilization and fate in mangrove wetland. "
+doi: https://doi.org/10.1007/s11356-023-31387-7
+publication: "*Environmental Science and Pollution Research*"
+publication_short: Environmental Science and Pollution Research
+abstract: The research delved into the occurrence and dynamics of dissolved
+  metals, specifically manganese (Mn) and copper (Cu), within the Jiulong River
+  Estuary, South China, a medium-sized subtropical estuary. Our findings
+  unveiled a nuanced seasonal and spatial variability of dissolved metals
+  throughout the entire estuarine system. Notably, dissolved Mn concentrations
+  peaked (~ 3.5 μM) in the upper estuary, diminishing sharply along the salinity
+  gradient, with a modest rise in the middle estuary and outer Xiamen Bay. In
+  the upper estuary, heightened concentrations of dissolved Mn occurred in
+  spring due to augmented terrestrial particle inputs, followed by suboxically
+  reductive releases; conversely, concentrations were low in summer, attributed
+  to dilution from increased freshwater discharges and particle scavenging. In
+  contrast, dissolved Cu exhibited differently, with elevated concentrations
+  (29.2–37.5 nM) in the upper and middle estuaries, driven by reductive
+  dissolution of Mn particles and chloride-induced ion exchanges, respectively.
+  Concurrently, heightened inputs of nutrients and metals correlated with
+  elevated phytoplankton productivity (indicated by chlorophyll a) in the upper
+  and outer estuary regions. Our analysis underscored the sensitivity of
+  dissolved metals to environmental parameters, including temperature, pH, and
+  dissolved oxygen. The integration of compiled historical data underscored the
+  dynamic nature of dissolved metals, particularly Cu, in response to
+  geochemical processes.The elevated ion levels indicated intensified ion
+  releases from particles and sediments, attributable to increased anthropogenic
+  perturbation and climatic changes (e. g. ocean warming).
 draft: false
 featured: true
 image:
-  filename: featured.png
+  filename: ""
   focal_point: ""
   preview_only: ""
   caption: Graph Abstract
-summary: "Keywords:  Oxalate ligand exchange; Reduced dissolution; Rhizospheric
-  interactions; Mutual transformations; Competitive adsorption"
+summary: "Keywords:  Dissolved trace metals; Reductive dissolution;
+  Chloride-induced ion exchange; Temperature rising; Jiulong River Estuary"
 date: 2024-01-05T12:27:15.466Z
 links:
   - icon: ""
