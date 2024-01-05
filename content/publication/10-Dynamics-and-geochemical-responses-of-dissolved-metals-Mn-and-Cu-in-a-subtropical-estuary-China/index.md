@@ -50,5 +50,5 @@ links:
   - icon: ""
     icon_pack: ""
     name: PDF
-    url: https://meikang.netlify.app/publication/10-stimulation-of-oxalate-root-exudate-in-arsenic-speciation-and-fluctuation-with-phosphate-and-iron-in-anoxic-mangrove-sediment/2023_meikang_ESPR_Dynamics_and_geochemical_responses_of_dissolved_me.pdf
+    url: https://meikang.netlify.app/publication/10-Dynamics-and-geochemical-responses-of-dissolved-metals-Mn-and-Cu-in-a-subtropical-estuary-China/2023_meikang_ESPR_Dynamics_and_geochemical_responses_of_dissolved_me.pdf
 ---
