@@ -62,6 +62,15 @@ experience:
     date_start: '2015-09-12'
     date_end: '2018-06-30'
     description: Awarded a Master degree in Ecology.
+
+  - title: Undergraduate Student of Ecology
+    company: Hainan Tropical Ocean University
+    company_url: 'https://sie.hntou.edu.cn/yw/'
+    company_logo: org-HNTU
+    location: Sanya, China
+    date_start: '2011-09-12'
+    date_end: '2015-06-30'
+    description: Awarded a B.S. degree in Ecology.
     
 design:
   columns: '2'
