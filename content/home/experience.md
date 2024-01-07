@@ -40,7 +40,6 @@ experience:
     date_end: '2023-01-03'
     description: 
         Focusing on:
-        
         * Laboratory Analysis
         * Data Arrangement
         * Scientific Writing
