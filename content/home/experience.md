@@ -38,7 +38,7 @@ experience:
     location: California, USA
     date_start: '2021-12-29'
     date_end: '2023-01-03'
-    description: |2-
+    description: 
         Focusing on:
         
         * Laboratory Analysis
