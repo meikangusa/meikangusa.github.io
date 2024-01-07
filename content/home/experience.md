@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- - title: Ph.D. Student of Marine Sciences
+  - title: Ph.D. Student of Marine Sciences
     company: Xiamen University
     company_url: 'https://en.xmu.edu.cn/'
     company_logo: org-xmu
