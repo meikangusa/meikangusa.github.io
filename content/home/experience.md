@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Ph.D. Student of Marine Sciences
+    company: Xiamen University
+    company_url: 'https://en.xmu.edu.cn/'
+    company_logo: org-xmu
+    location: Xiamen, China
+    date_start: '2019-09-12'
+    date_end: '2023-09-30'
+    description: Awarded a Ph.D. degree in Marine Science.
+    
   - title: Guest Ph.D. Student
     company: University of  Southern California
     company_url: 'https://www.usc.edu/'
@@ -36,15 +45,6 @@ experience:
         * Data Arrangement
         * Scientific Writing
 
-  - title: Ph.D. Student of Marine Sciences
-    company: Xiamen University
-    company_url: 'https://en.xmu.edu.cn/'
-    company_logo: org-xmu
-    location: Xiamen, China
-    date_start: '2019-09-12'
-    date_end: '2023-09-02'
-    description: Aiming for a Ph.D. degree in Marine Science.
-    
   - title: Research Assistant 
     company: College of Environment & Ecology, Xiamen University
     company_url: 'https://icee.xmu.edu.cn/'
