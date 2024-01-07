@@ -16,12 +16,12 @@ email: "meikang168@xmu.edu.cn"
 highlight_name: true
 interests:
 - Marine Environmental Science
-- Element & Compound Biogeochemistry 
-- Ecology Assessment Model
+- Element & Molecule Biogeochemistry 
+- Coastal & Wetland Ecology
 organizations:
-- name: Xiamen University (XMU)
-  url: https://en.xmu.edu.cn
-role: Assistant Research Scientist of XMU
+- name: Jiangsu Ocean University
+  url: https://www.jou.edu.cn
+role: Assisstent Professor
 social:
 - icon: envelope
   icon_pack: fas
