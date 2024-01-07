@@ -66,11 +66,12 @@ experience:
   - title: Undergraduate Student of Ecology
     company: Hainan Tropical Ocean University
     company_url: 'https://sie.hntou.edu.cn/yw/'
-    company_logo: org-HNTU
+    company_logo: org-hntou
     location: Sanya, China
     date_start: '2011-09-12'
     date_end: '2015-06-30'
-    description: Awarded a B.S. degree in Ecology.  
+    description: Awarded a B.S. degree in Ecology.
+    
 design:
   columns: '2'
 ---
