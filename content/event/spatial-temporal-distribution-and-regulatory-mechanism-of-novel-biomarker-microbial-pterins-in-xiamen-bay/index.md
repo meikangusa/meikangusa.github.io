@@ -27,35 +27,17 @@ abstract: "Pterins are essential biomolecules widely conserved in diverse
   supplementary source of pterins. Therefore, microbial pterin molecules have
   the potential to be biomarkers for revealing marine biogeochemical cycles and
   primary production processes."
-summary:  2023年10月23日-27日，第十五届水环境科学研究高校联盟（UCAS）研讨会在香港大学举办。本届UCAS研讨会由香港大学主办，厦门大学、台湾海洋大学、台湾中山大学协办，时隔四年再次于线下举行，吸引了来自海峡两岸暨香港的50余名师生一同参加。
 location: Hongkong
 date: 2023-10-22T00:30:01.402Z
-date_end: 2023-10-29T00:30:00.000Z
+date_end: 2023-10-28T00:30:00.000Z
 all_day: false
-event: The 15th UCAS Symposium (UCAS15 @Hongkong)
-address:
-  city: Hongkong
-  country: China
-  postcode: ""
-  region: ""
-  street: Hongkong University
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Tweet
-    url: https://twitter.com/meican77
-  - icon: ""
-    icon_pack: fab
-    name: PPT
-    url: https://meikang.netlify.app/publication/2023-15th-UCAS-meikang.pptx
+event: The 15th UCAS Symposium
 event_url: https://mp.weixin.qq.com/s/BUUdrVXCCJq2e7QHHP6tnA
 publishDate: 2023-10-30T00:30:00.000Z
 draft: false
-featured: true
+featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: "Image credit: [**UCAS 2023**]"
-  focal_point: Right
 ---
