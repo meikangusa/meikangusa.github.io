@@ -37,7 +37,7 @@ publishDate: 2023-10-30T00:30:00.000Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
