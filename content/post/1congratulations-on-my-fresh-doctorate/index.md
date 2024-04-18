@@ -3,12 +3,12 @@ title: Kang is officially joining Jiangsu Ocean University
 subtitle: ""
 date: 2024-01-10T14:09:16.300Z
 draft: false
-featured: false
+featured: true
 tags:
   - Marine Science
   - Thesis Defense
   - PhD
-links:
+#links:
   - icon: ""
     icon_pack: ""
     name: Diploma
