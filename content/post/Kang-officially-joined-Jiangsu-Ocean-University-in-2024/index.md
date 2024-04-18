@@ -3,7 +3,7 @@ title: Kang officially joined Jiangsu Ocean University in 2024
 subtitle: ""
 date: 2024-01-10T14:09:16.300Z
 draft: false
-featured: true
+featured: false
 tags: []
 
 image:
