@@ -8,7 +8,9 @@ image:
   filename: featured.png
   caption: "Image credit: [**Kang Mei**]"
   focal_point: ""
-  preview_only: "" ---
+  preview_only: "" 
+  
+---
 
 
 **Hi there,**
