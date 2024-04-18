@@ -1,19 +1,10 @@
 ---
-title: Kang is officially joining Jiangsu Ocean University
+title: Kang officially joined Jiangsu Ocean University in 2024
 subtitle: ""
 date: 2024-01-10T14:09:16.300Z
 draft: false
 featured: true
 tags: []
-#links:
-  - icon: ""
-    icon_pack: ""
-    name: Diploma
-    url: https://meikang.netlify.app/post/congratulations-on-my-fresh-doctorate/Meikang_PHD_Diploma_Certificate.pdf
-  - icon: ""
-    icon_pack: ""
-    name: Degree
-    url: https://meikang.netlify.app/post/congratulations-on-my-fresh-doctorate/Meikang_PHD_Degree_Proofing.pdf
 image:
   filename: featured.png
   caption: "Image credit: [**Kang Mei**]"
