@@ -1,6 +1,6 @@
 ---
-title: 1Congratulations on my Fresh Doctorate!
-subtitle: Kang successfully defended the Ph.D. dissertation
+title: Kang is officially joining Jiangsu Ocean University
+subtitle: ""
 date: 2024-04-17T14:09:16.300Z
 draft: false
 featured: false
