@@ -4,15 +4,12 @@ subtitle: ""
 date: 2024-01-10T14:09:16.300Z
 draft: false
 featured: false
-tags: []
-
 image:
   filename: featured.png
   caption: "Image credit: [**Kang Mei**]"
   focal_point: ""
-  preview_only: ""
-  
----
+  preview_only: "" ---
+
 
 **Hi there,**
 
