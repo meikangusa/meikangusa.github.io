@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/meican77
 slides: example
-summary: Personal Milestones from PhD Graduate.
+summary: Personal Milestones from PhD Graduate(Click here for more details).
 tags:
 - Timelines
 title: Timelines 
