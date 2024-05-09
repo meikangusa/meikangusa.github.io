@@ -10,10 +10,10 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: Personal Milestones from PhD Graduate.
 tags:
-- Deep Learning
-title: Example Project
+- Timelines
+title: Timelines 
 url_code: ""
 url_pdf: ""
 url_slides: ""
