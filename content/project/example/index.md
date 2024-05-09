@@ -112,7 +112,7 @@ url_video: ""
 
 · Sep. 2020	——厦门大学山海之约海洋文化创意空间在宁夏落成开幕，作为通讯员在中国青年网、学习强国、东南网、厦门网等刊发新闻稿20余篇，成果上央视晚间新闻
 
-· Aug. 2020	——参加山海之约-脱贫攻坚宁夏暑期社会实践，作为团队负责人参与海洋文化创意空间建设，这辈子自豪最难忘的回忆  中国青年网报道 （url:https://xiaoyuan.cycnet.com.cn/s?signature=AG6vDYbegoP2Owr90x84K3gWoTVgjG4jVBXQnmqNLEMRyzZ3lW&uid=2575815&phone_code=40eb87089a89268396a26f3db853969c&scid=659461&time=1600412070&app_version=(null)&sign=9145eb0430da0d997b3f5eaaf6347301#）
+· Aug. 2020	——参加山海之约-脱贫攻坚宁夏暑期社会实践，作为团队负责人参与海洋文化创意空间建设，这辈子自豪最难忘的回忆  中国青年网报道[**NEWS**](https://xiaoyuan.cycnet.com.cn/s?signature=AG6vDYbegoP2Owr90x84K3gWoTVgjG4jVBXQnmqNLEMRyzZ3lW&uid=2575815&phone_code=40eb87089a89268396a26f3db853969c&scid=659461&time=1600412070&app_version=(null)&sign=9145eb0430da0d997b3f5eaaf6347301#)
 
 · Aug. 2020	——厦门大学海洋国重MEL第五届研究生论坛，获科普最佳团队汇报奖
 
