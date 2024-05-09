@@ -1,15 +1,15 @@
 ---
 date: "2024-05-01T00:00:00Z"
 external_link: ""
-#image:
- # caption: Photo by rawpixel on Unsplash
-  #focal_point: Smart
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/meican77
-#slides: example
+slides: example
 summary: Personal Milestones from PhD Graduate.
 tags:
 - Timelines
