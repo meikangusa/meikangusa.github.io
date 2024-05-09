@@ -2,7 +2,7 @@
 date: "2024-05-01T00:00:00Z"
 external_link: ""
 image:
-  filename: featured1.png
+  filename: featured.png
   caption: "Image credit: [**Kang Mei**](https://meikang.netlify.app/)"
   focal_point: ""
   preview_only: ""
