@@ -9,7 +9,6 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/meican77
-slides: example
 summary: Personal Milestones from PhD Graduate (Click for more details).
 tags:
 - Timelines
