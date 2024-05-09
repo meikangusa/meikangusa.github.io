@@ -2,8 +2,10 @@
 date: "2024-05-01T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  filename: featured.png
+  caption: "Image credit: [**Kang Mei**](https://meikang.netlify.app/)"
+  focal_point: ""
+  preview_only: ""
 links:
 - icon: twitter
   icon_pack: fab
