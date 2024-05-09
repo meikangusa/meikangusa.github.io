@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: meikangusa@gmail.com
+  email: meican@jou.edu.cn
   phone: (213) 551-4592
   address:
     street: 3454 Trousdale Parkway
