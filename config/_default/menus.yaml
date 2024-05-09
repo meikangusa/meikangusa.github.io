@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Timeline
-    url: '#timeline'
+  - name: Timelines
+    url: '#timelines'
     weight: 20
   - name: Posts
     url: '#posts'
