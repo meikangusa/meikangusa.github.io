@@ -14,7 +14,7 @@ links:
 summary: Personal Milestones from PhD Graduate (Click for more details).
 tags:
 - Timelines
-title: Timelines 
+title: Kang's Timelines 
 url_code: ""
 url_pdf: ""
 url_slides: ""
