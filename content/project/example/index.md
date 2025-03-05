@@ -11,7 +11,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/meican77
-summary: Personal Milestones from PhD Graduate (Click for more details).
+summary: Personal Milestones for Academic Career (Click for more details).
 tags:
 - Timelines
 title: Kang's Timelines 
