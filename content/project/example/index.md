@@ -27,7 +27,7 @@ url_video: ""
 
 · Jan. 2025	——参加国际学术会议 2025 Xiamen Symposium on Marine Environmental Sciences (第七届厦门国际海洋环境科学开放大会)，做口头报告(Microbial pterins indicating organic carbon accumulation and degradability in estuarine and coastal sediments) 链接[**XMAS2025**](https://xmas.aconf.org/abstract/94.html?utm_source=chatgpt.com)
 
-· Nov. 2024	——受邀参加在印度尼西亚雅加达举办的第八届中国-东南亚国家海洋合作论坛，并作学术交流
+· Nov. 2024	——受邀参加在印度尼西亚雅加达举办的第八届中国-东南亚国家海洋合作论坛，并作学术交流 链接[**自然资源部**](https://mp.weixin.qq.com/s/LKfDJAy2LcIJTFroeksFAQ?scene=25#wechat_redirect)
 
 · Nov. 2024	——共同荣获2024年连云港创新创业大赛（海洋产业专项赛）市级三等奖（3/3）
 
