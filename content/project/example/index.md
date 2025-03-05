@@ -31,7 +31,7 @@ url_video: ""
 
 · Nov. 2024	——共同荣获2024年连云港创新创业大赛（海洋产业专项赛）市级三等奖（3/3）
 
-· Nov. 2024	——国际媒体平台GROUNDTRUTH文章报道综述论文亮点(Title: Mangrove Makeover: Restoring Coasts for Carbon & Clean Seas) 论文链接[**EvidenceBasedForestNEWS**](https://groundtruth.app/mangrove-makeover-restoring-coasts-for-carbon-clean-seas/)
+· Nov. 2024	——国际媒体平台GROUNDTRUTH文章报道综述论文亮点(Title: Mangrove Makeover: Restoring Coasts for Carbon & Clean Seas) 报道链接[**EvidenceBasedForestNEWS**](https://groundtruth.app/mangrove-makeover-restoring-coasts-for-carbon-clean-seas/)
 
 · Oct. 2024	——与北大老迈（Uddin, Mohammad Mazbah）合作发表SCI综述论文1篇：How Does Mangrove Restoration or Reforestation Change Trace Metal Pollution in Mangrove Ecosystems? A Review of Current Knowledge（2/6）论文链接[**Article**](https://doi.org/10.3390/toxics12110812)
 
