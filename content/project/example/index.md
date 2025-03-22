@@ -29,17 +29,17 @@ url_video: ""
 
 · Nov. 2024	——受邀参加在印度尼西亚雅加达举办的第八届中国-东南亚国家海洋合作论坛，并作学术交流 链接[**自然资源部NEWS**](https://mp.weixin.qq.com/s/LKfDJAy2LcIJTFroeksFAQ?scene=25#wechat_redirect)
 
-· Nov. 2024	——共同荣获2024年连云港创新创业大赛（海洋产业专项赛）市级三等奖（3/3）[**证书PDF**](https://meikang.netlify.app/project/certificate/2024LYGThirdPrize.pdf)
+· Nov. 2024	——共同荣获2024年连云港创新创业大赛（海洋产业专项赛）市级三等奖（3/3）[**下载PDF证书**](https://meikang.netlify.app/project/certificate/2024LYGThirdPrize.pdf)
 
 · Nov. 2024	——国际媒体平台GROUNDTRUTH文章报道综述论文亮点(Title: Mangrove Makeover: Restoring Coasts for Carbon & Clean Seas) 报道链接[**EvidenceBasedForestNEWS**](https://groundtruth.app/mangrove-makeover-restoring-coasts-for-carbon-clean-seas/)
 
 · Oct. 2024	——与北大老迈（Uddin, Mohammad Mazbah）合作发表SCI综述论文1篇：How Does Mangrove Restoration or Reforestation Change Trace Metal Pollution in Mangrove Ecosystems? A Review of Current Knowledge（2/6）论文链接[**Article**](https://doi.org/10.3390/toxics12110812)
 
-· Oct. 2024	——共同荣获第五届江苏企业（研发机构）创新大赛电子信息与生物医药产业选拔赛—省级优秀奖（3/3）
+· Oct. 2024	——共同荣获第五届江苏企业（研发机构）创新大赛电子信息与生物医药产业选拔赛—省级优秀奖（3/3）证书[**下载PDF**](https://meikang.netlify.app/project/certificate/2024LYGThirdPrize.pdf)
 
-· Oct. 2024	——参与筹办以“全球变化下的海洋与湖沼——科技制高点与基础前沿”为主题的中国海洋湖沼学会2024学术年会
+· Oct. 2024	——参与筹办以“全球变化下的海洋与湖沼——科技制高点与基础前沿”为主题的中国海洋湖沼学会2024学术年会 链接[**会议通知**](https://mp.weixin.qq.com/s/pXRU5-c-JX72FNQmAW9VVQ)
 
-· Sep. 2024	——参加江苏海洋大学第五届校园迷你马拉松，取得第3名成绩，获教职工组季军 链接[**校园新闻**](https://xuri.jou.edu.cn/info/1002/40774.htm)
+· Sep. 2024	——参加江苏海洋大学第五届校园迷你马拉松，取得第3名成绩，获教职工组季军 链接[**校园新闻**](https://xuri.jou.edu.cn/info/1002/40774.htm) 证书[**下载PDF**](https://meikang.netlify.app/project/certificate/2024CampusMarathonThirdPrize.pdf)
 
 · Jun. 2024	——获批省部级科研项目资助1项（江苏省自然科学青年基金）：根系低分子有机酸介导下盐沼沉积物碳转化固存重金属砷的生态修复机制研究（项目编号：BK20241063）
 
