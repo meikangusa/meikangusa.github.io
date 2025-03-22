@@ -27,9 +27,9 @@ url_video: ""
 
 · Jan. 2025	——参加国际学术会议 2025 Xiamen Symposium on Marine Environmental Sciences (第七届厦门国际海洋环境科学开放大会)，做口头报告(Microbial pterins indicating organic carbon accumulation and degradability in estuarine and coastal sediments) 链接[**XMAS2025**](https://xmas.aconf.org/abstract/94.html?utm_source=chatgpt.com)
 
-· Nov. 2024	——受邀参加在印度尼西亚雅加达举办的第八届中国-东南亚国家海洋合作论坛，并作学术交流 链接[**自然资源部**](https://mp.weixin.qq.com/s/LKfDJAy2LcIJTFroeksFAQ?scene=25#wechat_redirect)
+· Nov. 2024	——受邀参加在印度尼西亚雅加达举办的第八届中国-东南亚国家海洋合作论坛，并作学术交流 链接[**自然资源部NEWS**](https://mp.weixin.qq.com/s/LKfDJAy2LcIJTFroeksFAQ?scene=25#wechat_redirect)
 
-· Nov. 2024	——共同荣获2024年连云港创新创业大赛（海洋产业专项赛）市级三等奖（3/3）
+· Nov. 2024	——共同荣获2024年连云港创新创业大赛（海洋产业专项赛）市级三等奖（3/3）[**证书PDF**](https://meikang.netlify.app/project/certificate/2024LYGThirdPrize.pdf)
 
 · Nov. 2024	——国际媒体平台GROUNDTRUTH文章报道综述论文亮点(Title: Mangrove Makeover: Restoring Coasts for Carbon & Clean Seas) 报道链接[**EvidenceBasedForestNEWS**](https://groundtruth.app/mangrove-makeover-restoring-coasts-for-carbon-clean-seas/)
 
@@ -131,7 +131,7 @@ url_video: ""
 
 · Dec. 2020	——厦门大学第二届海洋文创大赛，获优秀奖
 
-· Nov. 2020	——厦门大学海洋开放日，作为负责人参与实验室科普策划活动
+· Nov. 2020	——厦门大学海洋开放日，作为负责人参与实验室科普策划活动，喜获戴民汉院士亲笔签名感谢信:）
 
 · Nov. 2020 ——厦门大学第八届高尔夫超级杯邀请赛，斩获团体亚军、个人第四名、距洞最近奖
 
@@ -139,7 +139,7 @@ url_video: ""
 
 · Oct. 2020	——第七届生物-有机地球化学研讨会	北京 Oral（Analysis of pivotal metabolic precursor-pterins in marine phytoplankton and bacteria ）
 
-· Sep. 2020	——福建省第四届科普讲解大赛，作为厦门大学学生代表入围省赛
+· Sep. 2020	——角逐福建省第四届科普讲解大赛，代表厦门大学入围省赛, 但遗憾落选
 
 · Sep. 2020	——厦门大学山海之约海洋文化创意空间在宁夏落成开幕，作为通讯员在中国青年网、学习强国、东南网、厦门网等刊发新闻稿20余篇，成果上央视晚间新闻
 
