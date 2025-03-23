@@ -45,9 +45,9 @@ url_video: ""
 
 · Jun. 2024	——参加“2024年第三届渔业生态环境大会”，并作“近海CO2升高对微型生物生源蝶呤和痕量金属赋存转化的影响”为题的学术汇报 报告[**现场照片**](https://meikang.netlify.app/project/certificate/20240629OralPre.png)
 
-· Jun. 2024	——负责参与筹办“江苏教育界与产业界对话对接——推进创新链产业链深度融合,以新质生产力促进海洋产业高质量发展大会”，会议在连云港花果山酒店举办，约400余人参会，参会企业167家，新华日报等主流媒体宣传报道7篇以上
+· Jun. 2024	——负责参与筹办“江苏教育界与产业界对话对接——推进创新链产业链深度融合,以新质生产力促进海洋产业高质量发展大会”，会议在连云港花果山酒店举办，约400余人参会，参会企业167家，新华日报、自然资源报等主流媒体宣传报道7篇以上。链接[**自然资源部NEWS**](https://www.iziran.net/news.html?aid=5329012)链接[**江海大新闻**](https://www.jou.edu.cn/info/1164/38394.htm)
 
-· May. 2024	——参加江苏海洋大学2024年度教职工气排球比赛，取得团体第4名成绩 链接[**校园新闻**](https://xgh.jou.edu.cn/info/1018/3027.htm)
+· May. 2024	——参加江苏海洋大学2024年度教职工气排球比赛，取得团体第4名成绩 链接[**校园新闻**](https://xgh.jou.edu.cn/info/1018/3027.htm) 队友[**查看**](https://meikang.netlify.app/project/certificate/2024QipqiqiuP1.jpg) 个照[**查看**](https://meikang.netlify.app/project/certificate/2024QipqiqiuP2.jpg) 领奖[**查看**](https://meikang.netlify.app/project/certificate/2024QipqiqiuP3.jpg) 
 
 · Jan. 2024	——赴江苏省海洋资源开发技术创新中心外派历练
 
