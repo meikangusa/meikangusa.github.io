@@ -68,7 +68,7 @@ url_video: ""
 
 · Apr. 2023	——获得厦门大学中国工行奖学金，校级奖学金
 
-· Mar. 2023	——发表SCI论文一篇（Marine Pollution Bulletin），中科院3区（Stimulation of oxalate root exudate in arsenic speciation and fluctuation with phosphate and iron in anoxic mangrove sediment）论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2023.114823)
+· Mar. 2023	——发表SCI论文一篇（Marine Pollution Bulletin），中科院2区（Stimulation of oxalate root exudate in arsenic speciation and fluctuation with phosphate and iron in anoxic mangrove sediment）论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2023.114823)
 
 · Dec. 2022	——获得学院宣传工作优秀个人，院级研究生荣誉称号
 
