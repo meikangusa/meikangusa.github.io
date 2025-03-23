@@ -43,21 +43,22 @@ url_video: ""
 
 · Jun. 2024	——获批省部级科研项目资助1项（江苏省自然科学青年基金）：根系低分子有机酸介导下盐沼沉积物碳转化固存重金属砷的生态修复机制研究（项目编号：BK20241063）资助证明[**下载PDF**](https://meikang.netlify.app/project/certificate/2024JiangsuNSFCYouthCertificate.pdf)
 
-· Jun. 2024	——参加“2024年第三届渔业生态环境大会”，并作“近海CO2升高对微型生物生源蝶呤和痕量金属赋存转化的影响”为题的学术汇报 报告[**现场照片**](https://meikang.netlify.app/project/certificate/20240629OralPre.png)
+· Jun. 2024	——参加“2024年第三届渔业生态环境大会”，并作“近海CO2升高对微型生物生源蝶呤和痕量金属赋存转化的影响”为题的学术汇报 报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/20240629OralPre.png)
 
 · Jun. 2024	——负责参与筹办“江苏教育界与产业界对话对接——推进创新链产业链深度融合,以新质生产力促进海洋产业高质量发展大会”，会议在连云港花果山酒店举办，约400余人参会，参会企业167家，新华日报、自然资源报等主流媒体宣传报道7篇以上。链接[**自然资源部NEWS**](https://www.iziran.net/news.html?aid=5329012)链接[**江海大新闻**](https://www.jou.edu.cn/info/1164/38394.htm)
 
 · May. 2024	——参加江苏海洋大学2024年度教职工气排球比赛，取得团体第4名成绩 链接[**校园新闻**](https://xgh.jou.edu.cn/info/1018/3027.htm) 队友[**查看**](https://meikang.netlify.app/project/certificate/2024QipqiqiuP1.jpg) 个照[**查看**](https://meikang.netlify.app/project/certificate/2024QipqiqiuP2.jpg) 领奖[**查看**](https://meikang.netlify.app/project/certificate/2024QipqiqiuP3.jpg) 
 
-· Jan. 2024	——赴江苏省海洋资源开发技术创新中心外派历练
+· Jan. 2024	——赴江苏省海洋资源开发技术创新中心外派历练 
 
-· Dec. 2023	——加入江苏海洋大学，开始学术职业生涯，开启新的篇章
+· Dec. 2023	——加入江苏海洋大学，开始Academic Career，开启新篇章，Good Luck to Me! 
 
 · Dec. 2023	——发表SCI论文一篇（Environmental Science and Pollution Research），中科院3区（Dynamics and geochemical responses of dissolved metals (Mn and Cu) in a subtropical estuary,China）论文链接[**Article**](https://doi.org/10.1007/s11356-023-31387-7)
 
-· Oct. 2023	——参加中国香港举办的The 15th UCAS  (两岸三地水环境科学研究高校联盟研究生论坛)	，Oral（Spatial-temporal Distribution and Regulatory Mechanism of Novel Biomarker Microbial Pterins in Xiamen Bay）
+· Oct. 2023	——参加中国香港举办的The 15th UCAS  (两岸三地水环境科学研究高校联盟研究生论坛)	，Oral（Spatial-temporal Distribution and Regulatory Mechanism of Novel Biomarker Microbial Pterins in Xiamen Bay）报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/2023Hongkong15thUCAS.jpg)
 
-· Sep. 2023 ——完成博士学位论文答辩，终于博士毕业，结束一段旅程
+· Sep. 2023 ——完成博士学位论文答辩，终于博士毕业，正式宣告结束学生生涯 答辩现场[**查看照片**](https://meikang.netlify.app/project/certificate/2023PhdDefense.jpg)
+导师合照[**查看照片**](https://meikang.netlify.app/project/certificate/2023PHDAdvisor.jpg)
 
 · Jul. 2023	——参加上海举办的第七届“地球系统科学大会” (Conference on Earth System Science, CESS)，Spatial-temporal distribution and source of regulation of microbial pteridines in the euphotic layer of South China Sea (Poster)
 
