@@ -23,6 +23,12 @@ url_video: ""
 
 近年来重要经历节点（持续更新）：
 
+· Apr. 2025	——Join the Society for Ecological Restoration and become a member!
+ 链接[**HomePage**](https://www.ser.org/page/about) 
+
+· Apr. 2025	——受邀前往海南热带海洋学院作校友返校报告：“十年学术成长、国际视野与科学思考的求索分享”
+ 链接[**新闻推送**](https://mp.weixin.qq.com/s/JNeZmSKOE71n-ydzkqwlFg)
+
 · Jan. 2025	——参加会议配套—科普进校园StoryTeller活动，作为青年学者前往厦门金鸡岭小学传播海洋知识 链接[**XMAS2025**](https://mp.weixin.qq.com/s/2twBuBHKWg0BSgA0STe8EA)
 
 · Jan. 2025	——参加国际学术会议 2025 Xiamen Symposium on Marine Environmental Sciences (第七届厦门国际海洋环境科学开放大会)，做口头报告(Microbial pterins indicating organic carbon accumulation and degradability in estuarine and coastal sediments) 链接[**XMAS2025**](https://xmas.aconf.org/abstract/94.html?utm_source=chatgpt.com)
