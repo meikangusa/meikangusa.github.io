@@ -21,7 +21,9 @@ url_slides: ""
 url_video: ""
 ---
 
-近年来重要经历节点（持续更新）：
+近来重要经历节点（持续更新）：
+
+· Apr. 2025	——参加全国学术会议  (第十届全国生态毒理学大会，专题12.重金属环境过程与毒性效应机制)，作口头报告(湿地植物根系活动应对砷胁迫响应的解毒机制)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504JiaXingOral.jpg)
 
 · Apr. 2025	——Join the Society for Ecological Restoration and become a member!
  链接[**HomePage**](https://www.ser.org/page/about) 
@@ -31,7 +33,7 @@ url_video: ""
 
 · Jan. 2025	——参加会议配套—科普进校园StoryTeller活动，作为青年学者前往厦门金鸡岭小学传播海洋知识 链接[**XMAS2025**](https://mp.weixin.qq.com/s/2twBuBHKWg0BSgA0STe8EA)
 
-· Jan. 2025	——参加国际学术会议 2025 Xiamen Symposium on Marine Environmental Sciences (第七届厦门国际海洋环境科学开放大会)，做口头报告(Microbial pterins indicating organic carbon accumulation and degradability in estuarine and coastal sediments) 链接[**XMAS2025**](https://xmas.aconf.org/abstract/94.html?utm_source=chatgpt.com)
+· Jan. 2025	——参加国际学术会议 2025 Xiamen Symposium on Marine Environmental Sciences (第七届厦门国际海洋环境科学开放大会)，作口头报告(Microbial pterins indicating organic carbon accumulation and degradability in estuarine and coastal sediments) 链接[**XMAS2025**](https://xmas.aconf.org/abstract/94.html?utm_source=chatgpt.com)
 
 · Nov. 2024	——受邀参加在印度尼西亚雅加达举办的第八届中国-东南亚国家海洋合作论坛，并作学术交流 链接[**自然资源部NEWS**](https://mp.weixin.qq.com/s/LKfDJAy2LcIJTFroeksFAQ?scene=25#wechat_redirect)
 
@@ -49,7 +51,7 @@ url_video: ""
 
 · Jun. 2024	——获批省部级科研项目资助1项（江苏省自然科学青年基金）：根系低分子有机酸介导下盐沼沉积物碳转化固存重金属砷的生态修复机制研究（项目编号：BK20241063）资助证明[**下载PDF**](https://meikang.netlify.app/project/certificate/2024JiangsuNSFCYouthCertificate.pdf)
 
-· Jun. 2024	——参加“2024年第三届渔业生态环境大会”，并作“近海CO2升高对微型生物生源蝶呤和痕量金属赋存转化的影响”为题的学术汇报 报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/20240629OralPre.png)
+· Jun. 2024	——参加“2024年第三届渔业生态环境大会”，并作“近海CO2升高对微型生物生源蝶呤和痕量金属赋存转化的影响”为题的口头汇报 报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/20240629OralPre.png)
 
 · Jun. 2024	——负责参与筹办“江苏教育界与产业界对话对接——推进创新链产业链深度融合,以新质生产力促进海洋产业高质量发展大会”，会议在连云港花果山酒店举办，约400余人参会，参会企业167家，新华日报、自然资源报等主流媒体宣传报道7篇以上。链接[**自然资源部NEWS**](https://www.iziran.net/news.html?aid=5329012)链接[**江海大新闻**](https://www.jou.edu.cn/info/1164/38394.htm)
 
