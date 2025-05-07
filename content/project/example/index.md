@@ -32,7 +32,7 @@ url_video: ""
 · Apr. 2025	——受邀前往海南热带海洋学院作校友返校报告：“十年学术成长、国际视野与科学思考的求索分享”
  链接[**新闻推送**](https://mp.weixin.qq.com/s/JNeZmSKOE71n-ydzkqwlFg)
 
-· Mar. 30, 2025	——Join and become the meeber of the Society for Ecological Restoration
+· Mar. 30, 2025	——Join and become the member of the Society for Ecological Restoration
  链接[**LoginLink**](https://www.ser.org/members/)
  
 · Jan. 2025	——参加会议配套—科普进校园StoryTeller活动，作为青年学者前往厦门金鸡岭小学传播海洋知识 链接[**XMAS2025**](https://mp.weixin.qq.com/s/2twBuBHKWg0BSgA0STe8EA)
