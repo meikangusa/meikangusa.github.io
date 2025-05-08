@@ -23,13 +23,12 @@ url_video: ""
 
 近来重要经历节点（持续更新）：
 
+· Apr.25 2025	——参加全国学术会议  (第四届人工智能海洋学论坛)大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504Zhoushan.jpg)
 
-· Apr. 2025	——参加全国学术会议  (第十届全国生态毒理学大会，专题12.重金属环境过程与毒性效应机制)，作口头报告(湿地植物根系活动应对砷胁迫响应的解毒机制)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504JiaXingOral.jpg)
+· Apr.20 2025	——参加全国学术会议  (第十届全国生态毒理学大会，专题12.重金属环境过程与毒性效应机制)，作口头报告(湿地植物根系活动应对砷胁迫响应的解毒机制)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504JiaXingOral.jpg)
 
-· Apr. 2025	——Join the Society for Ecological Restoration and become a member!
- 链接[**HomePage**](https://www.ser.org/page/about) 
 
-· Apr. 2025	——受邀前往海南热带海洋学院作校友返校报告：“十年学术成长、国际视野与科学思考的求索分享”
+· Apr.2 2025 ——受邀前往海南热带海洋学院作校友返校报告：“十年学术成长、国际视野与科学思考的求索分享”
  链接[**新闻推送**](https://mp.weixin.qq.com/s/JNeZmSKOE71n-ydzkqwlFg)
 
 · Mar. 30, 2025	——Join and become the member of the Society for Ecological Restoration
