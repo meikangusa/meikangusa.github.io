@@ -52,7 +52,7 @@ experience:
     location: Xiamen, China
     date_start: '2018-06-30'
     date_end: '2019-07-01'
-    description: Working for Xiamen University as a Research Assistant.
+    description: Assistant Researcher at College of Environment & Ecology, Xiamen University
     
   - title: Graduate Student of Pollution Ecology
     company: Xiamen University
