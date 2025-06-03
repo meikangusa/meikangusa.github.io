@@ -23,6 +23,9 @@ url_video: ""
 
 近来重要经历节点（持续更新）：
 
+· May 9 2025	——参加全国学术会议  (第10届青年地学论坛-主题 6、海洋地球科学--专题 6.9、河流-河口-近海连续体碳循环的多尺度过程及其生态效应)，作口头报告(中国东南沿海生源蝶呤小分子的分布调控和生态指示) 大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202505Hefei.jpg)
+
+
 · Apr.25 2025	——参加全国学术会议  (第四届人工智能海洋学论坛)大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504Zhoushan.jpg)
 
 · Apr.20 2025	——参加全国学术会议  (第十届全国生态毒理学大会，专题12.重金属环境过程与毒性效应机制)，作口头报告(湿地植物根系活动应对砷胁迫响应的解毒机制)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504JiaXingOral.jpg)
