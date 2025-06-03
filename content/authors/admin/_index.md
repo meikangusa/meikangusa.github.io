@@ -41,6 +41,9 @@ social:
 superuser: true
 title: Dr. Mei, Kang (梅 康)
 ---
+厦门大学与美国南加州大学联培博士、厦门大学海洋科学博士后，现任江苏海洋大学校聘副教授、江苏省海洋资源开发研究院副研究员。累计发表16篇学术论文，其中第一作者SCI论文9篇；3项授权或实审发明专利。主持江苏省自然科学基金青年项目等3项纵向、横向课题，活跃于国际学术舞台，国际生态修复协会会员，担任多个国际知名期刊审稿人及专题负责人，曾赴香港大学、东京大学学习交流。
+
+我的兴趣不仅包括海洋科学，我还喜欢健身、高尔夫、滑板、羽毛球、跑步、骑车、烹饪、书法和诗歌创作，希望将来有一天可以无障碍编程。如果您也对这些感兴趣，欢迎一起交流：kangmei@jou.edu.cn。
 
 I am interested in trace metals, marine microorganisms, and low-weight-molecular compounds in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pterin molecules, etc.
 
