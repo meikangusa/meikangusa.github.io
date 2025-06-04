@@ -1,5 +1,5 @@
 --- 
-bio: My interests include Marine Sciences Research, Fitness, Golf, Skateboarding, Badminton, Running, Cycling, Cooking, Calligraphy, Poeming and maybe programmable in the future.
+bio: I am mainly interested in Marine Sciences Research, but not limited to Fitness, Golf, Skateboarding, Badminton, Running, Cycling, Cooking, Calligraphy, Poeming and maybe programmable in the future.
 
 education:
   courses:
@@ -41,11 +41,9 @@ social:
 superuser: true
 title: Dr. Mei, Kang (梅 康)
 ---
-I am interested in trace metals, marine microorganisms, and low-weight-molecular compounds as biomarkers in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pterin molecules, etc.Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages below the end of page. Or cantact me via email: kangmei@jou.edu.cn
+I am interested in trace metals, marine microorganisms, and low-weight-molecular compounds as biomarkers in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pterin molecules, etc.Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Skateboarding, Badminton, Running, Cycling, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages below the end of page. Or cantact me via email: kangmei@jou.edu.cn
 
-{{< icon name="address-card" pack="fas" >}} **关于我**
-
-厦门大学与美国南加州大学联培博士、厦门大学海洋科学博士后；现任江苏海洋大学校聘副教授、江苏省海洋资源开发研究院副研究员。
+{{< icon name="address-card" pack="fas" >}} **关于我**<br>厦门大学与美国南加州大学联培博士、厦门大学海洋科学博士后；现任江苏海洋大学校聘副教授、江苏省海洋资源开发研究院副研究员。
 
 {{< icon name="face-grin-stars" pack="fas" >}}**最酷的事**
 
