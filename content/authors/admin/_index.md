@@ -54,11 +54,11 @@ I am interested in trace metals, marine microorganisms, and low-weight-molecular
 纵身南海，星辰坐揽；奔赴宁夏，传播海洋.
 
 
-{{< icon name="google-scholar" pack="fas" >}}学术成果：
+{{< icon name="researchgate" pack="fas" >}}学术成果**bold**
 累计发表16篇学术论文，其中第一作者SCI论文9篇；3项授权或实审国家发明专利。现主持江苏省自然科学基金青年项目等3项纵向、横向课题。现为国际生态修复协会会员，担任多个国际知名期刊审稿人及专题负责人，曾赴香港大学、东京大学学习交流。
 
 
-{{< icon name="square-pinterest" pack="fas" >}}兴趣爱好：
+{{< icon name="circle-play" pack="fas" >}}兴趣爱好：
 不仅包括海洋科学，感兴趣的还包括健身、高尔夫、滑板、羽毛球、跑步、骑车、烹饪、书法和诗歌创作，希望将来有一天可以无障碍编程。
 如果您也对这些感兴趣，欢迎一起交流（2025-06-01更新）
 
