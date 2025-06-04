@@ -46,7 +46,7 @@ I am interested in ocean carbon cycle, trace metals, marine microorganisms, and 
 \end{justifying}
 
 {{< icon name="address-card" pack="fas" >}} **关于我**（2025-06-01更新）<br>
-厦门大学与美国南加州大学联培博士、厦门大学海洋科学博士后；现任江苏海洋大学校聘副教授（讲师）、江苏省海洋资源开发研究院副研究员（kangmei@jou.edu.cn）
+厦门大学与美国南加州大学联培博士、厦门大学海洋科学博士后；现任江苏海洋大学校聘副教授（讲师）、江苏省海洋资源开发研究院副研究员**kangmei@jou.edu.cn**
 
 {{< icon name="face-grin-stars" pack="fas" >}}**最酷的事**<br>
 去过北极,看过极光;横贯太洋,游学彼岸;纵身南海,星辰坐揽;奔赴宁夏,传播海洋!
