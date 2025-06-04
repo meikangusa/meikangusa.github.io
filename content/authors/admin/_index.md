@@ -45,6 +45,7 @@ I am interested in trace metals, marine microorganisms, and low-weight-molecular
 
 {{< icon name="address-card" pack="fas" >}} 关于我
 厦门大学与美国南加州大学联培博士、厦门大学海洋科学博士后；现任江苏海洋大学校聘副教授、江苏省海洋资源开发研究院副研究员。
+
 -做过最酷的事情：
 去过北极，看过极光；横贯太洋，游学彼岸。
 纵身南海，星辰坐揽；奔赴宁夏，传播海洋；
