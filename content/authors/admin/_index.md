@@ -41,11 +41,11 @@ social:
 superuser: true
 title: Dr. Mei, Kang (梅 康)
 ---
-<p style="text-align:justify">I am interested in ocean carbon cycle, trace metals, marine microorganisms, and low-weight-molecular compounds as biomarkers in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pterin molecules, etc.Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Skateboarding, Badminton, Running, Cycling, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages below the end of page. Or cantact me via email:kangmei@jou.edu.cn </p>
+<p style="text-align:justify">I am interested in ocean carbon cycle, trace metals, marine microorganisms, and low-weight-molecular compounds as biomarkers in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pterin molecules, etc.Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Skateboarding, Badminton, Running, Cycling, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages below the end of page. Or cantact me via email:*kangmei@jou.edu.cn* </p>
 
 {{< icon name="address-card" pack="fas" >}} **关于我**（2025-06-01更新）<br>
-厦门大学与美国南加州大学公派联培博士、厦门大学海洋科学博士后；<br>
-现江苏海洋大学校聘副教授（讲师）、江苏省海洋资源开发研究院副研究员
+厦门大学与美国南加州大学公派联培博士、**厦门大学**海洋科学博士后；<br>
+现**江苏海洋大学**校聘副教授（讲师）、江苏省海洋资源开发研究院副研究员
 
 {{< icon name="face-grin-stars" pack="fas" >}}**最酷的事**<br>
 去过北极, 看过极光; 横贯太洋, 游学彼岸; 纵身南海, 星辰坐揽; 奔赴宁夏, 传播海洋!
