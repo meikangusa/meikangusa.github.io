@@ -25,7 +25,7 @@ url_video: ""
 
 · July 23 2025	——赴内蒙古呼和浩特参加2025年土壤与地下水风险防控与生态修复技术交流大会并做口头报告[**报告照片**](https://meikang.netlify.app/project/certificate/202507HuhhotTalkphoto.jpg)现场参会[**会场合照**](https://meikang.netlify.app/project/certificate/202507HuhhotGroupphoto.jpg)
 
-· July 14 2025	——赴厦门参加海洋碳循环前言论坛暨厦门大学海洋碳循环研究组成立25周年研讨会；戴民汉院士主持[**报告照片**](https://meikang.netlify.app/project/certificate/202507OCG25thMinhanDaiOpeningTalk.jpg)现场参会[**全体合照**](https://meikang.netlify.app/project/certificate/202507OCG25thGroupPhoto.jpg)现场发言[**查看照片**](https://meikang.netlify.app/project/certificate/202507OCG25thBlessing.jpg.jpg)
+· July 14 2025	——赴厦门参加海洋碳循环前言论坛暨厦门大学海洋碳循环研究组成立25周年研讨会；戴民汉院士主持[**报告照片**](https://meikang.netlify.app/project/certificate/202507OCG25thMinhanDaiOpeningTalk.jpg)现场参会[**全体合照**](https://meikang.netlify.app/project/certificate/202507OCG25thGroupPhoto.jpg)现场致辞[**查看发言**](https://meikang.netlify.app/project/certificate/202507OCG25thBlessing.jpg.jpg)
 
 · July 11 2025	——获批中国博士后科学基金第77批面上基金资助[**查看证书**](https://meikang.netlify.app/project/certificate/2025China77thPosdocScienceFoundation.pdf) 
 
