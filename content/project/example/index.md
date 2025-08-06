@@ -1,5 +1,5 @@
 ---
-date: "2025-03-03T00:00:00Z"
+date: "2025-08-03T00:00:00Z"
 external_link: ""
 image:
   filename: featured.png
@@ -21,15 +21,19 @@ url_slides: ""
 url_video: ""
 ---
 
-近来重要经历节点（持续更新）：
+历来重要经历节点（更新中）：
 
 · July 23 2025	——赴内蒙古呼和浩特参加2025年土壤与地下水风险防控与生态修复技术交流大会并做口头报告[**报告照片**](https://meikang.netlify.app/project/certificate/202507HuhhotTalkphoto.jpg)现场参会[**会场合照**](https://meikang.netlify.app/project/certificate/202507HuhhotGroupphoto.jpg)
+
+· July 14 2025	——赴厦门参加海洋碳循环前言论坛暨厦门大学海洋碳循环研究组成立25周年研讨会；戴民汉院士主持[**报告照片**](https://meikang.netlify.app/project/certificate/202507OCG25thMinhanDaiOpeningTalk.jpg)现场参会[**全体合照**](https://meikang.netlify.app/project/certificate/202507OCG25thGroupPhoto.jpg)现场发言[**查看照片**](https://meikang.netlify.app/project/certificate/202507OCG25thBlessing.jpg.jpg)
 
 · July 11 2025	——获批中国博士后科学基金第77批面上基金资助[**查看证书**](https://meikang.netlify.app/project/certificate/2025China77thPosdocScienceFoundation.pdf) 
 
 · July 1 2025	——参加厦门大学、台湾海洋大学、香港城市大学和北京大学联合举办的国际暑期班(Summer School on Climate Change & Ocean Health)现场 [**报告照片**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolTalkphoto.jpg)口头汇报[**颁奖合照**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolGroupphoto.jpg)获最佳口头报告荣誉[**查看证书**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolCertificate.jpg)
 
-· Jun 12 2025	——赴深圳参加人力资源和社会保障部事业单位人事服务中心举办的2025年全国博士后工作管理人员培训班[**查看证书**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTraining.JPG) 现场照片[**查看照片**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTraining.JPG)
+· Jun 22 2025	——在微信公众号【天然有机质情报】上发表论文工作的研究亮点推送——【视点】江苏海洋大学：微生物蝶呤小分子在河口藻华监测与沉积物碳循环中的生物指示作用[**查看推文**](https://mp.weixin.qq.com/s/puTa4iwY9M4YGz45NKFh2A) 
+
+· Jun 12 2025	——赴深圳参加人力资源和社会保障部事业单位人事服务中心举办的2025年全国博士后工作管理人员培训班[**查看证书**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTraining.JPG) 现场照片[**查看照片**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTrainingCourse.JPG)
 
 · June 2025	——获批2025国家留学基金委公派出国留学资助（高级访问学者）[**查看证书**](https://meikang.netlify.app/project/certificate/202507CSC_Scholarship.jpg) 
 
@@ -48,7 +52,6 @@ url_video: ""
 · Apr.25 2025	——参加全国学术会议  (第四届人工智能海洋学论坛)大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504Zhoushan.jpg)
 
 · Apr.20 2025	——参加全国学术会议  (第十届全国生态毒理学大会，专题12.重金属环境过程与毒性效应机制)，作口头报告(湿地植物根系活动应对砷胁迫响应的解毒机制)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504JiaXingOral.jpg)
-
 
 · Apr.2 2025 ——受邀前往海南热带海洋学院作校友返校报告：“十年学术成长、国际视野与科学思考的求索分享”
  链接[**新闻推送**](https://mp.weixin.qq.com/s/JNeZmSKOE71n-ydzkqwlFg)
