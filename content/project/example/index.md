@@ -23,21 +23,21 @@ url_video: ""
 
 近来重要经历节点（持续更新）：
 
-· July 23 2025	——赴内蒙古呼和浩特参加2025年土壤与地下水风险防控与生态修复技术交流大会并做口头报告[**报告照片**](https://meikang.netlify.app/project/certificate/202507HuhhotTalkphoto.jpg)[**会场合照**](https://meikang.netlify.app/project/certificate/202507HuhhotGroupphoto.jpg)
+· July 23 2025	——赴内蒙古呼和浩特参加2025年土壤与地下水风险防控与生态修复技术交流大会并做口头报告[**报告照片**](https://meikang.netlify.app/project/certificate/202507HuhhotTalkphoto.jpg)现场参会[**会场合照**](https://meikang.netlify.app/project/certificate/202507HuhhotGroupphoto.jpg)
 
 · July 11 2025	——获批中国博士后科学基金第77批面上基金资助[**查看证书**](https://meikang.netlify.app/project/certificate/2025China77thPosdocScienceFoundation.pdf) 
 
-· July 1 2025	——参加厦门大学、台湾海洋大学、香港城市大学和北京大学联合举办的国际暑期班(Summer School on Climate Change & Ocean Health)，幸获最佳口头报告荣誉 [**报告照片**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolTalkphoto.jpg)[**颁奖合照**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolGroupphoto.jpg)[**查看证书**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolCertificate.jpg)
+· July 1 2025	——参加厦门大学、台湾海洋大学、香港城市大学和北京大学联合举办的国际暑期班(Summer School on Climate Change & Ocean Health)现场 [**报告照片**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolTalkphoto.jpg)口头汇报[**颁奖合照**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolGroupphoto.jpg)获最佳口头报告荣誉[**查看证书**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolCertificate.jpg)
 
-· Jun 12 2025	——赴深圳参加人力资源和社会保障部事业单位人事服务中心举办的2025年全国博士后工作管理人员培训班[**查看证书**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTraining.JPG) [**查看照片**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTraining.JPG)
+· Jun 12 2025	——赴深圳参加人力资源和社会保障部事业单位人事服务中心举办的2025年全国博士后工作管理人员培训班[**查看证书**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTraining.JPG) 现场照片[**查看照片**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTraining.JPG)
 
 · June 2025	——获批2025国家留学基金委公派出国留学资助（高级访问学者）[**查看证书**](https://meikang.netlify.app/project/certificate/202507CSC_Scholarship.jpg) 
 
-· Jun 6 2025	——受邀在海洋科学与水产学院为小企业海洋保护社团作学术报告分享(海洋碳循环失衡如何引发生态灾害？) [**报告照片**](https://meikang.netlify.app/project/certificate/202506Talk.jpg)[**集体合照**](https://meikang.netlify.app/project/certificate/2025TalkJOUClassPhoto.jpg)
+· Jun 6 2025	——受邀在海洋科学与水产学院为小企业海洋保护社团作学术报告分享(海洋碳循环失衡如何引发生态灾害？) [**报告照片**](https://meikang.netlify.app/project/certificate/202506Talk.jpg)SpaceSelfie的[**集体合照**](https://meikang.netlify.app/project/certificate/2025TalkJOUClassPhoto.jpg)
 
 · May 30 2025	——参加2025届海洋科学本科生毕业论文答辩 [**查看照片**](https://meikang.netlify.app/project/certificate/2025MarineScienceUndergraduateDefense.jpg)
 
-· May 26 2025	——邀请厦门大学蔡立哲教授为学校师生作学术报告 (海洋底栖生物的生态功能及其在近海碳循环中的作用机制) 大会现场[**新闻链接**](https://www.jou.edu.cn/info/1164/40040.htm)[**查看照片**](https://meikang.netlify.app/project/certificate/202505Cailizhe.jpg)
+· May 26 2025	——邀请厦门大学蔡立哲教授为学校师生作学术报告 (海洋底栖生物的生态功能及其在近海碳循环中的作用机制) [**新闻链接**](https://www.jou.edu.cn/info/1164/40040.htm)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202505Cailizhe.jpg)
 
 · May 16 2025	———发表SCI论文一篇（Microbial pterins as potential indicators of organic carbon dynamics in estuarine and coastal sediments），中科院1区（Catena）论文链接[**Article**](https://doi.org/10.1016/j.catena.2025.109147)
 
