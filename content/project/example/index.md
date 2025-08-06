@@ -23,8 +23,27 @@ url_video: ""
 
 近来重要经历节点（持续更新）：
 
-· May 9 2025	——参加全国学术会议  (第10届青年地学论坛-主题 6、海洋地球科学--专题 6.9、河流-河口-近海连续体碳循环的多尺度过程及其生态效应)，作口头报告(中国东南沿海生源蝶呤小分子的分布调控和生态指示) 大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202505Hefei.jpg)
+· July 23 2025	——赴内蒙古呼和浩特参加2025年土壤与地下水风险防控与生态修复技术交流大会并做口头报告[**报告照片**](https://meikang.netlify.app/project/certificate/202507HuhhotTalkphoto.jpg)[**会场合照**](https://meikang.netlify.app/project/certificate/202507HuhhotGroupphoto.jpg)
 
+· July 11 2025	——获批中国博士后科学基金第77批面上基金资助[**查看证书**](https://meikang.netlify.app/project/certificate/2025China77thPosdocScienceFoundation.pdf) 
+
+· July 1 2025	——参加厦门大学、台湾海洋大学、香港城市大学和北京大学联合举办的国际暑期班(Summer School on Climate Change & Ocean Health)，幸获最佳口头报告荣誉 [**报告照片**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolTalkphoto.jpg)[**颁奖合照**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolGroupphoto.jpg)[**查看证书**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolCertificate.jpg)
+
+· Jun 12 2025	——赴深圳参加人力资源和社会保障部事业单位人事服务中心举办的2025年全国博士后工作管理人员培训班[**查看证书**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTraining.JPG) [**查看照片**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTraining.JPG)
+
+· June 2025	——获批2025国家留学基金委公派出国留学资助（高级访问学者）[**查看证书**](https://meikang.netlify.app/project/certificate/202507CSC_Scholarship.jpg) 
+
+· Jun 6 2025	——受邀在海洋科学与水产学院为小企业海洋保护社团作学术报告分享(海洋碳循环失衡如何引发生态灾害？) [**报告照片**](https://meikang.netlify.app/project/certificate/202506Talk.jpg)[**集体合照**](https://meikang.netlify.app/project/certificate/2025TalkJOUClassPhoto.jpg)
+
+· May 30 2025	——参加2025届海洋科学本科生毕业论文答辩 [**查看照片**](https://meikang.netlify.app/project/certificate/2025MarineScienceUndergraduateDefense.jpg)
+
+· May 26 2025	——邀请厦门大学蔡立哲教授为学校师生作学术报告 (海洋底栖生物的生态功能及其在近海碳循环中的作用机制) 大会现场[**新闻链接**](https://www.jou.edu.cn/info/1164/40040.htm)[**查看照片**](https://meikang.netlify.app/project/certificate/202505Cailizhe.jpg)
+
+· May 16 2025	———发表SCI论文一篇（Microbial pterins as potential indicators of organic carbon dynamics in estuarine and coastal sediments），中科院1区（Catena）论文链接[**Article**](https://doi.org/10.1016/j.catena.2025.109147)
+
+· May 11 2025	———发表SCI论文一篇（Microbial pterin biomolecules facilitate algal blooms in response to nutrient pressure in estuarine and coastal continuum），中科院2区（Marine Pollution Bulletin）论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2025.118137)
+
+· May 9 2025	——参加合肥全国第10届青年地学论坛-海洋地球科学专题（河流-河口-近海连续体碳循环的多尺度过程及其生态效应)，作口头报告(中国东南沿海生源蝶呤小分子的分布调控和生态指示) 大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202505Hefei.jpg)
 
 · Apr.25 2025	——参加全国学术会议  (第四届人工智能海洋学论坛)大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504Zhoushan.jpg)
 
@@ -86,7 +105,7 @@ url_video: ""
 
 · Dec. 2022	——获得学院宣传工作优秀个人，院级研究生荣誉称号
 
-· Mar. 2022	——在洛杉矶线上参加了The 14th UCAS  (两岸三地水环境科学研究高校联盟研究生论坛) Oral-Novel indicator of biopterin to interactions and perturbations associated with trace metals in estuarine and coastal waters（Online）
+· Mar. 2022	——在洛杉矶线上参加了由台湾海洋大学主办的第14届UCAS论坛(两岸三地水环境科学研究高校联盟研究生论坛) Oral-Novel indicator of biopterin to interactions and perturbations associated with trace metals in estuarine and coastal waters（Online，Los Angeles）
 
 · Mar. 2022	——获得厦门大学2021校级社会实践活动积极分子&厦门大学暑期社会实践校级优秀个人
 
