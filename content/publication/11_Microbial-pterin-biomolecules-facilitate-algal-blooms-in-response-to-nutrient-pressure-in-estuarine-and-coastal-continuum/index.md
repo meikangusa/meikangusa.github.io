@@ -13,7 +13,7 @@ authors:
   - Nengwang Chen
   - Deli Wang
 author_notes:
-  - First Author
+  - First Author & Corresponding Author
 doi: https://doi.org/10.1016/j.marpolbul.2025.118137
 publication: "*Marine Pollution Bulletin*"
 publication_short: Marine Pollution Bulletin

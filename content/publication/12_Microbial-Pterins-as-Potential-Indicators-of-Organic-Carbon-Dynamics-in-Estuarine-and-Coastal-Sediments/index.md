@@ -16,8 +16,7 @@ authors:
   - Shicong Xiao
   - Deli Wang
 author_notes:
-  - First Author
-  - Corresponding Author
+  - First Author & Corresponding Author
 doi: https://doi.org/10.1016/j.catena.2025.109147
 publication: "*CATENA*"
 publication_short: Catena
