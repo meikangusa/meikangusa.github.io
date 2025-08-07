@@ -3,7 +3,6 @@ title: 12. Microbial pterins as potential indicators of organic carbon dynamics 
 publication_types:
   - "2"
 authors:
-, Lizhe Cai, , Mohammad Mazbah Uddin, 
   - Kang Mei
   - Yitong Pan
   - Danny Alejandro Osorio
