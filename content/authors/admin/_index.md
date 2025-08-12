@@ -59,7 +59,7 @@ title: Dr. Mei, Kang (梅 康)
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2023_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.   {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2023_Meikang_Resume_cn.pdf" "newtab" >}}个人简历{{< /staticref >}}.  
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2025_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.   {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2025_Meikang_Resume_cn.pdf" "newtab" >}}个人简历{{< /staticref >}}.  
 
 {{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know more about the Ocean through NOAA Ocean Exploration!
 
