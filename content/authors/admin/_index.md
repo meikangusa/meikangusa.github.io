@@ -44,22 +44,22 @@ title: Dr. Mei, Kang (梅 康)
 <p style="text-align:justify">I am interested in ocean carbon cycle, trace metals, marine microorganisms, and low-weight-molecular compounds as biomarkers in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pterin molecules, etc.Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Skateboarding, Badminton, Running, Cycling, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages below the end of page. Or cantact me via email: kangmei@jou.edu.cn ! </p>
 
 {{< icon name="address-card" pack="fas" >}} **关于我**（2025-06-01更新）<br>
-厦门大学与美国南加州大学公派联培博士、**厦门大学**海洋科学博士后<br>
+厦门大学与美国**南加州大学**公派联培博士、**厦门大学**海洋科学博士后<br>
 现**江苏海洋大学**校聘副教授、江苏省海洋资源开发研究院副研究员<br>
 {{< icon name="lightbulb" pack="fas" >}}课题组长期招人才，热烈欢迎和我交流（**kangmei@jou.edu.cn**）
 
 {{< icon name="face-grin-stars" pack="fas" >}}**最酷的事**<br>
-去过北极, 看过极光; 横贯太洋, 游学彼岸; 纵身南海, 星辰坐揽; 奔赴宁夏, 传播海洋!
+去过北极, 追寻极光; 横贯大洋, 游学彼岸; 纵身南海, 星辰坐揽; 奔赴宁夏, 传播海洋!
 
 {{< icon name="circle-play" pack="fas" >}}**兴趣爱好**<br>
 不限于海洋科学，喜欢健身、高尔夫、滑板、羽毛球、跑步、骑车、烹饪、书法和诗歌创作，希望将来有一天可以无障碍编程。如果您也对这些感兴趣，我们一起***Have Fun***！
 
 {{< icon name="book" pack="fas" >}}**学术成果**<br>
-在Catena、Marine Pollution Bulletin、Sustainability、STOTEN等国内外期刊发表学术论文16篇，其中第一作者SCI论文9篇；申请实审或授权国家发明专利3项。现主持江苏省自然科学基金青年项目等纵向、横向课题3项。担任多个国际知名期刊审稿人及专题负责人，曾赴香港大学、东京大学短期学习与学术交流，目前是国际生态修复协会会员。
+在Catena、Marine Pollution Bulletin、Sustainability、STOTEN等国内外期刊发表学术论文16篇，其中第一作者SCI论文9篇；申请实审或授权国家发明专利3项。现主持中国博士后科学基金面上项目、江苏省自然科学基金青年项目等纵向课题3项。担任Gondwana Research，Marine Pollution Bulletin, Journal of Agronomy and Crop Science 等期刊审稿人，曾赴香港大学、东京大学短期学习与学术交流，目前是国际生态修复协会会员。
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2025_Meikang_Resume_En.pdf" "newtab" >}}resumé{{< /staticref >}}.   {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2025_Meikang_Resume_cn.pdf" "newtab" >}}个人简历{{< /staticref >}}.  
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2025_Meikang_Resume_EN.pdf" "newtab" >}}resumé{{< /staticref >}}.   {{< icon name="download" pack="fas" >}} 下载中文 {{< staticref "uploads/2025_Meikang_Resume_CN.pdf" "newtab" >}}个人简历{{< /staticref >}}.  
 
 {{< icon name="fa-solid fa-video" pack="fa-solid fa-video" >}} To know more about the Ocean through NOAA Ocean Exploration!
 
