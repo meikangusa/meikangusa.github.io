@@ -43,7 +43,7 @@ title: Dr. Mei, Kang (梅 康)
 ---
 <p style="text-align:justify">I am interested in ocean carbon cycle, trace metals, marine microorganisms, and low-weight-molecular compounds as biomarkers in microbial ecology. Now I am working on the determination of marine trace compounds (dissolved and particulate) in seawaters. These compounds include but are not limited to low-weight-molecular organic acids, vitamins, and pterin molecules, etc.Anyway, my research interests not only include Marine sciences, I am also fond of trying Fitness, Golf, Skateboarding, Badminton, Running, Cycling, Cooking, Calligraphy, Poeming and hoping be programmable someday in the future. If you are interested in any of these, please leave your comments or messages below the end of page. Or cantact me via email: kangmei@jou.edu.cn ! </p>
 
-{{< icon name="address-card" pack="fas" >}} **关于我**（2025-06-01更新）<br>
+{{< icon name="address-card" pack="fas" >}} **关于我**（2025-08-14更新）<br>
 厦门大学与美国**南加州大学**公派联培博士、**厦门大学**海洋科学博士后<br>
 现**江苏海洋大学**校聘副教授、江苏省海洋资源开发研究院副研究员<br>
 {{< icon name="lightbulb" pack="fas" >}}课题组长期招人才，热烈欢迎和我交流（**kangmei@jou.edu.cn**）
