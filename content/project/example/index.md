@@ -23,7 +23,7 @@ url_video: ""
 
 历来重要经历节点（更新中）：
 
-· Sep 17 2025	——喜获双创三等奖，连云港市第七届“花果山英才”创新创业大赛海外人才暨博士后专场分站赛[**领奖照片**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetition.png)现场参会[**现场报告**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetition1.jpg)
+· Sep 17 2025	——喜获双创三等奖，连云港市第七届“花果山英才”创新创业大赛海外人才暨博士后专场分站赛[**领奖照片**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetition.png)现场参会[**现场报告**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetition1.jpg)[**获奖证书**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetitionCertificate.png)
 
 · July 23 2025	——赴内蒙古呼和浩特参加2025年土壤与地下水风险防控与生态修复技术交流大会并做口头报告[**报告照片**](https://meikang.netlify.app/project/certificate/202507HuhhotTalkphoto.jpg)现场参会[**会场合照**](https://meikang.netlify.app/project/certificate/202507HuhhotGroupphoto.jpg)
 
