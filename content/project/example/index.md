@@ -1,5 +1,5 @@
 ---
-date: "2025-08-03T00:00:00Z"
+date: "2025-12-11T00:00:00Z"
 external_link: ""
 image:
   filename: featured.png
