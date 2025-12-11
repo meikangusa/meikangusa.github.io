@@ -25,7 +25,7 @@ url_video: ""
 
 · Nov. 2025 --Guest Editor of the Research Topic article collection Research;
 Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
-[**ClickLink**](https://www.frontiersin.org/research-topics/73568/mangrove-restoration-and-its-ecological-consequences)Mangrove Restoration and Its Ecological Consequences
+[**Click_Topic_Link: Mangrove Restoration and Its Ecological Consequences**](https://www.frontiersin.org/research-topics/73568/mangrove-restoration-and-its-ecological-consequences) 
 
 
 
