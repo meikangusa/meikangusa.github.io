@@ -23,7 +23,7 @@ url_video: ""
 
 历来重要经历节点（更新中）：
 
-· Dec 19 2025	———发表SCI论文一篇（Iron-mediated remediation of arsenic-induced suppression of root morphogenesis and radial oxygen loss in wetland plant）论文链接[**Article**](https://doi.org/10.3389/fpls.2025.1736435)
+· Dec 19 2025	———发表SCI论文一篇（Iron-mediated remediation of arsenic-induced suppression of root morphogenesis and radial oxygen loss in wetland plant）, 中科院2区（Frontiers in Plant Science）, 论文链接[**Article**](https://doi.org/10.3389/fpls.2025.1736435)
 
 · Nov. 2025 --Guest Editor of the Research Topic article collection Research;
 Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
