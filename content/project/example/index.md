@@ -1,5 +1,5 @@
 ---
-date: "2025-12-11T00:00:00Z"
+date: "2025-12-10T00:00:00Z"
 external_link: ""
 image:
   filename: featured.png
@@ -23,11 +23,11 @@ url_video: ""
 
 历来重要经历节点（更新中）：
 
+· Dec 19 2025	———发表SCI论文一篇（Iron-mediated remediation of arsenic-induced suppression of root morphogenesis and radial oxygen loss in wetland plant）论文链接[**Article**](https://doi.org/10.3389/fpls.2025.1736435)
+
 · Nov. 2025 --Guest Editor of the Research Topic article collection Research;
 Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
 [**Click_Topic_Link: Mangrove Restoration and Its Ecological Consequences**](https://www.frontiersin.org/research-topics/73568/mangrove-restoration-and-its-ecological-consequences) 
-
-
 
 · Sep 17 2025	——喜获双创三等奖，连云港市第七届“花果山英才”创新创业大赛海外人才暨博士后专场分站赛[**领奖照片**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetition.png)现场参会[**现场报告**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetition1.jpg) & [**获奖证书**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetitionCertificate.png)
 
