@@ -23,7 +23,9 @@ url_video: ""
 
 历来重要经历节点（更新中）：
 
-· Dec 19 2025	———发表SCI论文一篇（Iron-mediated remediation of arsenic-induced suppression of root morphogenesis and radial oxygen loss in wetland plant）, 中科院2区（Frontiers in Plant Science）, 论文链接[**Article**](https://doi.org/10.3389/fpls.2025.1736435)
+ Mar 20 2026	———发表SCI论文（PMF-Driven Component-Particle Association Framework Establishes Dynamic Baselines for Objective Risk Assessment of Coastal Metal Pollution）, 中科院2区（Process Safety and Environmental Protection）,通讯作者， 论文链接[**Article**](https://doi.org/10.1016/j.psep.2026.108763)
+
+· Dec 19 2025	———发表SCI论文（Iron-mediated remediation of arsenic-induced suppression of root morphogenesis and radial oxygen loss in wetland plant）, 中科院2区（Frontiers in Plant Science）, 通讯作者，论文链接[**Article**](https://doi.org/10.3389/fpls.2025.1736435)
 
 · Nov. 2025 --Guest Editor of the Research Topic article collection Research;
 Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
@@ -51,9 +53,9 @@ Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
 
 · May 26 2025	——邀请厦门大学蔡立哲教授为学校师生作学术报告 (海洋底栖生物的生态功能及其在近海碳循环中的作用机制) [**新闻链接**](https://www.jou.edu.cn/info/1164/40040.htm)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202505Cailizhe.jpg)
 
-· May 16 2025	———发表SCI论文一篇（Microbial pterins as potential indicators of organic carbon dynamics in estuarine and coastal sediments），中科院1区（Catena）论文链接[**Article**](https://doi.org/10.1016/j.catena.2025.109147)
+· May 16 2025	———发表SCI论文（Microbial pterins as potential indicators of organic carbon dynamics in estuarine and coastal sediments），中科院1区（Catena），通讯作者，论文链接[**Article**](https://doi.org/10.1016/j.catena.2025.109147)
 
-· May 11 2025	———发表SCI论文一篇（Microbial pterin biomolecules facilitate algal blooms in response to nutrient pressure in estuarine and coastal continuum），中科院2区（Marine Pollution Bulletin）论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2025.118137)
+· May 11 2025	———发表SCI论文（Microbial pterin biomolecules facilitate algal blooms in response to nutrient pressure in estuarine and coastal continuum），中科院2区（Marine Pollution Bulletin），通讯作者，论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2025.118137)
 
 · May 9 2025	——参加合肥全国第10届青年地学论坛-海洋地球科学专题（河流-河口-近海连续体碳循环的多尺度过程及其生态效应)，作口头报告(中国东南沿海生源蝶呤小分子的分布调控和生态指示) 大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202505Hefei.jpg)
 
@@ -77,7 +79,7 @@ Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
 
 · Nov. 2024	——国际媒体平台GROUNDTRUTH文章报道综述论文亮点(Title: Mangrove Makeover: Restoring Coasts for Carbon & Clean Seas) 报道链接[**EvidenceBasedForestNEWS**](https://groundtruth.app/mangrove-makeover-restoring-coasts-for-carbon-clean-seas/)
 
-· Oct. 2024	——与北大老迈（Uddin, Mohammad Mazbah）合作发表SCI综述论文1篇：How Does Mangrove Restoration or Reforestation Change Trace Metal Pollution in Mangrove Ecosystems? A Review of Current Knowledge（2/6）论文链接[**Article**](https://doi.org/10.3390/toxics12110812)
+· Oct. 2024	——与北大老迈（Uddin, Mohammad Mazbah）合作发表SCI综述论文：How Does Mangrove Restoration or Reforestation Change Trace Metal Pollution in Mangrove Ecosystems? A Review of Current Knowledge（2/6），共同作者，论文链接[**Article**](https://doi.org/10.3390/toxics12110812)
 
 · Oct. 2024	——共同荣获第五届江苏企业（研发机构）创新大赛电子信息与生物医药产业选拔赛—省级优秀奖（3/3）证书[**下载PDF**](https://meikang.netlify.app/project/certificate/2024LYGThirdPrize.pdf)
 
@@ -97,7 +99,7 @@ Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
 
 · Dec. 2023	——加入江苏海洋大学，开始Academic Career，开启新篇章，Good Luck to Me! 
 
-· Dec. 2023	——发表SCI论文一篇（Environmental Science and Pollution Research），中科院3区（Dynamics and geochemical responses of dissolved metals (Mn and Cu) in a subtropical estuary,China）论文链接[**Article**](https://doi.org/10.1007/s11356-023-31387-7)
+· Dec. 2023	——发表SCI论文（Environmental Science and Pollution Research），中科院3区（Dynamics and geochemical responses of dissolved metals (Mn and Cu) in a subtropical estuary,China），第一作者，论文链接[**Article**](https://doi.org/10.1007/s11356-023-31387-7)
 
 · Oct. 2023	——参加中国香港举办的The 15th UCAS  (两岸三地水环境科学研究高校联盟研究生论坛)	，Oral（Spatial-temporal Distribution and Regulatory Mechanism of Novel Biomarker Microbial Pterins in Xiamen Bay）报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/2023Hongkong15thUCAS.jpg)
 
@@ -112,7 +114,7 @@ Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
 
 · Apr. 2023	——获得厦门大学中国工行奖学金，校级奖学金
 
-· Mar. 2023	——发表SCI论文一篇（Marine Pollution Bulletin），中科院2区（Stimulation of oxalate root exudate in arsenic speciation and fluctuation with phosphate and iron in anoxic mangrove sediment）论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2023.114823)
+· Mar. 2023	——发表SCI论文（Marine Pollution Bulletin），中科院2区（Stimulation of oxalate root exudate in arsenic speciation and fluctuation with phosphate and iron in anoxic mangrove sediment），第一作者，论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2023.114823)
 
 · Dec. 2022	——获得学院宣传工作优秀个人，院级研究生荣誉称号
 
@@ -122,11 +124,9 @@ Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
 
 · Mar. 2022	——获得厦门大学2021校级-嘉梦海扬-社会实践活动优秀团队，校级荣誉
 
-· Feb. 2022	——发表SCI论文一篇（water）共同一作	中科院基础版3区，升级版4区（Phytoextraction and Antioxidant Defense of Mangrove  Seedling (Kandelia obovata) to Inorganic Arsenate Exposure). 论文链接[**Article**](https://doi.org/10.3390/w14040643)
+· Feb. 2022	——发表SCI论文（Phytoextraction and Antioxidant Defense of Mangrove  Seedling (Kandelia obovata) to Inorganic Arsenate Exposure），中科院3区（water），共同一作，论文链接[**Article**](https://doi.org/10.3390/w14040643)
 
-
-· Feb. 2022	——发表SCI论文一篇（Sustainability）	中科院3区（Transformation, Fluxes and Impacts of Dissolved Metals from Shallow Water Hydrothermal Vents on Nearby Ecosystem Offshore of Kueishantao NE Taiwan.论文链接[**Article**](https://doi.org/10.3390/su14031754)
-
+· Feb. 2022	——发表SCI论文（Transformation, Fluxes and Impacts of Dissolved Metals from Shallow Water Hydrothermal Vents on Nearby Ecosystem Offshore of Kueishantao NE-Taiwan），中科院3区（Sustainability），第一作者，论文链接[**Article**](https://doi.org/10.3390/su14031754)
 
 · Dec. 2021	——国家公派前往美国南加州大学进行联合培养，获得国家留学基金委奖学金资助
 
@@ -142,7 +142,7 @@ Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
 
 · Aug. 2021	——厦门大学互联网+大学生创新创业比赛，团体获得校赛银奖
 
-· Aug. 2021	——发表SCI论文一篇（Chemosphere），中科院2区TOP（Dynamics of low-molecular-weight organic acids for the extraction and sequestration of arsenic species and heavy metals using mangrove sediments）论文链接[**Article**](https://doi.org/10.1016/j.chemosphere.2021.131820)
+· Aug. 2021	——发表SCI论文（Dynamics of low-molecular-weight organic acids for the extraction and sequestration of arsenic species and heavy metals using mangrove sediments），中科院2区（Chemosphere），第一作者，论文链接[**Article**](https://doi.org/10.1016/j.chemosphere.2021.131820)
  
 · Jul. 2021	——参加上海举办的第六届地球系统科学大会，Poster (Dissolved metals transformation, fluxes from shallow water hydrothermal vents off Kueishantao Islet, Taiwan, China)
 
@@ -162,7 +162,7 @@ Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
 
 · Mar. 2021	——厦门大学闽都国际银行奖学金，获校级研究生奖学金
 
-· Feb. 2021	——发表 SCI论文一篇（Sicence of the total Environment）	中科院2区TOP、升级版1区 （Low-level arsenite boosts rhizospheric exudation of low-molecular-weight organic acids from mangrove seedlings (Avicennia marina): Arsenic phytoextraction, removal, and detoxification）论文链接[**Article**](https://doi.org/10.1016/j.scitotenv.2021.145685)
+· Feb. 2021	——发表SCI论文（Low-level arsenite boosts rhizospheric exudation of low-molecular-weight organic acids from mangrove seedlings (Avicennia marina): Arsenic phytoextraction, removal, and detoxification），中科院1区（Sicence of the total Environment），第一作者，论文链接[**Article**](https://doi.org/10.1016/j.scitotenv.2021.145685)
 
 · Jan. 2021	——CBBA国家级专业健身教练资格证，获得国家健身教练证书
 
@@ -192,7 +192,7 @@ Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
 
 · Aug. 2020	——厦门大学海洋国重MEL第五届研究生论坛，获科普最佳团队汇报奖
 
-· Jul. 2020	——发表 SCI论文一篇（Marine Pollution Bulletin），中科院2区TOP（The migrated behavior and bioavailability of arsenic in mangrove sediments affected by pH and organic acids）论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2020.111480)
+· Jul. 2020	——发表SCI论文（The migrated behavior and bioavailability of arsenic in mangrove sediments affected by pH and organic acids），中科院2区（Marine Pollution Bulletin），第一作者，论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2020.111480)
 
 · Jul. 2020	——厦门大学海洋与地球学院2020年”全国优秀大学生海洋科学夏令营” 活动，作为研究生代表分享海洋科考
 
