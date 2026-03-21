@@ -23,7 +23,7 @@ url_video: ""
 
 历来重要经历节点（更新中）：
 
- Mar 20 2026	———发表SCI论文（PMF-Driven Component-Particle Association Framework Establishes Dynamic Baselines for Objective Risk Assessment of Coastal Metal Pollution）, 中科院2区（Process Safety and Environmental Protection）,通讯作者， 论文链接[**Article**](https://doi.org/10.1016/j.psep.2026.108763)
+ · Mar 20 2026	———发表SCI论文（PMF-Driven Component-Particle Association Framework Establishes Dynamic Baselines for Objective Risk Assessment of Coastal Metal Pollution）, 中科院2区（Process Safety and Environmental Protection）,通讯作者， 论文链接[**Article**](https://doi.org/10.1016/j.psep.2026.108763)
 
 · Dec 19 2025	———发表SCI论文（Iron-mediated remediation of arsenic-induced suppression of root morphogenesis and radial oxygen loss in wetland plant）, 中科院2区（Frontiers in Plant Science）, 通讯作者，论文链接[**Article**](https://doi.org/10.3389/fpls.2025.1736435)
 
