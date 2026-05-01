@@ -21,11 +21,15 @@ url_slides: ""
 url_video: ""
 ---
 
-历来重要经历节点（更新中）：
+重要时间节点（更新中）：
 
-· April 01 2026	———发表SCI论文（Biomagnification potential and elevated carcinogenic risks of PAHs in a semi-enclosed bay food web: Evidence from Laizhou Bay, China）, 中科院2区（Marine Pollution Bulletin）,共同作者， 论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2026.119544)
+· April 10 2026	———发表SCI论文（Organic carbon mineralization and its impact on metal behavior in sediments of the Yellow Sea and East China Sea）, JCR=Q1（Journal of Marine Systems）,共同作者， 论文链接[**Article**](https://doi.org/10.1016/j.jmarsys.2026.104221)
 
- · Mar 20 2026	———发表SCI论文（PMF-Driven Component-Particle Association Framework Establishes Dynamic Baselines for Objective Risk Assessment of Coastal Metal Pollution）, 中科院2区（Process Safety and Environmental Protection）,通讯作者， 论文链接[**Article**](https://doi.org/10.1016/j.psep.2026.108763)
+· April 06 2026	———受邀参加厦门大学建校&海洋学科发展105周年暨海洋学系建系80周年庆祝活动，征文刊发[**查看原文**](https://meikang.netlify.app/project/certificate/2026Ocean80thArticle.jpg)  书法作品[**查看图片**](https://meikang.netlify.app/project/certificate/2026Ocean80thCalligraphyPoem.jpg) 圆桌论坛[**查看图片**](https://meikang.netlify.app/project/certificate/2026Ocean80thRoundtableForum.jpg)  晚会演出[**查看图片1**](https://meikang.netlify.app/project/certificate/2026Ocean80thCelebrationParty1.jpg) [**查看图片2**](https://meikang.netlify.app/project/certificate/2026Ocean80thCelebrationParty2.jpg) 
+
+· April 01 2026	———发表SCI论文（Biomagnification potential and elevated carcinogenic risks of PAHs in a semi-enclosed bay food web: Evidence from Laizhou Bay, China）, JCR=Q1（Marine Pollution Bulletin）,共同作者， 论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2026.119544)
+
+ · Mar 20 2026	———发表SCI论文（PMF-Driven Component-Particle Association Framework Establishes Dynamic Baselines for Objective Risk Assessment of Coastal Metal Pollution）, JCR=Q1（Process Safety and Environmental Protection）,通讯作者，  论文链接[**Article**](https://doi.org/10.1016/j.psep.2026.108763)
 
 · Dec 19 2025	———发表SCI论文（Iron-mediated remediation of arsenic-induced suppression of root morphogenesis and radial oxygen loss in wetland plant）, 中科院2区（Frontiers in Plant Science）, 通讯作者，论文链接[**Article**](https://doi.org/10.3389/fpls.2025.1736435)
 
@@ -66,16 +70,16 @@ Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
 · Apr.20 2025	——参加全国学术会议  (第十届全国生态毒理学大会，专题12.重金属环境过程与毒性效应机制)，作口头报告(湿地植物根系活动应对砷胁迫响应的解毒机制)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504JiaXingOral.jpg)
 
 · Apr.2 2025 ——受邀前往海南热带海洋学院作校友返校报告：“十年学术成长、国际视野与科学思考的求索分享”
- 链接[**新闻推送**](https://mp.weixin.qq.com/s/JNeZmSKOE71n-ydzkqwlFg)
+ 链接[**新闻推送**](https://mp.weixin.qq.com/s/JNeZmSKOE71n-ydzkqwlFg)报告现场[**照片**](https://meikang.netlify.app/project/certificate/2025HNTOU_Oral.png) 
 
 · Mar. 30, 2025	——Join and become the member of the Society for Ecological Restoration
  链接[**LoginLink**](https://www.ser.org/members/)
  
 · Jan. 2025	——参加会议配套—科普进校园StoryTeller活动，作为青年学者前往厦门金鸡岭小学传播海洋知识 链接[**XMAS2025**](https://mp.weixin.qq.com/s/2twBuBHKWg0BSgA0STe8EA)
 
-· Jan. 2025	——参加国际学术会议 2025 Xiamen Symposium on Marine Environmental Sciences (第七届厦门国际海洋环境科学开放大会)，作口头报告(Microbial pterins indicating organic carbon accumulation and degradability in estuarine and coastal sediments) 链接[**XMAS2025**](https://xmas.aconf.org/abstract/94.html?utm_source=chatgpt.com)
+· Jan. 2025	——参加国际学术会议 2025 Xiamen Symposium on Marine Environmental Sciences (第七届厦门国际海洋环境科学开放大会)，作口头报告(Microbial pterins indicating organic carbon accumulation and degradability in estuarine and coastal sediments) 链接[**XMAS2025**](https://xmas.aconf.org/abstract/94.html?utm_source=chatgpt.com)报告现场[**照片**](https://meikang.netlify.app/project/certificate/2025XMASOralPre.jpg) 
 
-· Nov. 2024	——受邀参加在印度尼西亚雅加达举办的第八届中国-东南亚国家海洋合作论坛，并作学术交流 链接[**自然资源部NEWS**](https://mp.weixin.qq.com/s/LKfDJAy2LcIJTFroeksFAQ?scene=25#wechat_redirect)
+· Nov. 2024	——受邀参加在印度尼西亚雅加达举办的第八届中国-东南亚国家海洋合作论坛，并作Poster Presentation学术交流报告 链接[**自然资源部NEWS**](https://mp.weixin.qq.com/s/LKfDJAy2LcIJTFroeksFAQ?scene=25#wechat_redirect)会议现场[**照片**](https://meikang.netlify.app/project/certificate/202411Jakarta.jpg) 
 
 · Nov. 2024	——共同荣获2024年连云港创新创业大赛（海洋产业专项赛）市级三等奖（3/3）[**下载PDF证书**](https://meikang.netlify.app/project/certificate/2024LYGThirdPrize.pdf)
 
