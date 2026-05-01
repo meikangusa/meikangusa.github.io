@@ -23,61 +23,63 @@ url_video: ""
 
 重要时间节点（更新中）：
 
-· April 10 2026	———发表SCI论文（Organic carbon mineralization and its impact on metal behavior in sediments of the Yellow Sea and East China Sea）, JCR=Q1（Journal of Marine Systems）,共同作者， 论文链接[**Article**](https://doi.org/10.1016/j.jmarsys.2026.104221)
+· May-01-2026	———发起国际学术会议XMAS2027专题会议（The Xiamen Symposium on Marine Environmental Sciences），Session 46 - Restoration Ecology in Coastal Systems: Biogeochemical Responses and Ecosystem Functioning，Restoration Ecology in Coastal Systems [**Session 46**](https://mel-xmas.net/all_session_proposal.html) [**查看详情**](https://meikang.netlify.app/project/certificate/2027XMAS_Session46.jpeg) 
+
+· April-10-2026	———发表SCI论文（Organic carbon mineralization and its impact on metal behavior in sediments of the Yellow Sea and East China Sea）, JCR=Q1（Journal of Marine Systems）,共同作者， 论文链接[**Article**](https://doi.org/10.1016/j.jmarsys.2026.104221)
 
 · April 06 2026	———受邀参加厦门大学建校&海洋学科发展105周年暨海洋学系建系80周年庆祝活动，征文刊发[**查看原文**](https://meikang.netlify.app/project/certificate/2026Ocean80thArticle.jpg)  书法作品[**查看图片**](https://meikang.netlify.app/project/certificate/2026Ocean80thCalligraphyPoem.jpg) 圆桌论坛[**查看图片**](https://meikang.netlify.app/project/certificate/2026Ocean80thRoundtableForum.jpg)  晚会演出[**查看图片1**](https://meikang.netlify.app/project/certificate/2026Ocean80thCelebrationParty1.jpg) [**查看图片2**](https://meikang.netlify.app/project/certificate/2026Ocean80thCelebrationParty2.jpg) 
 
-· April 01 2026	———发表SCI论文（Biomagnification potential and elevated carcinogenic risks of PAHs in a semi-enclosed bay food web: Evidence from Laizhou Bay, China）, JCR=Q1（Marine Pollution Bulletin）,共同作者， 论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2026.119544)
+· April-01-2026	———发表SCI论文（Biomagnification potential and elevated carcinogenic risks of PAHs in a semi-enclosed bay food web: Evidence from Laizhou Bay, China）, JCR=Q1（Marine Pollution Bulletin）,共同作者， 论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2026.119544)
 
- · Mar 20 2026	———发表SCI论文（PMF-Driven Component-Particle Association Framework Establishes Dynamic Baselines for Objective Risk Assessment of Coastal Metal Pollution）, JCR=Q1（Process Safety and Environmental Protection）,通讯作者，  论文链接[**Article**](https://doi.org/10.1016/j.psep.2026.108763)
+ · Mar-20-2026	———发表SCI论文（PMF-Driven Component-Particle Association Framework Establishes Dynamic Baselines for Objective Risk Assessment of Coastal Metal Pollution）, JCR=Q1（Process Safety and Environmental Protection）,通讯作者，  论文链接[**Article**](https://doi.org/10.1016/j.psep.2026.108763)
 
-· Dec 19 2025	———发表SCI论文（Iron-mediated remediation of arsenic-induced suppression of root morphogenesis and radial oxygen loss in wetland plant）, 中科院2区（Frontiers in Plant Science）, 通讯作者，论文链接[**Article**](https://doi.org/10.3389/fpls.2025.1736435)
+· Dec-19-2025	———发表SCI论文（Iron-mediated remediation of arsenic-induced suppression of root morphogenesis and radial oxygen loss in wetland plant）, 中科院2区（Frontiers in Plant Science）, 通讯作者，论文链接[**Article**](https://doi.org/10.3389/fpls.2025.1736435)
 
-· Nov. 2025 --Guest Editor of the Research Topic article collection Research;
+· Nov-2025 --Guest Editor of the Research Topic article collection Research;
 Hosting Journal: Frontiers in Marine Science - section Marine Ecosystem Ecology
 [**Click_Topic_Link: Mangrove Restoration and Its Ecological Consequences**](https://www.frontiersin.org/research-topics/73568/mangrove-restoration-and-its-ecological-consequences) 
 
-· Sep 17 2025	——喜获双创三等奖，连云港市第七届“花果山英才”创新创业大赛海外人才暨博士后专场分站赛[**领奖照片**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetition.png)现场参会[**现场报告**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetition1.jpg) & [**获奖证书**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetitionCertificate.png)
+· Sep-17-2025	——喜获双创三等奖，连云港市第七届“花果山英才”创新创业大赛海外人才暨博士后专场分站赛[**领奖照片**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetition.png)现场参会[**现场报告**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetition1.jpg) & [**获奖证书**](https://meikang.netlify.app/project/certificate/202509LianyugangPostdocCompetitionCertificate.png)
 
-· July 23 2025	——赴内蒙古呼和浩特参加2025年土壤与地下水风险防控与生态修复技术交流大会并做口头报告[**报告照片**](https://meikang.netlify.app/project/certificate/202507HuhhotTalkphoto.jpg)现场参会[**会场合照**](https://meikang.netlify.app/project/certificate/202507HuhhotGroupphoto.jpg)
+· July-23-2025	——赴内蒙古呼和浩特参加2025年土壤与地下水风险防控与生态修复技术交流大会并做口头报告[**报告照片**](https://meikang.netlify.app/project/certificate/202507HuhhotTalkphoto.jpg)现场参会[**会场合照**](https://meikang.netlify.app/project/certificate/202507HuhhotGroupphoto.jpg)
 
-· July 14 2025	——赴厦门参加海洋碳循环前言论坛暨厦门大学海洋碳循环研究组成立25周年研讨会；戴民汉院士主持[**报告照片**](https://meikang.netlify.app/project/certificate/202507OCG25thMinhanDaiOpeningTalk.jpg)现场参会[**全体合照**](https://meikang.netlify.app/project/certificate/202507OCG25thGroupPhoto.jpg)现场致辞[**查看发言**](https://meikang.netlify.app/project/certificate/202507OCG25thBlessing.jpg)
+· July-14-2025	——赴厦门参加海洋碳循环前言论坛暨厦门大学海洋碳循环研究组成立25周年研讨会；戴民汉院士主持[**报告照片**](https://meikang.netlify.app/project/certificate/202507OCG25thMinhanDaiOpeningTalk.jpg)现场参会[**全体合照**](https://meikang.netlify.app/project/certificate/202507OCG25thGroupPhoto.jpg)现场致辞[**查看发言**](https://meikang.netlify.app/project/certificate/202507OCG25thBlessing.jpg)
 
-· July 11 2025	——获批中国博士后科学基金第77批面上基金资助[**查看证书**](https://meikang.netlify.app/project/certificate/2025China77thPosdocScienceFoundation.pdf) 
+· July-11-2025	——获批中国博士后科学基金第77批面上基金资助[**查看证书**](https://meikang.netlify.app/project/certificate/2025China77thPosdocScienceFoundation.pdf) 
 
-· July 1 2025	——参加厦门大学、台湾海洋大学、香港城市大学和北京大学联合举办的国际暑期班(Summer School on Climate Change & Ocean Health)现场 [**报告照片**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolTalkphoto.jpg)口头汇报[**颁奖合照**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolGroupphoto.jpg)获最佳口头报告荣誉[**查看证书**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolCertificate.jpg)
+· July-1-2025	——参加厦门大学、台湾海洋大学、香港城市大学和北京大学联合举办的国际暑期班(Summer School on Climate Change & Ocean Health)现场 [**报告照片**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolTalkphoto.jpg)口头汇报[**颁奖合照**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolGroupphoto.jpg)获最佳口头报告荣誉[**查看证书**](https://meikang.netlify.app/project/certificate/202507XiamenSummerSchoolCertificate.jpg)
 
-· Jun 22 2025	——在微信公众号【天然有机质情报】上发表论文工作的研究亮点推送——【视点】江苏海洋大学：微生物蝶呤小分子在河口藻华监测与沉积物碳循环中的生物指示作用[**查看推文**](https://mp.weixin.qq.com/s/puTa4iwY9M4YGz45NKFh2A) 
+· Jun-22-2025	——在微信公众号【天然有机质情报】上发表论文工作的研究亮点推送——【视点】江苏海洋大学：微生物蝶呤小分子在河口藻华监测与沉积物碳循环中的生物指示作用[**查看推文**](https://mp.weixin.qq.com/s/puTa4iwY9M4YGz45NKFh2A) 
 
-· Jun 12 2025	——赴深圳参加人力资源和社会保障部事业单位人事服务中心举办的2025年全国博士后工作管理人员培训班[**查看证书**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTraining.JPG) 现场照片[**查看照片**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTrainingCourse.JPG)
+· Jun-12-2025	——赴深圳参加人力资源和社会保障部事业单位人事服务中心举办的2025年全国博士后工作管理人员培训班[**查看证书**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTraining.JPG) 现场照片[**查看照片**](https://meikang.netlify.app/project/certificate/202506PostdocAdminTrainingCourse.JPG)
 
-· June 2025	——获批2025国家留学基金委公派出国留学资助（高级访问学者）[**查看证书**](https://meikang.netlify.app/project/certificate/202507CSC_Scholarship.jpg) 
+· June-2025	——获批2025国家留学基金委公派出国留学资助（高级访问学者）[**查看证书**](https://meikang.netlify.app/project/certificate/202507CSC_Scholarship.jpg) 
 
-· Jun 6 2025	——受邀在海洋科学与水产学院为小企业海洋保护社团作学术报告分享(海洋碳循环失衡如何引发生态灾害？) [**报告照片**](https://meikang.netlify.app/project/certificate/202506Talk.jpg)SpaceSelfie的[**集体合照**](https://meikang.netlify.app/project/certificate/2025TalkJOUClassPhoto.jpg)
+· Jun-6-2025	——受邀在海洋科学与水产学院为小企业海洋保护社团作学术报告分享(海洋碳循环失衡如何引发生态灾害？) [**报告照片**](https://meikang.netlify.app/project/certificate/202506Talk.jpg)SpaceSelfie的[**集体合照**](https://meikang.netlify.app/project/certificate/2025TalkJOUClassPhoto.jpg)
 
-· May 30 2025	——参加2025届海洋科学本科生毕业论文答辩 [**查看照片**](https://meikang.netlify.app/project/certificate/2025MarineScienceUndergraduateDefense.jpg)
+· May-30-2025	——参加2025届海洋科学本科生毕业论文答辩 [**查看照片**](https://meikang.netlify.app/project/certificate/2025MarineScienceUndergraduateDefense.jpg)
 
-· May 26 2025	——邀请厦门大学蔡立哲教授为学校师生作学术报告 (海洋底栖生物的生态功能及其在近海碳循环中的作用机制) [**新闻链接**](https://www.jou.edu.cn/info/1164/40040.htm)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202505Cailizhe.jpg)
+· May-26-2025	——邀请厦门大学蔡立哲教授为学校师生作学术报告 (海洋底栖生物的生态功能及其在近海碳循环中的作用机制) [**新闻链接**](https://www.jou.edu.cn/info/1164/40040.htm)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202505Cailizhe.jpg)
 
-· May 16 2025	———发表SCI论文（Microbial pterins as potential indicators of organic carbon dynamics in estuarine and coastal sediments），中科院1区（Catena），通讯作者，论文链接[**Article**](https://doi.org/10.1016/j.catena.2025.109147)
+· May-16-2025	———发表SCI论文（Microbial pterins as potential indicators of organic carbon dynamics in estuarine and coastal sediments），中科院1区（Catena），通讯作者，论文链接[**Article**](https://doi.org/10.1016/j.catena.2025.109147)
 
-· May 11 2025	———发表SCI论文（Microbial pterin biomolecules facilitate algal blooms in response to nutrient pressure in estuarine and coastal continuum），中科院2区（Marine Pollution Bulletin），通讯作者，论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2025.118137)
+· May-11-2025	———发表SCI论文（Microbial pterin biomolecules facilitate algal blooms in response to nutrient pressure in estuarine and coastal continuum），中科院2区（Marine Pollution Bulletin），通讯作者，论文链接[**Article**](https://doi.org/10.1016/j.marpolbul.2025.118137)
 
-· May 9 2025	——参加合肥全国第10届青年地学论坛-海洋地球科学专题（河流-河口-近海连续体碳循环的多尺度过程及其生态效应)，作口头报告(中国东南沿海生源蝶呤小分子的分布调控和生态指示) 大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202505Hefei.jpg)
+· May-9-2025	——参加合肥全国第10届青年地学论坛-海洋地球科学专题（河流-河口-近海连续体碳循环的多尺度过程及其生态效应)，作口头报告(中国东南沿海生源蝶呤小分子的分布调控和生态指示) 大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202505Hefei.jpg)
 
-· Apr.25 2025	——参加全国学术会议  (第四届人工智能海洋学论坛)大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504Zhoushan.jpg)
+· Apr-25-2025	——参加全国学术会议  (第四届人工智能海洋学论坛)大会现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504Zhoushan.jpg)
 
-· Apr.20 2025	——参加全国学术会议  (第十届全国生态毒理学大会，专题12.重金属环境过程与毒性效应机制)，作口头报告(湿地植物根系活动应对砷胁迫响应的解毒机制)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504JiaXingOral.jpg)
+· Apr-20-2025	——参加全国学术会议  (第十届全国生态毒理学大会，专题12.重金属环境过程与毒性效应机制)，作口头报告(湿地植物根系活动应对砷胁迫响应的解毒机制)报告现场[**查看照片**](https://meikang.netlify.app/project/certificate/202504JiaXingOral.jpg)
 
-· Apr.2 2025 ——受邀前往海南热带海洋学院作校友返校报告：“十年学术成长、国际视野与科学思考的求索分享”
+· Apr-2-2025 ——受邀前往海南热带海洋学院作校友返校报告：“十年学术成长、国际视野与科学思考的求索分享”
  链接[**新闻推送**](https://mp.weixin.qq.com/s/JNeZmSKOE71n-ydzkqwlFg)报告现场[**照片**](https://meikang.netlify.app/project/certificate/2025HNTOU_Oral.png) 
 
-· Mar. 30, 2025	——Join and become the member of the Society for Ecological Restoration
+· Mar-30-2025	——Join and become the member of the Society for Ecological Restoration
  链接[**LoginLink**](https://www.ser.org/members/)
  
-· Jan. 2025	——参加会议配套—科普进校园StoryTeller活动，作为青年学者前往厦门金鸡岭小学传播海洋知识 链接[**XMAS2025**](https://mp.weixin.qq.com/s/2twBuBHKWg0BSgA0STe8EA)
+· Jan-2025	——参加会议配套—科普进校园StoryTeller活动，作为青年学者前往厦门金鸡岭小学传播海洋知识 链接[**XMAS2025**](https://mp.weixin.qq.com/s/2twBuBHKWg0BSgA0STe8EA)
 
-· Jan. 2025	——参加国际学术会议 2025 Xiamen Symposium on Marine Environmental Sciences (第七届厦门国际海洋环境科学开放大会)，作口头报告(Microbial pterins indicating organic carbon accumulation and degradability in estuarine and coastal sediments) 链接[**XMAS2025**](https://xmas.aconf.org/abstract/94.html?utm_source=chatgpt.com)报告现场[**照片**](https://meikang.netlify.app/project/certificate/2025XMASOralPre.jpg) 
+· Jan-2025	——参加国际学术会议 2025 Xiamen Symposium on Marine Environmental Sciences (第七届厦门国际海洋环境科学开放大会)，作口头报告(Microbial pterins indicating organic carbon accumulation and degradability in estuarine and coastal sediments) 链接[**XMAS2025**](https://xmas.aconf.org/abstract/94.html?utm_source=chatgpt.com)报告现场[**照片**](https://meikang.netlify.app/project/certificate/2025XMASOralPre.jpg) 
 
 · Nov. 2024	——受邀参加在印度尼西亚雅加达举办的第八届中国-东南亚国家海洋合作论坛，并作Poster Presentation学术交流报告 链接[**自然资源部NEWS**](https://mp.weixin.qq.com/s/LKfDJAy2LcIJTFroeksFAQ?scene=25#wechat_redirect)会议现场[**照片**](https://meikang.netlify.app/project/certificate/202411Jakarta.jpg) 
 
