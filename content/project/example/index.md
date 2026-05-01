@@ -23,7 +23,7 @@ url_video: ""
 
 重要时间节点（更新中）：
 
-· May-01-2026	———发起国际学术会议XMAS2027专题会议（The Xiamen Symposium on Marine Environmental Sciences），Session 46 - Restoration Ecology in Coastal Systems: Biogeochemical Responses and Ecosystem Functioning，Restoration Ecology in Coastal Systems [**Session 46**](https://mel-xmas.net/all_session_proposal.html) [**查看详情**](https://meikang.netlify.app/project/certificate/2027XMAS_Session46.jpeg) 
+· May-01-2026	———发起国际学术会议XMAS2027专题会议（The Xiamen Symposium on Marine Environmental Sciences），[**Session 46**](https://mel-xmas.net/all_session_proposal.html) - Restoration Ecology in Coastal Systems: Biogeochemical Responses and Ecosystem Functioning，Restoration Ecology in Coastal Systems  [**查看详情**](https://meikang.netlify.app/project/certificate/2027XMAS_Session46.jpeg) 
 
 · April-10-2026	———发表SCI论文（Organic carbon mineralization and its impact on metal behavior in sediments of the Yellow Sea and East China Sea）, JCR=Q1（Journal of Marine Systems）,共同作者， 论文链接[**Article**](https://doi.org/10.1016/j.jmarsys.2026.104221)
 
