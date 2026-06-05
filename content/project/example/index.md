@@ -21,7 +21,9 @@ url_slides: ""
 url_video: ""
 ---
 
-重要时间节点（更新中）：
+时间节点（更新中）：
+
+· May-16-2026	———发表SCI论文（Quantification of cellular biopterin during the culture of marine microalgae using reversed-phase HPLC-FLD method）, JCR=Q1（Journal of Applied Phycology ）,通讯作者，论文链接[**Article**](https://link.springer.com/article/10.1007/s10811-026-03870-4)
 
 · May-01-2026	———发起国际学术会议XMAS2027专题会议（The Xiamen Symposium on Marine Environmental Sciences），[**Session 46**](https://mel-xmas.net/all_session_proposal.html) - Restoration Ecology in Coastal Systems: Biogeochemical Responses and Ecosystem Functioning，Restoration Ecology in Coastal Systems  [**查看详情**](https://meikang.netlify.app/project/certificate/2027XMAS_Session46.jpeg) 
 
