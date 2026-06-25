@@ -21,7 +21,8 @@ url_slides: ""
 url_video: ""
 ---
 
-时间节点（更新中）：
+时间节点（持续更新ing）：
+· June-22-2026	———发表SCI论文（Iron plaque drives mangrove arsenic detoxification and root adaptation in coastal wetland Avicennia marina seedlings）, JCR=Q1（Marine Environmental Research）,通讯作者，论文链接[**Article**](https://doi.org/10.1016/j.marenvres.2026.108218)
 
 · May-16-2026	———发表SCI论文（Quantification of cellular biopterin during the culture of marine microalgae using reversed-phase HPLC-FLD method）, JCR=Q1（Journal of Applied Phycology ）,通讯作者，论文链接[**Article**](https://link.springer.com/article/10.1007/s10811-026-03870-4)
 
