@@ -22,6 +22,7 @@ url_video: ""
 ---
 
 时间节点（持续更新ing）：
+
 · Aug-05-2026	———发表SCI论文（Differential effects of Cytochrome c and secondary metabolites on hexavalent chromium reduction in estuarine wetland sediments. Water Research (2026): 126629. (IF2026 =12.8, JCR: Q1),共同作者，论文链接[**Article**](https://doi.org/10.1016/j.watres.2026.126629 )
 
 · July-01-2026	———发表SCI论文（Microbial Influence on Carbon Storage and Trace Element Speciation in Restored and Natural Mangrove Sediments: A Synthesis of the Current Understanding. Microorganisms 14, no. 8 (2026): 1662. (IF2026 =4.698, JCR: Q1),共同作者，论文链接[**Article**](https://doi.org/10.3390/microorganisms14081662)
