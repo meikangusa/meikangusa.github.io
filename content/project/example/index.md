@@ -22,6 +22,12 @@ url_video: ""
 ---
 
 时间节点（持续更新ing）：
+· Aug-05-2026	———发表SCI论文（Li, Jian, Jiaojiao Xia, Zhanrui Leng, Chunjiang He, Xue Fan, Kang Mei, and Zhiliang Li. Differential effects of Cytochrome c and secondary metabolites on hexavalent chromium reduction in estuarine wetland sediments. Water Research (2026): 126629. (IF2026 =12.8, JCR: Q1),共同作者，论文链接[**Article**](https://doi.org/10.1016/j.watres.2026.126629 )
+
+· July-01-2026	———发表SCI论文（Uddin, Mohammad Mazbah, Tariqul Islam, MM Abdullah Al Mamun, Md Akramul Islam, Kang Mei, Chengfeng Xue, and Yining Chen. Microbial Influence on Carbon Storage and Trace Element Speciation in Restored and Natural Mangrove Sediments: A Synthesis of the Current Understanding. Microorganisms 14, no. 8 (2026): 1662. (IF2026 =4.698, JCR: Q1),共同作者，论文链接[**Article**](https://doi.org/10.3390/microorganisms14081662)
+
+· July 2026	——荣获优秀博士后荣誉称号[**下载PDF证书**](https://meikang.netlify.app/project/certificate/2026ExcellentPostdoc.pdf)
+
 · June-22-2026	———发表SCI论文（Iron plaque drives mangrove arsenic detoxification and root adaptation in coastal wetland Avicennia marina seedlings）, JCR=Q1（Marine Environmental Research）,通讯作者，论文链接[**Article**](https://doi.org/10.1016/j.marenvres.2026.108218)
 
 · May-16-2026	———发表SCI论文（Quantification of cellular biopterin during the culture of marine microalgae using reversed-phase HPLC-FLD method）, JCR=Q1（Journal of Applied Phycology ）,通讯作者，论文链接[**Article**](https://link.springer.com/article/10.1007/s10811-026-03870-4)
