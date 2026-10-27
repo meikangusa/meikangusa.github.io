@@ -23,6 +23,8 @@ url_video: ""
 
 时间节点（持续更新ing）：
 
+· Oct-16-2026	——参加第36届校运会获男子1500米第三名[**获奖成绩**](https://meikang.netlify.app/project/certificate/2026SportMeet1500.jpg)现场参会[**现场照片**](https://meikang.netlify.app/project/certificate/2026SportMeetPrize.jpg)
+
 · Sep-24/25-2026	——赴泰国曼谷参加第九届中国—东南亚国家海洋合作论坛并做展报报告[**报告照片**](https://meikang.netlify.app/project/certificate/2026BangkokPoster.jpg)现场参会[**会场照片**](https://meikang.netlify.app/project/certificate/2026BangkokMei.jpg)
 
 · Aug-05-2026	———发表SCI论文（Differential effects of Cytochrome c and secondary metabolites on hexavalent chromium reduction in estuarine wetland sediments. Water Research (2026): 126629. (IF2026 =12.8, JCR: Q1),共同作者，论文链接[**Article**](https://doi.org/10.1016/j.watres.2026.126629 )
